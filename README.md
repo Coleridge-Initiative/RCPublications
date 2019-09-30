@@ -5,7 +5,7 @@ This repo provides `publications.json`, metadata on publications - for our publi
 The dataset linkage (represented by `related_dataset` field - see more below) originates from manually-curated relationships documented in multiple [drops](https://github.com/NYU-CI/RichContextMetadata/tree/master/metadata) provided by a community of researchers.
 
 # Instructions for Adding new publications
-1. Add publications
+1. Add publications, working from `publications_export_template.ipynb`
 2. Run unit test (`test.py`)
 
 ## 1. Adding publications 
