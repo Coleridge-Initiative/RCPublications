@@ -3,7 +3,8 @@
     "title": "Estimation of Underreporting in Diary Surveys: An Application using the National Household Food Acquisition and Purchase Survey",
     "datasets": [
       "dataset-025"
-    ]
+    ],
+    "url": "https://academic.oup.com/jssam/article/doi/10.1093/jssam/smz024/5566331/"
   },
   {
     "title": "Lessons learned from the national household food acquisition and purchase survey in the United States",
@@ -93,28 +94,28 @@
     ]
   },
   {
-    "title": "<Cleary2017Describing U.S. Households2019 Food Purchasing Patterns-EFSNE Market Basket.pdf>",
+    "title": "Describing U.S. Households Food Purchasing Patterns across Poverty and Urban Status: The EFSNE project Market Basket",
     "datasets": [
       "dataset-001",
       "dataset-002"
     ]
   },
   {
-    "title": "<Fan_et_al-2018-Agricultural_Economics.pdf>",
+    "title": "Does a nutritious diet cost more in food deserts?",
     "datasets": [
       "dataset-001",
       "dataset-002"
     ]
   },
   {
-    "title": "<Handbury2016.pdf>",
+    "title": "IS THE FOCUS ON FOOD DESERTS FRUITLESS? RETAIL ACCESS AND FOOD PURCHASES ACROSS THE SOCIOECONOMIC SPECTRUM",
     "datasets": [
       "dataset-001",
       "dataset-002"
     ]
   },
   {
-    "title": "<tb-1949.pdf>",
+    "title": "FoodAPS Data Now Available to the General Public",
     "datasets": [
       "dataset-001",
       "dataset-002"
@@ -271,12 +272,11 @@
     "doi": "10.2105/ajph.2011.101101868"
   },
   {
-    "title": "<Socioeconomic trends in household food expenditures Comparing objective food shopping receipts vs selfreports.pdf>",
-    "datasets": []
-  },
-  {
-    "title": "<Socioeconomic trends in household food expenditures Comparing objective food- Thesis.pdf>",
-    "datasets": []
+    "title": "Socioeconomic trends in household food expenditures: Comparing objective food shopping receipts vs. self-reports",
+    "datasets": [
+      "dataset-314"
+    ],
+    "url": "https://digital.lib.washington.edu/researchworks/handle/1773/25447"
   },
   {
     "title": "ANDALE Pittsburgh: results of a promotora-led, home-based intervention to promote a healthy weight in Latino preschool children",
@@ -700,8 +700,11 @@
     ]
   },
   {
-    "title": "<LOW-INCOME AND LOW-ACCESS.pdf>",
-    "datasets": []
+    "title": "The Use of Food Pantries and Soup Kitchens by Low-Income Households",
+    "datasets": [
+      "dataset-025"
+    ],
+    "url": "https://econpapers.repec.org/scripts/redir.pf?u=http%3A%2F%2Fageconsearch.umn.edu%2Frecord%2F236172%2Ffiles%2FThe%2520Use%2520of%2520Food%2520Pantry%2520by%2520Low-Income%2520Households%2520AAEA%2520Paper%25202016.pdf;h=repec:ags:aaea16:236172"
   },
   {
     "title": "Socioeconomic, Demographic and Geographic Factors Affecting Household Food Purchase and Acquisition Decisions in the United States as a Complex Economic System",
@@ -735,8 +738,11 @@
     ]
   },
   {
-    "title": "<FoodAPS Data Now Available to the General Public.pdf>",
-    "datasets": []
+    "title": "FoodAPS Data Now Available to the General Public",
+    "datasets": [
+      "dataset-025"
+    ],
+    "url": "https://www.ers.usda.gov/amber-waves/2016/december/foodaps-data-now-available-to-the-general-public/"
   },
   {
     "title": "Recent Evidence on the Effects of Food Store Access on Food Choice and Diet Quality",
@@ -781,11 +787,11 @@
     "doi": "10.1371/journal.pone.0109051.g001"
   },
   {
-    "title": "<Social Determinants and International Comparisons of Health and M.pdf>",
+    "title": "Social Determinants and International Comparisons of Health and Mortality",
     "datasets": []
   },
   {
-    "title": "<THE EFFECT OF WORK AND PARENTAL ROLE OCCUPANCY AND ROLE.pdf>",
+    "title": "THE EFFECT OF WORK AND PARENTAL ROLE OCCUPANCY AND ROLE PERFORMANCE ON EXERCISE PARTICIPATION AMONG U.S. ADULTS",
     "datasets": []
   },
   {
@@ -797,7 +803,7 @@
     "doi": "10.3390/diseases6040105"
   },
   {
-    "title": "<nihms789524.pdf>",
+    "title": "REFLECTIONS ON MEASURING TIME ALONE",
     "datasets": []
   },
   {
@@ -1178,7 +1184,7 @@
     "doi": "10.1017/S1368980013000761"
   },
   {
-    "title": "<Masron, Gapor, & Ismail (2014).pdf>",
+    "title": "Spatial Mapping of Food Security in Mukim Pendang, Kedah, Malaysia",
     "datasets": []
   },
   {
@@ -2257,6 +2263,15 @@
     "doi": "10.5888/pcd12.140368"
   },
   {
+    "title": "Food insecurity: What is the clinician's role?",
+    "datasets": [
+      "dataset-312",
+      "dataset-313"
+    ],
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592289/",
+    "doi": "10.1503/cmaj.150644"
+  },
+  {
     "title": "Association between household food insecurity and annual health care costs",
     "datasets": [
       "dataset-049"
@@ -2575,6 +2590,22 @@
       "dataset-049"
     ],
     "doi": "10.3102/0013189x17741303"
+  },
+  {
+    "title": "Relation between household food insecurity and breastfeeding in Canada",
+    "datasets": [
+      "dataset-313"
+    ],
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5860892/",
+    "doi": "10.1503/cmaj.170880"
+  },
+  {
+    "title": "Food insecurity and breastfeeding",
+    "datasets": [
+      "dataset-313"
+    ],
+    "url": "http://www.cmaj.ca/content/190/11/E310",
+    "doi": "10.1503/cmaj.180167"
   },
   {
     "title": "Relation between household food insecurity and breastfeeding in Canada",
