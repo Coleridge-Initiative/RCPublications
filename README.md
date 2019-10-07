@@ -25,7 +25,7 @@ Convert publication linkages to a `publications.json` partition publications, wo
 ### Required Fields
 At a minimum, each record in the `publications.json` file must have
   * `title` -- name of the publication
-  * `related_dataset` -- list of one or more `id` from [`datasets.json`](https://github.com/NYU-CI/RCDatasets/datasets.json)
+  * `datasets` -- list of one or more `id` from [`datasets.json`](https://github.com/NYU-CI/RCDatasets/datasets.json)
 If any of these fields don't exist, filter out once you read in the csv before exporting to json.
 
 ### Additional fields
