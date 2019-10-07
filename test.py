@@ -35,7 +35,7 @@ class TestVerifypublications (unittest.TestCase):
     def setUp (self):
         """load the publications list"""
         self.publications = []
-        list_of_files = glob.glob('/Users/sophierand/RCPublications/partitions/*.json') # * means all if need specific format then *.csv
+        list_of_files = glob.glob('/Users/sophierand/RCPublications/partitions/*.json')
         filename = max(list_of_files, key=os.path.getctime)
         # filename = 'foo.json'
         self.filename = filename
