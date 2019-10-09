@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Supply-side subsidies to improve food access and dietary outcomes: Evidence from the New Markets Tax Credit",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "dataset_name": "IRI Consumer Network",
+      "journal": "Urban Studies",
+      "doi": "10.1177/0042098017740285"
+    }
+  },
+  {
+    "title": "The healthfulness of food and beverage purchases after the federal food package revisions: The case of two New England states",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "dataset_name": "IRI Consumer Network",
+      "journal": "Preventive Medicine",
+      "doi": "10.1016/j.ypmed.2016.08.018"
+    }
+  },
+  {
+    "title": "Relationships between Diet, Alcohol Preference, and Heart Disease and Type 2 Diabetes among Americans",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "dataset_name": "IRI Consumer Network",
+      "journal": "Plos One",
+      "doi": "10.1371/journal.pone.0124351"
+    }
+  },
+  {
+    "title": "A comparative analysis of hedonic models of nutrition information and health claims on food products: An application to soup products",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "dataset_name": "IRI InfoScan",
+      "journal": "Journal of Food Products Marketing",
+      "doi": "10.1080/10454446.2018.1428259"
+    }
+  },
+  {
+    "title": "Evidence from Retail Food Markets That Consumers Are Confused by Natural and Organic Food Labels",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "dataset_name": "IRI InfoScan",
+      "journal": "Journal of Consumer Policy",
+      "doi": "10.1007/s10603-018-9396-x"
+    }
+  },
+  {
+    "title": "A new approach to estimate household food demand with panel data",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "dataset_name": "IRI Consumer Network",
+      "journal": "Journal of Applied Economics",
+      "doi": "10.1080/15140326.2018.1526869"
+    }
+  },
+  {
+    "title": "The effects of retail concentration on retail dairy product prices in the United States",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "dataset_name": "IRI InfoScan",
+      "journal": "J Dairy Sci",
+      "doi": "10.3168/jds.2015-10410"
+    }
+  },
+  {
+    "title": "No Fat, No Sugar, No Salt . . . No Problem? Prevalence of \"Low-Content\" Nutrient Claims and Their Associations with the Nutritional Profile of Food and Beverage Purchases in the United States",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "dataset_name": "IRI Consumer Network",
+      "journal": "J Acad Nutr Diet",
+      "doi": "10.1016/j.jand.2017.01.011"
+    }
+  },
+  {
+    "title": "Consumers' welfare and off-season produce imports",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "dataset_name": "IRI InfoScan",
+      "journal": "European Review of Agricultural Economics",
+      "doi": "10.1093/erae/jbv032"
+    }
+  },
+  {
+    "title": "The relationship between price and retail concentration: evidence from the US food industry",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "dataset_name": "IRI InfoScan",
+      "journal": "European Review of Agricultural Economics",
+      "doi": "10.1093/erae/jby026"
+    }
+  },
+  {
+    "title": "Documenting the Link Between Poor Food Access and Less Healthy Product Assortment Across the U.S",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "dataset_name": "IRI InfoScan",
+      "journal": "Applied Economic Perspectives and Policy",
+      "doi": "10.1093/aepp/ppy018"
+    }
+  },
+  {
+    "title": "Spatial and Temporal Variation in the Value of the Women, Infants, and Children Program's Fruit and Vegetable Voucher",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "dataset_name": "IRI InfoScan",
+      "journal": "American Journal of Agricultural Economics",
+      "doi": "10.1093/ajae/aay002"
+    }
+  },
+  {
+    "title": "Chronic Disease, Prescription Medications, and Food Purchases",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "dataset_name": "IRI Consumer Network",
+      "journal": "Am J Health Promot",
+      "doi": "10.1177/0890117117740935"
+    }
+  },
+  {
+    "title": "The Healthfulness of Food-at-Home Expenditures, the Local Food Environment, and Childhood Obesity",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "dataset_name": "IRI Consumer Network",
+      "journal": "Am J Health Promot",
+      "doi": "10.1177/0890117118786871"
+    }
+  },
+  {
+    "title": "Modeling price transmission between farm and retail prices: a soft switches approach",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "dataset_name": "IRI Consumer Network",
+      "journal": "Agricultural Economics",
+      "doi": "10.1111/agec.12222"
+    }
+  },
+  {
+    "title": "The quantity and variety of households' meat purchases: A censored demand system approach",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "dataset_name": "IRI Consumer Network",
+      "journal": "Agricultural Economics",
+      "doi": "10.1111/agec.12143"
+    }
+  }
+]
