@@ -21,7 +21,8 @@ Filter out/delete any entries that don't have these fields before proceeding.
 
 If your csv has a doi but no url, construct a url in a new column in the csv before proceeding, as follows:
 `https://www.doi.org/<doi>`
-Excel code: ="https://www.doi.org/" & `<doi_cell>`
+
+Excel code: `="https://www.doi.org/" & <doi_cell>`
 
 ## 2. Publishing publications linkages as a partition
 Convert publication linkages to a `publications.json` partition publications, working from `publications_export_template.ipynb`
