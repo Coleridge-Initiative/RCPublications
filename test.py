@@ -79,17 +79,17 @@ class TestVerifypublications (unittest.TestCase):
                     raise Exception("{}: unknown field name {}".format(publication["title"], key))
 
 
-    def test_unique_titles (self):
-        print('testing {} file now'.format(self.filename))
-        title_set = set([])
+    # def test_unique_titles (self):
+    #     print('testing {} file now'.format(self.filename))
+    #     title_set = set([])
 
-        for publication in self.publications:
-            title = publication["title"]
+    #     for publication in self.publications:
+    #         title = publication["title"]
 
-            if title in title_set:
-                raise Exception("{}: duplicate title {}".format(publication["title"], title))
-            else:
-                title_set.add(title)
+    #         if title in title_set:
+    #             raise Exception("{}: duplicate title {}".format(publication["title"], title))
+    #         else:
+    #             title_set.add(title)
 
 
 if __name__ == "__main__":
