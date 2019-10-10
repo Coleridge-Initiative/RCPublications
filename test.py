@@ -44,7 +44,8 @@ class TestVerifypublications (unittest.TestCase):
     def setUp(self):
         """load the publications list"""
         self.publications = []
-        filename = os.path.join('/Users/sophierand/RCPublications/',self.filename)
+        # filename = os.path.join('/Users/sophierand/RCPublications/',self.filename)
+        filename = self.filename
         # filename = os.path.join('/Users/sophierand/RCPublications/partitions/',self.filename)
         with open(filename, "r") as f:
             self.publications = json.load(f)
