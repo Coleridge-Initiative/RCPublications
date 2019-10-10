@@ -10,6 +10,8 @@ The dataset linkage (represented by `dataset` field - see more below) originates
 2. Run unit test (`test.py`)
 
 ## 1. Prepping your CSV
+Identify the CSV within your `metadata/` subfolder. There may be multiple sheets in there (e.g. the original linkage file sent to us by a collaborator/partner), so make sure you've selected the one created by someone on our team.
+
 Your CSV file should, at a minimum, have a field for publication title and datasets (the datasets that the publicaton uses). 
 
 ### Required Fields
