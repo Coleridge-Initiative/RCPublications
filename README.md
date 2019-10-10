@@ -2,7 +2,7 @@
 
 This repo provides `publications.json`, metadata on publications - for our publications model in our Rich Context Knowledge Graph. Metadata links publications to datasets from [`datasets.json`](https://github.com/NYU-CI/RCDatasets)
 
-The dataset linkage (represented by `related_dataset` field - see more below) originates from manually-curated relationships documented in multiple [drops](https://github.com/NYU-CI/RichContextMetadata/tree/master/metadata) provided by a community of researchers.
+The dataset linkage (represented by `dataset` field - see more below) originates from manually-curated relationships documented in multiple [drops](https://github.com/NYU-CI/RichContextMetadata/tree/master/metadata) provided by a community of researchers. Most work will be done in the [RichContextMetadata](https://github.com/NYU-CI/RichContextMetadata) repository.
 
 # Instructions for Adding new publications
 1. Prepping your csv
@@ -10,34 +10,24 @@ The dataset linkage (represented by `related_dataset` field - see more below) or
 2. Run unit test (`test.py`)
 
 ## 1. Prepping your CSV
-Your CSV file should, at a minimum, have a field for publication title and datasets (the datasets that the publicaton uses). Ideally, your csv will also have a url and a doi for the publication.
+Your CSV file should, at a minimum, have a field for publication title and datasets (the datasets that the publicaton uses). 
 
-If there is a doi but no url, construct a url in a new column in the csv before converting to json as follows:
+### Required Fields
+At a minimum, each record in the the csv must have (and be spelled like the below)
+  * `title` -- name of the publication
+  * `dataset` -- list of one or more `id` from [`datasets.json`](https://github.com/NYU-CI/RCDatasets/datasets.json)
+
+Filter out/delete any entries that don't have these fields before proceeding. 
+
+If your csv has a doi but no url, construct a url in a new column in the csv before proceeding, as follows:
 `https://www.doi.org/<doi>`
 
 ## 2. Publishing publications linkages as a partition
 Convert publication linkages to a `publications.json` partition publications, working from `publications_export_template.ipynb`
-* Create branch - name it like the subdirectory of `RichContextMetadata/metadata` that you were working within.
-* Make a copy of `publications_export_template.ipynb` into the subdirectory  of `RichContextMetadata/metadata` that you were working within - renaming the notebook may be helpful for you.
-* Step through the notebook, adjusting variable names as needed, to export your publications metdata to `/partitions`.
-* Once exported, checked the json file to make sure it has the required fields.
-
-### Required Fields
-At a minimum, each record in the `publications.json` file must have
-  * `title` -- name of the publication
-  * `datasets` -- list of one or more `id` from [`datasets.json`](https://github.com/NYU-CI/RCDatasets/datasets.json)
-If any of these fields don't exist, filter out once you read in the csv before exporting to json.
-
-### Additional fields
-* `url`  -- link to publication, preferably open-access if exists. 
-* `doi` -- 
-* `date` -- publication date
-* `alt_ids` -- stored as a list, other unique identifiers (alternative DOIs, ids from publishers, etc.). alt_ids should be written as a `URN` e.g, if you have a pmid 28818487 from Pubmed, the entry would be  `alt_ids`: [`'pubmed:28818487'`]
-* `keywords` - keywords or categories (e.g. mesh terms)
-* `journal`
-* `open access`
-* `authors` - authors, including affiliations if available
-
+* Navigate to your subdirectory in `RichContextMetadata/metadata` where your csv of linkages is stored. 
+* Make a copy of `publications_export_template.ipynb` from  this repo into the subdirectory. It's not required, but good pratice to rename the notebook with the same name as the subdirectory.
+* Update the `file_name` and `rcm_subfolder` variables. No changes should be needed after that. You can step through the notebook, which will export your publications metdata to `/partitions`. If you run into problems with the template, post an issue on github. 
+* Once you get to the end of the notebook, check the `RCPublications/partitions` subfolder to ensure that the json has the required fields and was exported properly. The top level of the `.json` file should have only `title` and `datasets`, and may have data nested in `original`.
 
 ## 3. Run unit test
 Run `python test.py` - a unit test on the last edited file within `partitions/`. If there are any errors,  make changes in the csv and rerun your notebook to re-export the .json file.
