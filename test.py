@@ -38,7 +38,7 @@ class TestVerifypublications (unittest.TestCase):
 #             ])
 
 
-    def test_logins_or_something(self):
+    def allow_arg(self):
         return None
     
     def setUp(self):
