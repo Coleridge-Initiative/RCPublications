@@ -36,3 +36,4 @@ Run unit test on your new json file:
 
 ### To do - dealing with orignal metadata and API metadata
 original_metadata - stick authors and any other entries
+deal with duplicate titles downstream
