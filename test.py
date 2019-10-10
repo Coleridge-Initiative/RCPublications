@@ -20,25 +20,32 @@ def url_validator (url):
 
 class TestVerifypublications (unittest.TestCase):
     ALLOWED_FIELDS = set([
-            "alt_ids",
-            "keywords",
-            "date",
-            "doi",
             "title",
-            "url",
-            "journal",
-            "publisher",
-            "related_dataset"
+            "datasets",
+            "original"
             ])
 
+# ALLOWED_FIELDS = set([
+#             "alt_ids",
+#             "keywords",
+#             "date",
+#             "doi",
+#             "title",
+#             "url",
+#             "journal",
+#             "publisher",
+#             "related_dataset"
+#             ])
 
-    def setUp (self):
+
+    def allow_arg(self):
+        return None
+    
+    def setUp(self):
         """load the publications list"""
         self.publications = []
-        list_of_files = glob.glob('/Users/sophierand/RCPublications/partitions/*.json')
-        filename = max(list_of_files, key=os.path.getctime)
-        # filename = 'foo.json'
-        self.filename = filename
+        filename = os.path.join('/Users/sophierand/RCPublications/',self.filename)
+        # filename = os.path.join('/Users/sophierand/RCPublications/partitions/',self.filename)
         with open(filename, "r") as f:
             self.publications = json.load(f)
 
@@ -50,7 +57,7 @@ class TestVerifypublications (unittest.TestCase):
 
     def test_has_required_fields (self):
         for publication in self.publications:
-            if not set(["title", "related_dataset"]).issubset(publication.keys()):
+            if not set(["title", "datasets"]).issubset(publication.keys()):
                 raise Exception("{}: missing required fields".format(publication["id"]))
 
 
@@ -86,4 +93,9 @@ class TestVerifypublications (unittest.TestCase):
 
 
 if __name__ == "__main__":
+    if len(sys.argv) > 1:
+        # TestVerifypublications.filename = os.path.join('/Users/sophierand/RCPublications/partitions/',sys.argv.pop())
+        TestVerifypublications.filename = sys.argv.pop()
+        # filename = os.path.join('/Users/sophierand/RCPublications/partitions/',self.filename)
+        # MyTest.PASSWORD = sys.argv.pop()
     unittest.main()
