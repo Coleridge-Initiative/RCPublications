@@ -5,9 +5,9 @@
       "dataset-002"
     ],
     "original": {
-      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0124351",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4427330/",
-      "doi": "10.1371/journal.pone.0124351"
+      "journal": "PLoS One"
     }
   },
   {
@@ -16,9 +16,9 @@
       "dataset-002"
     ],
     "original": {
-      "journal": "American Journal of Public Health",
+      "doi": "10.2105/AJPH.2016.303048",
       "url": "https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2016.303048?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&",
-      "doi": "10.2105/AJPH.2016.303048"
+      "journal": "American Journal of Public Health"
     }
   },
   {
@@ -27,9 +27,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "Journal of Dairy Science",
+      "doi": "10.3168/jds.2015-10410",
       "url": "https://www.sciencedirect.com/science/article/pii/S0022030216301369",
-      "doi": "10.3168/jds.2015-10410"
+      "journal": "Journal of Dairy Science"
     }
   },
   {
@@ -38,9 +38,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "European Review of Agricultural Economics",
+      "doi": "10.1093/erae/jbv032",
       "url": "https://academic.oup.com/erae/article/43/4/585/2926669",
-      "doi": "10.1093/erae/jbv032"
+      "journal": "European Review of Agricultural Economics"
     }
   },
   {
@@ -49,9 +49,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "NBER Working Paper",
+      "doi": "10.3386/w21126",
       "url": "https://www.nber.org/papers/w21126.pdf",
-      "doi": "10.3386/w21126"
+      "journal": "NBER Working Paper"
     }
   },
   {
@@ -60,9 +60,9 @@
       "dataset-002"
     ],
     "original": {
-      "journal": "Agricultural Economics",
+      "doi": "10.1111/agec.12222",
       "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/agec.12222",
-      "doi": "10.1111/agec.12222"
+      "journal": "Agricultural Economics"
     }
   },
   {
@@ -71,9 +71,9 @@
       "dataset-002"
     ],
     "original": {
-      "journal": "Northeast Regional Center for Rural Development",
+      "doi": "https://aese.psu.edu/nercrd/publications/rdp/describing-US-households-food-purchasing-patterns-efsne-market-basket",
       "url": "https://aese.psu.edu/nercrd/publications/rdp/describing-US-households-food-purchasing-patterns-efsne-market-basket",
-      "doi": "https://aese.psu.edu/nercrd/publications/rdp/describing-US-households-food-purchasing-patterns-efsne-market-basket"
+      "journal": "Northeast Regional Center for Rural Development"
     }
   },
   {
@@ -82,9 +82,9 @@
       "dataset-002"
     ],
     "original": {
-      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "doi": "10.1016/j.jand.2017.01.011",
       "url": "https://www.sciencedirect.com/science/article/pii/S2212267217300722",
-      "doi": "10.1016/j.jand.2017.01.011"
+      "journal": "Journal of the Academy of Nutrition and Dietetics"
     }
   },
   {
@@ -93,9 +93,9 @@
       "dataset-002"
     ],
     "original": {
-      "journal": "American Journal of Health Promotion",
+      "doi": "10.1177/0890117118786871",
       "url": "https://journals.sagepub.com/doi/abs/10.1177/0890117118786871",
-      "doi": "10.1177/0890117118786871"
+      "journal": "American Journal of Health Promotion"
     }
   },
   {
@@ -104,9 +104,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "Applied Economic Perspectives and Policy",
+      "doi": "10.1093/aepp/ppy018",
       "url": "https://academic.oup.com/aepp/advance-article/doi/10.1093/aepp/ppy018/5105734",
-      "doi": "10.1093/aepp/ppy018"
+      "journal": "Applied Economic Perspectives and Policy"
     }
   },
   {
@@ -115,9 +115,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=90354",
       "url": "https://www.ers.usda.gov/webdocs/publications/45445/54290_err197.pdf?v=0",
-      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=90354"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -126,9 +126,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=90354",
       "url": "https://www.ers.usda.gov/webdocs/publications/90355/tb-1949.pdf?v=1369.6",
-      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=90354"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -137,9 +137,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=45421",
       "url": "https://www.ers.usda.gov/webdocs/publications/45419/53640_err193.pdf?v=0",
-      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=45421"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -148,9 +148,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=42904",
       "url": "https://www.ers.usda.gov/webdocs/publications/42902/56772_eb27.pdf?v=0",
-      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=42904"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -159,9 +159,9 @@
       "dataset-002"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=47636",
       "url": "https://www.ers.usda.gov/webdocs/publications/47633/57105_tb-1942.pdf?v=0",
-      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=47636"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -170,9 +170,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=45536",
       "url": "https://www.ers.usda.gov/webdocs/publications/45533/57281_err207.pdf?v=0",
-      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=45536"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -181,9 +181,9 @@
       "dataset-002"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=85251",
       "url": "https://www.ers.usda.gov/webdocs/publications/85252/tb-1946.pdf?v=0",
-      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=85251"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -192,9 +192,9 @@
       "dataset-002"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=82928",
       "url": "https://www.ers.usda.gov/webdocs/publications/82929/eib-167.pdf?v=0",
-      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=82928"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -203,9 +203,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=85760",
       "url": "https://www.ers.usda.gov/webdocs/publications/85761/eib-183.pdf?v=0",
-      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=85760"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -214,9 +214,9 @@
       "dataset-002"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=86400",
       "url": "https://www.ers.usda.gov/webdocs/publications/86401/eib-186.pdf?v=0",
-      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=86400"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -225,9 +225,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf",
       "url": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf",
-      "doi": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -236,9 +236,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "American Journal Health Promotion",
+      "doi": "10.1177/0890117117740935",
       "url": "http://journals.sagepub.com/doi/pdf/10.1177/0890117117740935",
-      "doi": "10.1177/0890117117740935"
+      "journal": "American Journal Health Promotion"
     }
   },
   {
@@ -247,9 +247,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "American Journal of Agricultural Economics",
+      "doi": "10.1093/ajae/aay002",
       "url": "https://academic.oup.com/ajae/article/100/3/691/4931098",
-      "doi": "10.1093/ajae/aay002"
+      "journal": "American Journal of Agricultural Economics"
     }
   },
   {
@@ -258,9 +258,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "Journal of Food Products Marketing",
+      "doi": "10.1080/10454446.2018.1428259",
       "url": "https://www.tandfonline.com/doi/pdf/10.1080/10454446.2018.1428259",
-      "doi": "10.1080/10454446.2018.1428259"
+      "journal": "Journal of Food Products Marketing"
     }
   },
   {
@@ -269,9 +269,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "Journal of Applied Economics",
+      "doi": "10.1080/15140326.2018.1526869",
       "url": "https://tandfonline.com/doi/pdf/10.1080/15140326.2018.1526869",
-      "doi": "10.1080/15140326.2018.1526869"
+      "journal": "Journal of Applied Economics"
     }
   },
   {
@@ -280,9 +280,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "Journal of Consumer Policy ",
+      "doi": "10.1007/s10603-018-9396-x",
       "url": "http://link.springer.com/content/pdf/10.1007/s10603-018-9396-x.pdf",
-      "doi": "10.1007/s10603-018-9396-x"
+      "journal": "Journal of Consumer Policy "
     }
   },
   {
@@ -291,9 +291,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=46844",
       "url": "https://www.ers.usda.gov/webdocs/publications/46843/28944_fanrr41.pdf?v=0",
-      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=46844"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -302,9 +302,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=43037",
       "url": "https://www.ers.usda.gov/webdocs/publications/43025/35759_efan02001.pdf?v=0",
-      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=43037"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -313,9 +313,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=46808",
       "url": "https://www.ers.usda.gov/webdocs/publications/46787/15976_fanrr39-1_1_.pdf?v=0",
-      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=46808"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   },
   {
@@ -324,9 +324,9 @@
       "dataset-001"
     ],
     "original": {
-      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=42970",
       "url": "https://www.ers.usda.gov/webdocs/publications/42958/32016_efan01006_002.pdf?v=0",
-      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=42970"
+      "journal": "United States Department of Agriculture, Economic Research Service"
     }
   }
 ]

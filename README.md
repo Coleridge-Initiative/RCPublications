@@ -30,7 +30,9 @@ Convert publication linkages to a `publications.json` partition publications, wo
 * Once you get to the end of the notebook, check the `RCPublications/partitions` subfolder to ensure that the json has the required fields and was exported properly. The top level of the `.json` file should have only `title` and `datasets`, and may have data nested in `original`.
 
 ## 3. Run unit test
-Run `python test.py` - a unit test on the last edited file within `partitions/`. If there are any errors,  make changes in the csv and rerun your notebook to re-export the .json file.
+Run unit test on your new json file:
+`python test.py partitions/20190717_usda_wic_publications.json`
+
 
 ### To do - dealing with orignal metadata and API metadata
 original_metadata - stick authors and any other entries

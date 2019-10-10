@@ -5,9 +5,9 @@
       "dataset-002"
     ],
     "original": {
-      "dataset_name": "IRI Consumer Network",
       "journal": "Urban Studies",
-      "doi": "10.1177/0042098017740285"
+      "doi": "10.1177/0042098017740285",
+      "dataset_name": "IRI Consumer Network"
     }
   },
   {
@@ -16,9 +16,9 @@
       "dataset-002"
     ],
     "original": {
-      "dataset_name": "IRI Consumer Network",
       "journal": "Preventive Medicine",
-      "doi": "10.1016/j.ypmed.2016.08.018"
+      "doi": "10.1016/j.ypmed.2016.08.018",
+      "dataset_name": "IRI Consumer Network"
     }
   },
   {
@@ -27,9 +27,9 @@
       "dataset-002"
     ],
     "original": {
-      "dataset_name": "IRI Consumer Network",
       "journal": "Plos One",
-      "doi": "10.1371/journal.pone.0124351"
+      "doi": "10.1371/journal.pone.0124351",
+      "dataset_name": "IRI Consumer Network"
     }
   },
   {
@@ -38,9 +38,9 @@
       "dataset-001"
     ],
     "original": {
-      "dataset_name": "IRI InfoScan",
       "journal": "Journal of Food Products Marketing",
-      "doi": "10.1080/10454446.2018.1428259"
+      "doi": "10.1080/10454446.2018.1428259",
+      "dataset_name": "IRI InfoScan"
     }
   },
   {
@@ -49,9 +49,9 @@
       "dataset-001"
     ],
     "original": {
-      "dataset_name": "IRI InfoScan",
       "journal": "Journal of Consumer Policy",
-      "doi": "10.1007/s10603-018-9396-x"
+      "doi": "10.1007/s10603-018-9396-x",
+      "dataset_name": "IRI InfoScan"
     }
   },
   {
@@ -60,9 +60,9 @@
       "dataset-002"
     ],
     "original": {
-      "dataset_name": "IRI Consumer Network",
       "journal": "Journal of Applied Economics",
-      "doi": "10.1080/15140326.2018.1526869"
+      "doi": "10.1080/15140326.2018.1526869",
+      "dataset_name": "IRI Consumer Network"
     }
   },
   {
@@ -71,9 +71,9 @@
       "dataset-001"
     ],
     "original": {
-      "dataset_name": "IRI InfoScan",
       "journal": "J Dairy Sci",
-      "doi": "10.3168/jds.2015-10410"
+      "doi": "10.3168/jds.2015-10410",
+      "dataset_name": "IRI InfoScan"
     }
   },
   {
@@ -82,9 +82,9 @@
       "dataset-002"
     ],
     "original": {
-      "dataset_name": "IRI Consumer Network",
       "journal": "J Acad Nutr Diet",
-      "doi": "10.1016/j.jand.2017.01.011"
+      "doi": "10.1016/j.jand.2017.01.011",
+      "dataset_name": "IRI Consumer Network"
     }
   },
   {
@@ -93,9 +93,9 @@
       "dataset-001"
     ],
     "original": {
-      "dataset_name": "IRI InfoScan",
       "journal": "European Review of Agricultural Economics",
-      "doi": "10.1093/erae/jbv032"
+      "doi": "10.1093/erae/jbv032",
+      "dataset_name": "IRI InfoScan"
     }
   },
   {
@@ -104,9 +104,9 @@
       "dataset-001"
     ],
     "original": {
-      "dataset_name": "IRI InfoScan",
       "journal": "European Review of Agricultural Economics",
-      "doi": "10.1093/erae/jby026"
+      "doi": "10.1093/erae/jby026",
+      "dataset_name": "IRI InfoScan"
     }
   },
   {
@@ -115,9 +115,9 @@
       "dataset-001"
     ],
     "original": {
-      "dataset_name": "IRI InfoScan",
       "journal": "Applied Economic Perspectives and Policy",
-      "doi": "10.1093/aepp/ppy018"
+      "doi": "10.1093/aepp/ppy018",
+      "dataset_name": "IRI InfoScan"
     }
   },
   {
@@ -126,9 +126,9 @@
       "dataset-001"
     ],
     "original": {
-      "dataset_name": "IRI InfoScan",
       "journal": "American Journal of Agricultural Economics",
-      "doi": "10.1093/ajae/aay002"
+      "doi": "10.1093/ajae/aay002",
+      "dataset_name": "IRI InfoScan"
     }
   },
   {
@@ -137,9 +137,9 @@
       "dataset-002"
     ],
     "original": {
-      "dataset_name": "IRI Consumer Network",
       "journal": "Am J Health Promot",
-      "doi": "10.1177/0890117117740935"
+      "doi": "10.1177/0890117117740935",
+      "dataset_name": "IRI Consumer Network"
     }
   },
   {
@@ -148,9 +148,9 @@
       "dataset-002"
     ],
     "original": {
-      "dataset_name": "IRI Consumer Network",
       "journal": "Am J Health Promot",
-      "doi": "10.1177/0890117118786871"
+      "doi": "10.1177/0890117118786871",
+      "dataset_name": "IRI Consumer Network"
     }
   },
   {
@@ -159,9 +159,9 @@
       "dataset-002"
     ],
     "original": {
-      "dataset_name": "IRI Consumer Network",
       "journal": "Agricultural Economics",
-      "doi": "10.1111/agec.12222"
+      "doi": "10.1111/agec.12222",
+      "dataset_name": "IRI Consumer Network"
     }
   },
   {
@@ -170,9 +170,9 @@
       "dataset-002"
     ],
     "original": {
-      "dataset_name": "IRI Consumer Network",
       "journal": "Agricultural Economics",
-      "doi": "10.1111/agec.12143"
+      "doi": "10.1111/agec.12143",
+      "dataset_name": "IRI Consumer Network"
     }
   }
 ]

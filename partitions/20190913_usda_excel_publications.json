@@ -5,9 +5,9 @@
       "dataset-051"
     ],
     "original": {
-      "sheet_name": "ATUS",
       "original_dataset_name": "\u25aaEHM (2006-08 and 2014-16)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90465"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90465",
+      "sheet_name": "ATUS"
     }
   },
   {
@@ -16,53 +16,9 @@
       "dataset-017"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaU.S. Census Bureau (Monthly Retail Trade and Foodservices series)",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf?v=8116.5"
-    }
-  },
-  {
-    "title": "America's Eating Habits: Food Away From Home",
-    "datasets": [
-      "dataset-017"
-    ],
-    "original": {
-      "sheet_name": "CES",
-      "original_dataset_name": "\u25aaCES",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf?v=8116.5"
-    }
-  },
-  {
-    "title": "America's Eating Habits: Food Away From Home",
-    "datasets": [
-      "dataset-017"
-    ],
-    "original": {
-      "sheet_name": "FoodAPS",
-      "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf?v=8116.5"
-    }
-  },
-  {
-    "title": "America's Eating Habits: Food Away From Home",
-    "datasets": [
-      "dataset-017"
-    ],
-    "original": {
-      "sheet_name": "IRI",
-      "original_dataset_name": "IRI",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf?v=8116.5"
-    }
-  },
-  {
-    "title": "America's Eating Habits: Food Away From Home",
-    "datasets": [
-      "dataset-017"
-    ],
-    "original": {
-      "sheet_name": "NHANES",
-      "original_dataset_name": "\u25aaNHANES",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf?v=8116.5"
+      "pub_url": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf?v=8116.5",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -71,9 +27,9 @@
       "dataset-051"
     ],
     "original": {
-      "sheet_name": "ATUS",
       "original_dataset_name": "\u25aaEating & Health Module (EHM), a supplement to the American Time Use Survey (ATUS)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=80503"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=80503",
+      "sheet_name": "ATUS"
     }
   },
   {
@@ -82,9 +38,9 @@
       "dataset-001"
     ],
     "original": {
-      "sheet_name": "IRI",
       "original_dataset_name": "IRI",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85760"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85760",
+      "sheet_name": "IRI"
     }
   },
   {
@@ -93,20 +49,9 @@
       "dataset-026"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaSIPP and ACS",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45414"
-    }
-  },
-  {
-    "title": "Annual and Monthly SNAP Participation Rates",
-    "datasets": [
-      "dataset-026"
-    ],
-    "original": {
-      "sheet_name": "SNAP Admin",
-      "original_dataset_name": "SNAP",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45414"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45414",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -115,9 +60,9 @@
       "dataset-028"
     ],
     "original": {
-      "sheet_name": "TD Linx",
       "original_dataset_name": "TDLinx",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=92628"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=92628",
+      "sheet_name": "TD Linx"
     }
   },
   {
@@ -126,9 +71,9 @@
       "dataset-017"
     ],
     "original": {
-      "sheet_name": "NHANES",
       "original_dataset_name": "\u25aaNational Health and Nutrition Examination Survey (NHANES) ",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45175"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45175",
+      "sheet_name": "NHANES"
     }
   },
   {
@@ -137,9 +82,9 @@
       "dataset-031"
     ],
     "original": {
-      "sheet_name": "Nielsen",
       "original_dataset_name": "\u25aaNielsen Homescan data ",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45550"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45550",
+      "sheet_name": "Nielsen"
     }
   },
   {
@@ -148,9 +93,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "FNS",
       "original_dataset_name": "\u25aaFood and Nutrition Service (participation decision)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=89947"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=89947",
+      "sheet_name": "FNS"
     }
   },
   {
@@ -159,9 +104,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "CPS-FSS",
       "original_dataset_name": "\u25aaCPS-FSS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=84002"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=84002",
+      "sheet_name": "CPS-FSS"
     }
   },
   {
@@ -170,42 +115,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaSurvey of Income and Program Participation (SIPP)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=79892"
-    }
-  },
-  {
-    "title": "Comparing National Food Acquisition and Purchase Survey (FoodAPS) Data With Other National Food Surveys' Data",
-    "datasets": [
-      "dataset-033"
-    ],
-    "original": {
-      "sheet_name": "CPS-FSS",
-      "original_dataset_name": "\u25aaCurrent Population Survey Annual Social and Economic Supplement (CPS-ASEC)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=79892"
-    }
-  },
-  {
-    "title": "Comparing National Food Acquisition and Purchase Survey (FoodAPS) Data With Other National Food Surveys' Data",
-    "datasets": [
-      "dataset-033"
-    ],
-    "original": {
-      "sheet_name": "FoodAPS",
-      "original_dataset_name": "FoodAPS",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=79892"
-    }
-  },
-  {
-    "title": "Comparing National Food Acquisition and Purchase Survey (FoodAPS) Data With Other National Food Surveys' Data",
-    "datasets": [
-      "dataset-033"
-    ],
-    "original": {
-      "sheet_name": "IRI",
-      "original_dataset_name": "IRI",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=79892"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=79892",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -214,9 +126,9 @@
       "dataset-051"
     ],
     "original": {
-      "sheet_name": "ATUS",
       "original_dataset_name": "\u25aaATUS-EHM (2014-16)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=91109"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=91109",
+      "sheet_name": "ATUS"
     }
   },
   {
@@ -225,9 +137,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=89343"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=89343",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -236,9 +148,9 @@
       "dataset-017"
     ],
     "original": {
-      "sheet_name": "NHANES",
       "original_dataset_name": "\u25aa2007-08 and 2009-10 waves of the National Health and Nutrition Examination Survey (NHANES) \u25aaFlexible Consumer Behavior Survey module (FCBS)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43879"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43879",
+      "sheet_name": "NHANES"
     }
   },
   {
@@ -247,9 +159,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "FNS",
       "original_dataset_name": "\u25aa2013 Farm to School Census (collected jointly by ERS and FNS under an interagency agreement)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82944"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82944",
+      "sheet_name": "FNS"
     }
   },
   {
@@ -258,9 +170,9 @@
       "dataset-026"
     ],
     "original": {
-      "sheet_name": "SNAP Admin",
       "original_dataset_name": "SNAP",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/86924/err-243.pdf?v=43124"
+      "pub_url": "https://www.ers.usda.gov/webdocs/publications/86924/err-243.pdf?v=43124",
+      "sheet_name": "SNAP Admin"
     }
   },
   {
@@ -269,9 +181,9 @@
       "dataset-034"
     ],
     "original": {
-      "sheet_name": "Cost Est. Foodborne Illnesses",
       "original_dataset_name": "Cost-of-Illness Estimates for Major Foodborne Illnesses",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43987"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43987",
+      "sheet_name": "Cost Est. Foodborne Illnesses"
     }
   },
   {
@@ -281,9 +193,9 @@
       "dataset-041"
     ],
     "original": {
-      "sheet_name": "FDA-FSIS-AMS",
       "original_dataset_name": "\u25aaFSIS over 2006-12 \u25aaUSDA, AMS (2014) website ",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45503"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45503",
+      "sheet_name": "FDA-FSIS-AMS"
     }
   },
   {
@@ -292,42 +204,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaU.S. Census Bureau (School Food Authority Characteristics Study (SFACS))",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45441"
-    }
-  },
-  {
-    "title": "Economies of Scale, the Lunch-Breakfast Ratio, and the Cost of USDA School Breakfasts and Lunches",
-    "datasets": [
-      "dataset-032"
-    ],
-    "original": {
-      "sheet_name": "FNS",
-      "original_dataset_name": "\u25aaUSDA\u2019s Food and Nutrition Service (FNS)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45441"
-    }
-  },
-  {
-    "title": "Economies of Scale, the Lunch-Breakfast Ratio, and the Cost of USDA School Breakfasts and Lunches",
-    "datasets": [
-      "dataset-032"
-    ],
-    "original": {
-      "sheet_name": "Qtrly FAFH",
-      "original_dataset_name": NaN,
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45441"
-    }
-  },
-  {
-    "title": "Economies of Scale, the Lunch-Breakfast Ratio, and the Cost of USDA School Breakfasts and Lunches",
-    "datasets": [
-      "dataset-032"
-    ],
-    "original": {
-      "sheet_name": "SCH MEALS DATA",
-      "original_dataset_name": "\u25aaSchool Food Authority Characteristics Study (SFACS) \u25aaNational Center for Education Statistics \u25aaSchool Nutrition and Dietary Assessment Study (SNDA) III",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45441"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45441",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -336,20 +215,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "CPS-FSS",
       "original_dataset_name": "\u25aaCPS-FSS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85213"
-    }
-  },
-  {
-    "title": "Examining an \"Experimental\" Food Security Status Classification Method for Households with Children",
-    "datasets": [
-      "dataset-033"
-    ],
-    "original": {
-      "sheet_name": "NHANES",
-      "original_dataset_name": "\u25aaNHANES",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85213"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85213",
+      "sheet_name": "CPS-FSS"
     }
   },
   {
@@ -358,20 +226,9 @@
       "dataset-001"
     ],
     "original": {
-      "sheet_name": "IRI",
       "original_dataset_name": "\u25aaIRI InfoScan",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90354"
-    }
-  },
-  {
-    "title": "Examining Food Store Scanner Data: A Comparison of the IRI InfoScan Data with Other Data Sets, 2008-2012",
-    "datasets": [
-      "dataset-001"
-    ],
-    "original": {
-      "sheet_name": "TD Linx",
-      "original_dataset_name": "TDLinx",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90354"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90354",
+      "sheet_name": "IRI"
     }
   },
   {
@@ -380,9 +237,9 @@
       "dataset-039"
     ],
     "original": {
-      "sheet_name": "FDA-FSIS-AMS",
       "original_dataset_name": "\u25aaFDA data on import shipments ",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=44069"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=44069",
+      "sheet_name": "FDA-FSIS-AMS"
     }
   },
   {
@@ -391,42 +248,9 @@
       "dataset-035"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaU.S. Census Bureau (2010 Census Tract)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45435"
-    }
-  },
-  {
-    "title": "Food Choices and Store Proximity",
-    "datasets": [
-      "dataset-035"
-    ],
-    "original": {
-      "sheet_name": "FARA",
-      "original_dataset_name": "FARA",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45435"
-    }
-  },
-  {
-    "title": "Food Choices and Store Proximity",
-    "datasets": [
-      "dataset-035"
-    ],
-    "original": {
-      "sheet_name": "Nielsen",
-      "original_dataset_name": "\u25aa2010 Nielsen Homescan Panel Survey ",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45435"
-    }
-  },
-  {
-    "title": "Food Choices and Store Proximity",
-    "datasets": [
-      "dataset-035"
-    ],
-    "original": {
-      "sheet_name": "TD Linx",
-      "original_dataset_name": "TDLinx",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45435"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45435",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -437,9 +261,9 @@
       "dataset-052"
     ],
     "original": {
-      "sheet_name": "ATUS",
       "original_dataset_name": "\u25aaAmerican Time Use Survey (ATUS)/Healthy Eating Module (2014)",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/86401/eib-186.pdf?v=43097"
+      "pub_url": "https://www.ers.usda.gov/webdocs/publications/86401/eib-186.pdf?v=43097",
+      "sheet_name": "ATUS"
     }
   },
   {
@@ -448,9 +272,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "CPS-FSS",
       "original_dataset_name": "\u25aaCurrent Population Survey\u2019s Food Security Supplement (CPS-FSS) ",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=44083"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=44083",
+      "sheet_name": "CPS-FSS"
     }
   },
   {
@@ -459,9 +283,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93737"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93737",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -470,31 +294,9 @@
       "dataset-024"
     ],
     "original": {
-      "sheet_name": "CES",
       "original_dataset_name": "\u25aaConsumer Expenditure Survey",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85251"
-    }
-  },
-  {
-    "title": "Food-at-Home Expenditures: Comparing Commercial Household Scanner Data From IRI and Government Survey Data",
-    "datasets": [
-      "dataset-024"
-    ],
-    "original": {
-      "sheet_name": "FoodAPS",
-      "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85251"
-    }
-  },
-  {
-    "title": "Food-at-Home Expenditures: Comparing Commercial Household Scanner Data From IRI and Government Survey Data",
-    "datasets": [
-      "dataset-024"
-    ],
-    "original": {
-      "sheet_name": "IRI",
-      "original_dataset_name": "IRI",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85251"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85251",
+      "sheet_name": "CES"
     }
   },
   {
@@ -503,20 +305,9 @@
       "dataset-017"
     ],
     "original": {
-      "sheet_name": "ATUS",
       "original_dataset_name": "\u25aaATUS (2014-16) \u25aaEHM (2014-16)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93513"
-    }
-  },
-  {
-    "title": "Frequency and Time of Day That Americans Eat: A Comparison of Data From the American Time Use Survey and the National Health and Nutrition Examination Survey",
-    "datasets": [
-      "dataset-017"
-    ],
-    "original": {
-      "sheet_name": "NHANES",
-      "original_dataset_name": "\u25aaNHANES (2013-16)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93513"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93513",
+      "sheet_name": "ATUS"
     }
   },
   {
@@ -525,9 +316,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "CPS-FSS",
       "original_dataset_name": "\u25aasupplement to the Current Population Survey (CPS) \u25aaU.S. Census Bureau",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=45268"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=45268",
+      "sheet_name": "CPS-FSS"
     }
   },
   {
@@ -536,9 +327,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "CPS-FSS",
       "original_dataset_name": "\u25aaU.S. Census Bureau \u25aaCurrent Population Survey",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45428"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45428",
+      "sheet_name": "CPS-FSS"
     }
   },
   {
@@ -547,9 +338,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "CPS-FSS",
       "original_dataset_name": "\u25aaCPS-FSS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=84972"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=84972",
+      "sheet_name": "CPS-FSS"
     }
   },
   {
@@ -558,9 +349,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaU.S. Census Bureau",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90022"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90022",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -569,9 +360,9 @@
       "dataset-001"
     ],
     "original": {
-      "sheet_name": "IRI",
       "original_dataset_name": "IRI",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45421"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45421",
+      "sheet_name": "IRI"
     }
   },
   {
@@ -580,9 +371,9 @@
       "dataset-040"
     ],
     "original": {
-      "sheet_name": "FDA-FSIS-AMS",
       "original_dataset_name": "\u25aaUSDA Agricultural Marketing Service (AMS) ",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=45168"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=45168",
+      "sheet_name": "FDA-FSIS-AMS"
     }
   },
   {
@@ -591,20 +382,9 @@
       "dataset-046"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaAmerican Community Survey (ACS)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45371"
-    }
-  },
-  {
-    "title": "Improving the Assessment of SNAP Targeting Using Administrative Records",
-    "datasets": [
-      "dataset-046"
-    ],
-    "original": {
-      "sheet_name": "SNAP Admin",
-      "original_dataset_name": "SNAP",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45371"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45371",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -613,9 +393,9 @@
       "dataset-028"
     ],
     "original": {
-      "sheet_name": "TD Linx",
       "original_dataset_name": "TDLinx",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85782"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85782",
+      "sheet_name": "TD Linx"
     }
   },
   {
@@ -626,9 +406,9 @@
       "dataset-053"
     ],
     "original": {
-      "sheet_name": "IRI",
       "original_dataset_name": "\u25aaIRI scanner data (2013)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=92570"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=92570",
+      "sheet_name": "IRI"
     }
   },
   {
@@ -637,20 +417,9 @@
       "dataset-046"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aa2010 Decennial Census \u25aa2010-14 American Community Survey (ACS)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82100"
-    }
-  },
-  {
-    "title": "Low-Income and Low-Supermarket-Access Census Tracts, 2010-2015",
-    "datasets": [
-      "dataset-046"
-    ],
-    "original": {
-      "sheet_name": "TD Linx",
-      "original_dataset_name": "TDLinx",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82100"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82100",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -659,9 +428,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "FNS",
       "original_dataset_name": "\u25aaUSDA\u2019s Food and Nutrition Service (FNS)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43997"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43997",
+      "sheet_name": "FNS"
     }
   },
   {
@@ -670,31 +439,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aa2010 Census TIGER/Line\u00ae Shapefiles \u25aa2010 Census of Population \u25aaAmerican Community Survey, 2006-2010 Summary ",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=43908"
-    }
-  },
-  {
-    "title": "Measuring Access to Healthful, Affordable Food in American Indian and Alaska Native Tribal Areas",
-    "datasets": [
-      "dataset-032"
-    ],
-    "original": {
-      "sheet_name": "FARA",
-      "original_dataset_name": "FARA",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=43908"
-    }
-  },
-  {
-    "title": "Measuring Access to Healthful, Affordable Food in American Indian and Alaska Native Tribal Areas",
-    "datasets": [
-      "dataset-032"
-    ],
-    "original": {
-      "sheet_name": "FNS",
-      "original_dataset_name": "\u25aaspecial tabulation was performed by USDA, Food and Nutrition Service to identify all SNAP-authorized stores \u25aaUSDA, Food and Nutrition Service FDPIR Policy Branch  ",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=43908"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=43908",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -705,9 +452,9 @@
       "dataset-054"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaU.S. Census Bureau (sales data\u2014annual, quarterly, monthly, and quinquennial)",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/90155/tb-1948.pdf?v=5086.2"
+      "pub_url": "https://www.ers.usda.gov/webdocs/publications/90155/tb-1948.pdf?v=5086.2",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -716,9 +463,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=87530"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=87530",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -727,20 +474,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaCPS \u25aaASEC",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=45145"
-    }
-  },
-  {
-    "title": "Participation in SNAP and Unemployment Insurance: How Tight Are the Strands of the Recessionary Safety Net?",
-    "datasets": [
-      "dataset-033"
-    ],
-    "original": {
-      "sheet_name": "CPS-FSS",
-      "original_dataset_name": "\u25aaCurrent Population Survey Annual Social and Economic Supplement (CPS-ASEC)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=45145"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=45145",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -749,9 +485,9 @@
       "dataset-026"
     ],
     "original": {
-      "sheet_name": "SNAP Admin",
       "original_dataset_name": "\u25aaMultiple administrative sources from Oregon (January 2005\u2014December 2014)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90037"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90037",
+      "sheet_name": "SNAP Admin"
     }
   },
   {
@@ -760,9 +496,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "CPS-FSS",
       "original_dataset_name": "\u25aaFSS",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45216"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45216",
+      "sheet_name": "CPS-FSS"
     }
   },
   {
@@ -771,9 +507,9 @@
       "dataset-041"
     ],
     "original": {
-      "sheet_name": "FDA-FSIS-AMS",
       "original_dataset_name": "\u25aaFSIS (administrative data from their Public Health Database\u2014data include Salmonella performance, animal slaughter, SSOP and HACCP Performance) ",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=83660"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=83660",
+      "sheet_name": "FDA-FSIS-AMS"
     }
   },
   {
@@ -782,9 +518,9 @@
       "dataset-056"
     ],
     "original": {
-      "sheet_name": "SCH MEALS DATA",
       "original_dataset_name": "\u25aaUSDA\u2019s National Data Bank \u25aaState reports \u25aaSpecial Nutrition Program Operation Study Year 1 (SNOPS-I)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=44006"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=44006",
+      "sheet_name": "SCH MEALS DATA"
     }
   },
   {
@@ -793,9 +529,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "CPS-FSS",
       "original_dataset_name": "\u25aaCPS-FSS",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/84981/ap-077.pdf?v=0"
+      "pub_url": "https://www.ers.usda.gov/webdocs/publications/84981/ap-077.pdf?v=0",
+      "sheet_name": "CPS-FSS"
     }
   },
   {
@@ -804,9 +540,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "CPS-FSS",
       "original_dataset_name": "\u25aaCurrent Population Survey (CPS) Food Security Supplement (December 2017)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90028"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90028",
+      "sheet_name": "CPS-FSS"
     }
   },
   {
@@ -816,9 +552,9 @@
       "dataset-057"
     ],
     "original": {
-      "sheet_name": "IRI",
       "original_dataset_name": "IRI",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82928"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82928",
+      "sheet_name": "IRI"
     }
   },
   {
@@ -827,20 +563,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "ATUS",
       "original_dataset_name": "\u25aaHealthy Eating Index (2010)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=88530"
-    }
-  },
-  {
-    "title": "The Association Between Nutrition Information Use and the Healthfulness of Food Acquisitions",
-    "datasets": [
-      "dataset-025"
-    ],
-    "original": {
-      "sheet_name": "FoodAPS",
-      "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=88530"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=88530",
+      "sheet_name": "ATUS"
     }
   },
   {
@@ -849,9 +574,9 @@
       "dataset-017"
     ],
     "original": {
-      "sheet_name": "NHANES",
       "original_dataset_name": "\u25aaNHANES (Flexible Consumer Behavior Survey\u20142007-08, 2009-10, and 2013-14 cycles)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90497"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90497",
+      "sheet_name": "NHANES"
     }
   },
   {
@@ -862,9 +587,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "IRI",
       "original_dataset_name": "IRI",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=42904"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=42904",
+      "sheet_name": "IRI"
     }
   },
   {
@@ -873,9 +598,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/85028/eib-179.pdf"
+      "pub_url": "https://www.ers.usda.gov/webdocs/publications/85028/eib-179.pdf",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -884,9 +609,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "FNS",
       "original_dataset_name": "\u25aaFood and Nutrition Service (FNS) ",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=91272"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=91272",
+      "sheet_name": "FNS"
     }
   },
   {
@@ -895,9 +620,9 @@
       "dataset-033"
     ],
     "original": {
-      "sheet_name": "CPS-FSS",
       "original_dataset_name": "\u25aa2001-2014 Current Population Survey Food Security Supplement (CPS-FSS)",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=84240"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=84240",
+      "sheet_name": "CPS-FSS"
     }
   },
   {
@@ -906,9 +631,9 @@
       "dataset-036"
     ],
     "original": {
-      "sheet_name": "FADS-LAFA",
       "original_dataset_name": "FADS-LAFA",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43836"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43836",
+      "sheet_name": "FADS-LAFA"
     }
   },
   {
@@ -917,9 +642,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "FNS",
       "original_dataset_name": "\u25aaUSDA\u2019s Food and Nutrition Service (FNS)",
-      "pub_url": "http://www.ers.usda.gov/publications/eib-economic-information-bulletin/eib120.aspx"
+      "pub_url": "http://www.ers.usda.gov/publications/eib-economic-information-bulletin/eib120.aspx",
+      "sheet_name": "FNS"
     }
   },
   {
@@ -928,9 +653,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "FNS",
       "original_dataset_name": "\u25aaUSDA\u2019s Food and Nutrition Service (FNS)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43947"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43947",
+      "sheet_name": "FNS"
     }
   },
   {
@@ -939,9 +664,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "FNS",
       "original_dataset_name": "\u25aaFood and Nutrition Service (FNS) administrative data",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82993"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82993",
+      "sheet_name": "FNS"
     }
   },
   {
@@ -950,9 +675,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "FNS",
       "original_dataset_name": "\u25aaFNS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=88073"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=88073",
+      "sheet_name": "FNS"
     }
   },
   {
@@ -961,9 +686,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "FNS",
       "original_dataset_name": "\u25aaFNS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=92895"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=92895",
+      "sheet_name": "FNS"
     }
   },
   {
@@ -973,9 +698,9 @@
       "dataset-040"
     ],
     "original": {
-      "sheet_name": "FDA-FSIS-AMS",
       "original_dataset_name": "\u25aaFSIS administrative data (SSOP and HACCP compliance data) \u25aaAMS Web site \u25aaFSIS Salmonella spp testing data",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45329"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45329",
+      "sheet_name": "FDA-FSIS-AMS"
     }
   },
   {
@@ -984,9 +709,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=84779"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=84779",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -995,20 +720,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaU.S. Census Bureau\u2019s Consolidated Federal Funds Report",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93168"
-    }
-  },
-  {
-    "title": "The Impacts of Supplemental Nutrition Assistance Program Redemptions on County-Level Employment",
-    "datasets": [
-      "dataset-032"
-    ],
-    "original": {
-      "sheet_name": "FNS",
-      "original_dataset_name": "\u25aaFNS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93168"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93168",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -1017,9 +731,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85441"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85441",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -1028,9 +742,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/86878/err242_summary.pdf?v=0"
+      "pub_url": "https://www.ers.usda.gov/webdocs/publications/86878/err242_summary.pdf?v=0",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -1040,9 +754,9 @@
       "dataset-017"
     ],
     "original": {
-      "sheet_name": "ATUS",
       "original_dataset_name": "\u25aaU.S. Department of Labor, Bureau of Labor Statistics \u25aaAmerican Community Survey",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82193"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82193",
+      "sheet_name": "ATUS"
     }
   },
   {
@@ -1051,9 +765,9 @@
       "dataset-024"
     ],
     "original": {
-      "sheet_name": "CES",
       "original_dataset_name": "\u25aaConsumer Expenditure Survey (CE) (administered quarterly by the U.S. Census Bureau)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=74689"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=74689",
+      "sheet_name": "CES"
     }
   },
   {
@@ -1063,9 +777,9 @@
       "dataset-040"
     ],
     "original": {
-      "sheet_name": "FDA-FSIS-AMS",
       "original_dataset_name": "\u25aaFSIS Recall Notification Reports \u25aaFDA Enforcement\nReports",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=88496"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=88496",
+      "sheet_name": "FDA-FSIS-AMS"
     }
   },
   {
@@ -1074,20 +788,9 @@
       "dataset-032"
     ],
     "original": {
-      "sheet_name": "FNS",
       "original_dataset_name": "\u25aaUSDA\u2019s Food and Nutrition Service (FNS)",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43806"
-    }
-  },
-  {
-    "title": "Trends in Infant Formula Rebate Contracts: Implications for the WIC Program",
-    "datasets": [
-      "dataset-032"
-    ],
-    "original": {
-      "sheet_name": "Nielsen",
-      "original_dataset_name": "\u25aa2008 proprietary report prepared for ERS by the Nielsen Company",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43806"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43806",
+      "sheet_name": "FNS"
     }
   },
   {
@@ -1096,20 +799,9 @@
       "dataset-036"
     ],
     "original": {
-      "sheet_name": "FADS-LAFA",
       "original_dataset_name": "FADS-LAFA",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=81817"
-    }
-  },
-  {
-    "title": "U.S. Food Commodity Availability by Food Source, 1994-2008",
-    "datasets": [
-      "dataset-036"
-    ],
-    "original": {
-      "sheet_name": "FICRCD-CSFII",
-      "original_dataset_name": "\u25aa FICRCD Food Intakes Converted to Retail Commodities Databases",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=81817"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=81817",
+      "sheet_name": "FADS-LAFA"
     }
   },
   {
@@ -1118,31 +810,9 @@
       "dataset-036"
     ],
     "original": {
-      "sheet_name": "FADS-LAFA",
       "original_dataset_name": "FADS-LAFA",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45530"
-    }
-  },
-  {
-    "title": "U.S. Food Commodity Consumption Broken Down by Demographics",
-    "datasets": [
-      "dataset-036"
-    ],
-    "original": {
-      "sheet_name": "FICRCD-CSFII",
-      "original_dataset_name": "\u25aaCSFII (1994-96 and 1998)  \u25aaCommodity consumption by demographics 1994-2008 \u25aaFICRCD: 1994-96 and 1998, 1999-2002, and 2003-2008 ",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45530"
-    }
-  },
-  {
-    "title": "U.S. Food Commodity Consumption Broken Down by Demographics",
-    "datasets": [
-      "dataset-036"
-    ],
-    "original": {
-      "sheet_name": "NHANES",
-      "original_dataset_name": "\u25aaWWEIA/NHANES \u25aaWWEIA/NHANES (1999-2008) \u25aaWWEIA/NHANES (1999-2008) ",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45530"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45530",
+      "sheet_name": "FADS-LAFA"
     }
   },
   {
@@ -1151,20 +821,9 @@
       "dataset-024"
     ],
     "original": {
-      "sheet_name": "CES",
       "original_dataset_name": "\u25aaConsumer Expenditure Survey of the U.S. Bureau of Labor Statistics ",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=80653"
-    }
-  },
-  {
-    "title": "U.S. Households' Demand for Convenience Foods",
-    "datasets": [
-      "dataset-024"
-    ],
-    "original": {
-      "sheet_name": "Qtrly FAFH",
-      "original_dataset_name": NaN,
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=80653"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=80653",
+      "sheet_name": "CES"
     }
   },
   {
@@ -1173,9 +832,9 @@
       "dataset-036"
     ],
     "original": {
-      "sheet_name": "FADS-LAFA",
       "original_dataset_name": "FADS-LAFA",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/82220/eib-166.pdf?v=42762"
+      "pub_url": "https://www.ers.usda.gov/webdocs/publications/82220/eib-166.pdf?v=42762",
+      "sheet_name": "FADS-LAFA"
     }
   },
   {
@@ -1185,9 +844,9 @@
       "dataset-002"
     ],
     "original": {
-      "sheet_name": "IRI",
       "original_dataset_name": "IRI",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=47636"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=47636",
+      "sheet_name": "IRI"
     }
   },
   {
@@ -1197,9 +856,9 @@
       "dataset-060"
     ],
     "original": {
-      "sheet_name": "Census Surveys",
       "original_dataset_name": "\u25aaCensus Bureau\u2019s 2010-14 American Community Survey \u25aaCensus Bureau\u2019s 2010 Decennial Census",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93140"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93140",
+      "sheet_name": "Census Surveys"
     }
   },
   {
@@ -1208,9 +867,9 @@
       "dataset-036"
     ],
     "original": {
-      "sheet_name": "Nielsen",
       "original_dataset_name": "\u25aaNielsen Perishables Group",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=44103"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=44103",
+      "sheet_name": "Nielsen"
     }
   },
   {
@@ -1219,20 +878,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93650"
-    }
-  },
-  {
-    "title": "USDA Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): A New Look at Key Questions 10 Years After USDA Added Whole-Grain Bread to WIC Food Packages in 2009",
-    "datasets": [
-      "dataset-025"
-    ],
-    "original": {
-      "sheet_name": "IRI",
-      "original_dataset_name": "\u25aaIRI",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93650"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93650",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -1241,9 +889,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=87012"
+      "pub_url": "https://www.ers.usda.gov/publications/pub-details/?pubid=87012",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -1252,9 +900,9 @@
       "dataset-026"
     ],
     "original": {
-      "sheet_name": "SNAP Admin",
       "original_dataset_name": "SNAP",
-      "pub_url": "https://www.ers.usda.gov/webdocs/publications/87096/err-244.pdf?v=0"
+      "pub_url": "https://www.ers.usda.gov/webdocs/publications/87096/err-244.pdf?v=0",
+      "sheet_name": "SNAP Admin"
     }
   },
   {
@@ -1263,9 +911,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=79791"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=79791",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -1274,9 +922,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=80541"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=80541",
+      "sheet_name": "FoodAPS"
     }
   },
   {
@@ -1285,20 +933,9 @@
       "dataset-025"
     ],
     "original": {
-      "sheet_name": "FoodAPS",
       "original_dataset_name": "FoodAPS",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45536"
-    }
-  },
-  {
-    "title": "WIC Households' Food Purchases Using WIC Benefits and Paying Out of Pocket: A Case Study of Cold Cereal Purchases",
-    "datasets": [
-      "dataset-025"
-    ],
-    "original": {
-      "sheet_name": "IRI",
-      "original_dataset_name": "IRI",
-      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45536"
+      "pub_url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45536",
+      "sheet_name": "FoodAPS"
     }
   }
 ]
