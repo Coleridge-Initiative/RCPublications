@@ -1,0 +1,811 @@
+[
+  {
+    "title": "Incarceration Length, Employment, and Earnings",
+    "datasets": [
+      "dataset-095",
+      "dataset-089",
+      "dataset-097"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w12003.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Crime and Poverty: Some Experimental Evidence From Ex-Offenders",
+    "datasets": [
+      "dataset-099"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/pdf/2094894.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Prison-based Education and Re-entry into the Mainstream Labor Market",
+    "datasets": [
+      "dataset-095",
+      "dataset-121",
+      "dataset-122",
+      "dataset-089"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w12114.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Moving to Opportunity in Boston: Early Results of a Randomized Mobility Experiment",
+    "datasets": [
+      "dataset-123",
+      "dataset-124",
+      "dataset-125",
+      "dataset-118",
+      "dataset-142",
+      "dataset-143",
+      "dataset-144",
+      "dataset-153"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w7973.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Neighborhoods, Race, and Recidivism: The Community-Reoffending Nexus and its Implications for African Americans",
+    "datasets": [
+      "dataset-118",
+      "dataset-145",
+      "dataset-151",
+      "dataset-152",
+      "dataset-154"
+    ],
+    "original": {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2028179",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "The Effect of Education on Crime: Evidence from Prison Inmates, Arrests, and Self-Reports",
+    "datasets": [
+      "dataset-118",
+      "dataset-161",
+      "dataset-143"
+    ],
+    "original": {
+      "url": "https://eml.berkeley.edu/~moretti/lm46.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Neighborhood Effects On Crime For Female And Male Youth: Evidence From A Randomized Housing Voucher Experiment",
+    "datasets": [
+      "dataset-153",
+      "dataset-118",
+      "dataset-162"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w10777.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Controlling Violent Offenders Released to the Community: An Evaluation of the Boston Reentry Initiative",
+    "datasets": [
+      "dataset-163"
+    ],
+    "original": {
+      "url": "https://www.hks.harvard.edu/sites/default/files/centers/rappaport/files/braga_BRI_final.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Race, Education, Employment, and Recidivism among Offenders in the United States: An Exploration of Complex Issues in the Indianapolis Metropolitan Area",
+    "datasets": [
+      "dataset-165",
+      "dataset-183",
+      "dataset-226"
+    ],
+    "original": {
+      "url": "http://www.ijcjs.com/pdfs/lockwoodetalijcjs2016vol11issue1.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Post-Release Recidivism and Employment among Different Types of Released Offenders: A 5-Year follow-up Study in the United States",
+    "datasets": [
+      "dataset-165",
+      "dataset-183",
+      "dataset-226"
+    ],
+    "original": {
+      "url": "https://www.sascv.org/ijcjs/pdfs/nallyetalijcjs2014vol9issue1.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Mass Reentry, Neighborhood Context and Recidivism: Examining How the Distribution of Parolees Within and Across Neighborhoods Impacts Recidivism",
+    "datasets": [
+      "dataset-118",
+      "dataset-184"
+    ],
+    "original": {
+      "url": "https://www.researchgate.net/publication/276365992_Mass_Reentry_Neighborhood_Context_and_Recidivism_Examining_How_the_Distribution_of_Parolees_Within_and_Across_Neighborhoods_Impacts_Recidivism",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "The Criminal and Labor Market Effects of Incarceration",
+    "datasets": [
+      "dataset-099",
+      "dataset-148",
+      "dataset-180",
+      "dataset-185",
+      "dataset-186",
+      "dataset-187"
+    ],
+    "original": {
+      "url": "https://sites.lsa.umich.edu/mgms/wp-content/uploads/sites/283/2015/09/incar.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Predicting Recidivism for Released State Prison Offenders: Examining the Influence of Individual and Neighborhood Characteristics and Spatial Contagion on the Likelihood of Reincarceration.",
+    "datasets": [
+      "dataset-188",
+      "dataset-189"
+    ],
+    "original": {
+      "url": "https://www.researchgate.net/publication/258129289_Predicting_Recidivism_for_Released_State_Prison_Offenders",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Recidivism of Prisoners Released in 30 States in 2005: Patterns from 2005 to 2010",
+    "datasets": [
+      "dataset-190"
+    ],
+    "original": {
+      "url": "https://www.bjs.gov/content/pub/pdf/rprts05p0510.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Transitional Jobs for Ex-Prisoners: Early Impacts from a Random Assignment Evaluation of the Center for Employment Opportunities (CEO) Prisoner Reentry Program",
+    "datasets": [
+      "dataset-191",
+      "dataset-192",
+      "dataset-193"
+    ],
+    "original": {
+      "url": "https://www.acf.hhs.gov/sites/default/files/opre/transitional_jobs.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Examining the Predictors of Recidivism Among Men and Women Released From Prison in Ohio",
+    "datasets": [
+      "dataset-184"
+    ],
+    "original": {
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0093854810382876?journalCode=cjbb",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Incarceration Among Male Veterans Relative Risk of Imprisonment and Differences Between Veteran and Nonveteran Inmates",
+    "datasets": [
+      "dataset-194",
+      "dataset-195",
+      "dataset-196"
+    ],
+    "original": {
+      "url": "https://www.researchgate.net/publication/51059966_Incarceration_Among_Male_Veterans_Relative_Risk_of_Imprisonment_and_Differences_Between_Veteran_and_Nonveteran_Inmates",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Administrative Privatization and Employment Outcomes in the Implementation of Temporary Assistance to Needy Families",
+    "datasets": [
+      "dataset-084"
+    ],
+    "original": {
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0193841X15589257?rfr_dat=cr_pub%3Dpubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&journalCode=erxb",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Home is Hard to Find: Neighborhoods, Institutions, and the Residential Trajectories of Returning Prisoners",
+    "datasets": [
+      "dataset-118",
+      "dataset-197"
+    ],
+    "original": {
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0002716213477070?journalCode=anna",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Racial Variation in the Effect of Incarceration on Neighborhood Attainment",
+    "datasets": [
+      "dataset-118",
+      "dataset-143",
+      "dataset-198"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3870004/",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Homelessness and Housing Insecurity Among Former Prisoners",
+    "datasets": [
+      "dataset-075",
+      "dataset-197"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4762459/",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Does Prison-Based Adult Basic Education Improve Postrelease Outcomes for Male Prisoners in Florida?",
+    "datasets": [
+      "dataset-089",
+      "dataset-095",
+      "dataset-121",
+      "dataset-122"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4288462/",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Longitudinal Outcomes of Subsidized Housing Recipients in Matched Survey and Administrative Data",
+    "datasets": [
+      "dataset-027",
+      "dataset-200"
+    ],
+    "original": {
+      "url": "https://pdfs.semanticscholar.org/e30b/52f42ffbe62162d243072cba4b4e11fcc762.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Community InReach Through Jail Reentry: Findings from a QuasiExperimental Design",
+    "datasets": [
+      "dataset-199"
+    ],
+    "original": {
+      "url": "https://www.researchgate.net/publication/248967528_Community_In-Reach_Through_Jail_Reentry_Findings_from_a_Quasi-Experimental_Design",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Predicting Who Reoffends: The Neglected Role Of Neighborhood Context In Recidivism Studies",
+    "datasets": [
+      "dataset-118",
+      "dataset-145",
+      "dataset-151",
+      "dataset-152",
+      "dataset-154"
+    ],
+    "original": {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2006.00046.x",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Neighborhoods and Violent Crime: A Multilevel Study of Collective Efficacy",
+    "datasets": [
+      "dataset-118",
+      "dataset-201"
+    ],
+    "original": {
+      "url": "http://illinois-online.org/krassa/ps410/Readings/Sampson%20Miltilevel%20Study%20of%20Collective%20Efficacy.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Do Returning Parolees Affect Neighborhood Crime? A Case Study of Sacramento",
+    "datasets": [
+      "dataset-118",
+      "dataset-161",
+      "dataset-202",
+      "dataset-203"
+    ],
+    "original": {
+      "url": "https://escholarship.org/uc/item/73j1w50j",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Making Ends Meet After Prison",
+    "datasets": [
+      "dataset-197"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4288962/",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "The Impact of Residential Placement on Aggregate Delinquency: A State-Level Panel Study, 1997-2011",
+    "datasets": [
+      "dataset-118",
+      "dataset-161",
+      "dataset-204",
+      "dataset-205",
+      "dataset-206",
+      "dataset-207"
+    ],
+    "original": {
+      "url": "https://journals-sagepub-com.ezproxy.gc.cuny.edu/doi/full/10.1177/0887403414534854",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "An Outcome Evaluation of a Midwestern Prisoner Reentry Initiative",
+    "datasets": [
+      "dataset-197"
+    ],
+    "original": {
+      "url": "https://journals.sagepub.com/doi/10.1177/0887403413514438",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Is Employment Associated With Reduced Recidivism? The Complex Relationship Between Employment and Crime",
+    "datasets": [
+      "dataset-186"
+    ],
+    "original": {
+      "url": "https://pdfs.semanticscholar.org/7faa/128a89b2c3c4c3ad60f566a4042d709ecfa8.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Where Do Ex-Offenders Find Jobs? An Industrial Profile of the Employers of Ex-Offenders in Virginia",
+    "datasets": [
+      "dataset-255"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/23282804?seq=1#metadata_info_tab_contents",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Indiana Industry Sectors That Hire Ex-Offenders: Implications to Correctional Education Programs",
+    "datasets": [
+      "dataset-165",
+      "dataset-183"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/pdf/26507741.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Ex-Offenders and the Conformist Alternative: A Job Quality Model of Work and Crime",
+    "datasets": [
+      "dataset-256"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/3097165?seq=1#metadata_info_tab_contents",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Work as a Turning Point in the Life Course of Criminals: A Duration Model of Age, Employment, and Recidivism",
+    "datasets": [
+      "dataset-256"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/pdf/2657381.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Minnesota's Affordable Homes Program Evaluating the Effects of a Prison Work Program on Recidivism, Employment and Cost Avoidance",
+    "datasets": [
+      "dataset-257",
+      "dataset-258",
+      "dataset-259"
+    ],
+    "original": {
+      "url": "https://journals.sagepub.com/doi/10.1177/0887403411411911",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Cumulative Disadvantage and the Role of Transportation in Community Supervision",
+    "datasets": [
+      "dataset-161",
+      "dataset-260"
+    ],
+    "original": {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/0011128716686344",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Driving to Opportunity: Understanding the Links among Transportation Access, Residential Outcomes, and Economic Opportunity for Housing Voucher Recipients",
+    "datasets": [
+      "dataset-118",
+      "dataset-153",
+      "dataset-305",
+      "dataset-306",
+      "dataset-307"
+    ],
+    "original": {
+      "url": "https://www.urban.org/research/publication/driving-opportunity-understanding-links-among-transportation-access-residential-outcomes-and-economic-opportunity-housing-voucher-recipients",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "More Than a Job Final Results from the Evaluation of the Center for Employment Opportunities (CEO) Transitional Jobs Program",
+    "datasets": [
+      "dataset-192",
+      "dataset-193",
+      "dataset-191",
+      "dataset-274"
+    ],
+    "original": {
+      "url": "https://www.acf.hhs.gov/sites/default/files/opre/more_than_job.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Transitional jobs after release from prison: effects on employment and recidivism",
+    "datasets": [
+      "dataset-066",
+      "dataset-191",
+      "dataset-239",
+      "dataset-258",
+      "dataset-260",
+      "dataset-308",
+      "dataset-323",
+      "dataset-324",
+      "dataset-325",
+      "dataset-326",
+      "dataset-220",
+      "dataset-075",
+      "dataset-176",
+      "dataset-063"
+    ],
+    "original": {
+      "url": "https://link.springer.com/article/10.1186/s40173-015-0043-8",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "An Experimental Evaluation of a Comprehensive Employment-Oriented Prisoner Re-entry Program",
+    "datasets": [
+      "dataset-309"
+    ],
+    "original": {
+      "url": "https://link.springer.com/article/10.1007/s10940-014-9242-5",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Alternative Employment Strategies for Hard-to-Employ TANF Recipients: Final Results from a Test of Transitional Jobs and Preemployment Services in Philadelphia",
+    "datasets": [
+      "dataset-274",
+      "dataset-316",
+      "dataset-320"
+    ],
+    "original": {
+      "url": "https://www.mdrc.org/publication/alternative-employment-strategies-hard-employ-tanf-recipients",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Returning to Work after Prison - Final Results from the Transitional Jobs Reentry Demonstration",
+    "datasets": [
+      "dataset-063",
+      "dataset-075",
+      "dataset-176",
+      "dataset-220",
+      "dataset-260",
+      "dataset-258",
+      "dataset-259",
+      "dataset-323",
+      "dataset-326",
+      "dataset-239",
+      "dataset-066",
+      "dataset-324"
+    ],
+    "original": {
+      "url": "https://www.mdrc.org/publication/returning-work-after-prison",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "An experimental evaluation of a nationally recognized employment-focused offender reentry program",
+    "datasets": [
+      "dataset-317"
+    ],
+    "original": {
+      "url": "https://link.springer.com/article/10.1007/s11292-014-9201-z",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Race-specific Employment Contexts and Recidivism",
+    "datasets": [
+      "dataset-095",
+      "dataset-118",
+      "dataset-121"
+    ],
+    "original": {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2010.00215.x",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Incarceration and the Legitimate Labor Market: Examining Age-Graded Effects on Employment and Wages",
+    "datasets": [
+      "dataset-158",
+      "dataset-327"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/40538733?seq=1#metadata_info_tab_contents",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Long-term effects of the Moving to Opportunity residential mobility experiment on crime and delinquency",
+    "datasets": [
+      "dataset-153"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3858819/",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Neighborhood Effects on Barriers to Employment: Results From a Randomized Housing Mobility Experiment in Baltimore",
+    "datasets": [
+      "dataset-153"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/25067430?seq=1#metadata_info_tab_contents",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Escaping Low Earnings: The Role of Employer Characteristics and Changes",
+    "datasets": [
+      "dataset-170"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/4126683?seq=1#metadata_info_tab_contents",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "The LEHD infrastructure files and the creation of the Quarterly Workforce Indicators",
+    "datasets": [
+      "dataset-027",
+      "dataset-062",
+      "dataset-328"
+    ],
+    "original": {
+      "url": "https://lehd.ces.census.gov/doc/technical_paper/tp-2006-01.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "National Estimates of Gross Employment and Job Flows from the Quarterly Workforce Indicators with Demographic and Industry Detail",
+    "datasets": [
+      "dataset-170",
+      "dataset-328",
+      "dataset-341"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3079891/",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Does Federally-Funded Job Training Work? Nonexperimental Estimates of WIA Training Impacts Using Longitudinal Data on Workers and Firms",
+    "datasets": [
+      "dataset-343",
+      "dataset-170"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w19446",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Temporary Help Agencies and the Advancement Prospects of Low Earners",
+    "datasets": [
+      "dataset-170"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w13434",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Job Creation, Worker Churning, and Wages at Young Businesses",
+    "datasets": [
+      "dataset-170",
+      "dataset-344"
+    ],
+    "original": {
+      "url": "https://www.kauffman.org/-/media/kauffman_org/research-reports-and-covers/2012/11/bds_report_7.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Exploring Differences in Employment between Household and Establishment Data",
+    "datasets": [
+      "dataset-062",
+      "dataset-345"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/10.1086/669062?seq=1#metadata_info_tab_contents",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Job-to-Job Flows in the Great Recession",
+    "datasets": [
+      "dataset-170"
+    ],
+    "original": {
+      "url": "https://www.aeaweb.org/articles?id=10.1257/aer.102.3.580",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Estimation of Job-to-Job Flow Rates under Partially Missing Geography",
+    "datasets": [
+      "dataset-170"
+    ],
+    "original": {
+      "url": "https://ideas.repec.org/p/cen/wpaper/12-29.html",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Employer-to-Employer Flows in the United States: Estimates Using Linked Employer-Employee Data",
+    "datasets": [
+      "dataset-170"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/23243750?seq=1#metadata_info_tab_contents",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "The Dynamics of Worker Reallocation Within and Across Industries",
+    "datasets": [
+      "dataset-170"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/4541509?seq=1#metadata_info_tab_contents",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Estimating the 'True' Cost of Job Loss: Evidence Using Matched Data from California 1991-2000",
+    "datasets": [
+      "dataset-097"
+    ],
+    "original": {
+      "url": "https://ideas.repec.org/p/cen/wpaper/09-14.html",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Long-Term Neighborhood Effects on Low-Income Families:Evidence from Moving to Opportunity",
+    "datasets": [
+      "dataset-153"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w18772",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Neighborhoods, Obesity, and Diabetes: A Randomized Social Experiment",
+    "datasets": [
+      "dataset-153"
+    ],
+    "original": {
+      "url": "https://dash.harvard.edu/bitstream/handle/1/8642951/57317788.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Neighborhood Effects on the Long-Term Well-Being of Low-Income Adults",
+    "datasets": [
+      "dataset-153"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491569/",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Public and Private Spheres of Neighborhood Disorder: Assessing Pathways to Violence Using Large-scale Digital Records",
+    "datasets": [
+      "dataset-046",
+      "dataset-164"
+    ],
+    "original": {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/0022427815577835",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Juvenile Arrest and Collateral Educational Damage in the Transition to Adulthood",
+    "datasets": [
+      "dataset-321",
+      "dataset-352"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4192649/",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Parental Incarceration: Recent Trends and Implications for Child Welfare",
+    "datasets": [
+      "dataset-195",
+      "dataset-353"
+    ],
+    "original": {
+      "url": "https://www.jstor.org/stable/10.1086/341184?seq=1#metadata_info_tab_contents",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Children of Incarcerated Parents",
+    "datasets": [
+      "dataset-354",
+      "dataset-355"
+    ],
+    "original": {
+      "url": "https://www.alleghenycountyanalytics.us/wp-content/uploads/2016/06/Children-of-Incarcerated-Parents.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Classifying Adult Probationers by Forecasting Future Offending",
+    "datasets": [
+      "dataset-118"
+    ],
+    "original": {
+      "url": "https://www.ncjrs.gov/pdffiles1/nij/grants/238082.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Validation of the Employment Retention Inventory",
+    "datasets": [
+      "dataset-356",
+      "dataset-357"
+    ],
+    "original": {
+      "url": "http://www.urban.org/sites/default/files/publication/85331/validation-of-the-employment-retention-inventory.pdf",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  },
+  {
+    "title": "Can Escaping from Poor Neighborhoods Increase Employment and earnings",
+    "datasets": [
+      "dataset-153",
+      "dataset-170"
+    ],
+    "original": {
+      "url": "https://www.urban.org/research/publication/can-escaping-poor-neighborhoods-increase-employment-and-earnings",
+      "date_added": "2019-10-11 16:38:11"
+    }
+  }
+]
