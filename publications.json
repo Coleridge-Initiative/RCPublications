@@ -308,8 +308,8 @@
   {
     "title": "Consumers Balance Time and Money in Purchasing Convenience Foods",
     "datasets": [
-      "dataset-026",
-      "dataset-025"
+      "dataset-025",
+      "dataset-026"
     ],
     "original": {
       "journal": NaN,
@@ -324,8 +324,8 @@
   {
     "title": "Where Households Get Food in a Typical Week: Findings From USDA's FoodAPS",
     "datasets": [
-      "dataset-026",
-      "dataset-025"
+      "dataset-025",
+      "dataset-026"
     ],
     "original": {
       "journal": NaN,
@@ -377,8 +377,8 @@
   {
     "title": "Diet Quality Over the Monthly Supplemental Nutrition Assistance Program Cycle",
     "datasets": [
-      "dataset-025",
-      "dataset-346"
+      "dataset-346",
+      "dataset-025"
     ],
     "original": {
       "journal": "American journal of preventive medicine",
@@ -476,8 +476,8 @@
   {
     "title": "Re-Examining the SNAP Benefit Cycle Allowing for Heterogeneity",
     "datasets": [
-      "dataset-026",
-      "dataset-025"
+      "dataset-025",
+      "dataset-026"
     ],
     "original": {
       "journal": NaN,
@@ -490,9 +490,9 @@
   {
     "title": "Salience, Food Security, and SNAP Receipt",
     "datasets": [
-      "dataset-026",
+      "dataset-033",
       "dataset-025",
-      "dataset-033"
+      "dataset-026"
     ],
     "original": {
       "journal": NaN,
@@ -593,9 +593,9 @@
   {
     "title": "Food-at-Home Expenditures: Comparing Commercial Household Scanner Data From IRI and Government Survey Data",
     "datasets": [
-      "dataset-024",
       "dataset-025",
-      "dataset-002"
+      "dataset-002",
+      "dataset-024"
     ],
     "original": {
       "journal": "United States Department of Agriculture, Economic Research Service",
@@ -623,8 +623,8 @@
   {
     "title": "The Food-Spending Patterns of Households Participating in the Supplemental Nutrition Assistance Program: Findings From USDA's FoodAPS",
     "datasets": [
-      "dataset-026",
-      "dataset-025"
+      "dataset-025",
+      "dataset-026"
     ],
     "original": {
       "journal": NaN,
@@ -681,9 +681,9 @@
   {
     "title": "America's Eating Habits: Food Away From Home",
     "datasets": [
+      "dataset-057",
       "dataset-001",
       "dataset-025",
-      "dataset-057",
       "dataset-017"
     ],
     "original": {
@@ -699,9 +699,9 @@
   {
     "title": "Eat at Home or Away from Home? The Role of Grocery and Restaurant Food Sales Taxes",
     "datasets": [
-      "dataset-026",
+      "dataset-033",
       "dataset-025",
-      "dataset-033"
+      "dataset-026"
     ],
     "original": {
       "journal": NaN,
@@ -812,8 +812,8 @@
   {
     "title": "The Cost of Satisfying Fruit and Vegetable Recommendations in the Dietary Guidelines",
     "datasets": [
-      "dataset-001",
       "dataset-058",
+      "dataset-001",
       "dataset-032",
       "dataset-002"
     ],
@@ -873,9 +873,9 @@
   {
     "title": "Food Purchase Decisions of Millennial Households Compared to Other Generations",
     "datasets": [
+      "dataset-051",
       "dataset-002",
-      "dataset-052",
-      "dataset-051"
+      "dataset-052"
     ],
     "original": {
       "url": "https://www.ers.usda.gov/webdocs/publications/86401/eib-186.pdf?v=43097",
@@ -944,6 +944,3802 @@
       "journal": "United States Department of Agriculture, Economic Research Service",
       "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=42970",
       "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "How does P2P lending fit into the consumer credit market?",
+    "datasets": [
+      "dataset-012"
+    ],
+    "original": {
+      "bbk_dataset": "ZISTA",
+      "doi": "10.2139/ssrn.2756191 ",
+      "authors": "Tasca P., de Roure C., Pelizzon L.",
+      "paper": "Discussion_Paper_Tasca_deRoure_Pelizzon",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2756191",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Moral Suasion in Regional Government Bond Markets",
+    "datasets": [
+      "dataset-432"
+    ],
+    "original": {
+      "bbk_dataset": NaN,
+      "doi": NaN,
+      "authors": "Ohls J.",
+      "paper": "Discussion_Paper_Ohls",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=3083988",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "International monetary policy spillovers through the bank funding channel",
+    "datasets": [
+      "dataset-380",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA, BISTA",
+      "doi": "10.1016/j.jimonfin.2018.08.012 ",
+      "authors": "Vogel U., Loeffler A., Segalla E., Valitova G., Lindner P.",
+      "paper": "Discussion_Paper_Vogel_Valitova_Loeffler_Segalla",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=3250745",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Cheap Talk? Financial Sanctions and Non-Financial Activity",
+    "datasets": [
+      "dataset-015",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "SITS, USTAN",
+      "doi": NaN,
+      "authors": "Nitsch V., Besedes T., Goldbach S.",
+      "paper": "Discussion_Paper_Nitsch_Besedes_Goldbach",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=3183674",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Quantitative Easing, Portfolio Rebalancing and Credit Growth: Micro Evidence from Germany",
+    "datasets": [
+      "dataset-432",
+      "dataset-433",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": NaN,
+      "doi": NaN,
+      "authors": "Tischer J.",
+      "paper": "Discussion_Paper_Tischer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=3234184",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Asset Purchases, Bank Lending, and Security Holdings: The Yield-Induced Portfolio Rebalancing Channel",
+    "datasets": [
+      "dataset-013",
+      "dataset-012",
+      "dataset-431",
+      "dataset-432",
+      "dataset-388",
+      "dataset-385"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, CSDB, SHS-BASE, GUV, ZISTA",
+      "doi": NaN,
+      "authors": "Paludkiewicz K.",
+      "paper": "Discussion_Paper_Paludkiewicz",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=3214522",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Banks' Trading after the Lehman Crisis - The Role of Unconventional Monetary Policy",
+    "datasets": [
+      "dataset-432",
+      "dataset-434",
+      "dataset-388",
+      "dataset-433"
+    ],
+    "original": {
+      "bbk_dataset": NaN,
+      "doi": NaN,
+      "authors": "Tischer J., Podlich N., Schnabel I.",
+      "paper": "Discussion_Paper_Podlich_Schnabel_Tischer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=3002414",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Bargaining power and outside options in the interbank lending market",
+    "datasets": [
+      "dataset-389"
+    ],
+    "original": {
+      "bbk_dataset": "TARGET2",
+      "doi": NaN,
+      "authors": "Abbassi P., Br\u00e4uning F., Schulze N.",
+      "paper": "Discussion_Paper_Abbassi_Br\u00e4uning_Schulze",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=3065181",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "A Comprehensive View on Risk Reporting: Evidence From Supervisory Data",
+    "datasets": [
+      "dataset-013",
+      "dataset-431",
+      "dataset-432",
+      "dataset-005",
+      "dataset-385"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, MIMIK, SHS-BASE, GUV",
+      "doi": NaN,
+      "authors": "Abbassi P., Schmidt M.",
+      "paper": "Discussion_Paper_Abbassi_Schmidt",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=3015743",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The Financial Market Effects of the ECB's Asset Purchase Programs",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Roth M., Lewis V.",
+      "paper": "Discussion_Paper_Lewis_Roth",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=3063310",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Will German banks earn their cost of capital?",
+    "datasets": [
+      "dataset-385",
+      "dataset-012"
+    ],
+    "original": {
+      "bbk_dataset": "GUV, ZISTA",
+      "doi": NaN,
+      "authors": "Dombret A., G\u00fcnd\u00fcz Y., Rocholl J.",
+      "paper": "Discussion_Paper_Dombret_G\u00fcnd\u00fcz_Rocholl",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2910286",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Love and money with inheritance - marital sorting by labor income and inherited wealth in the modern partnership",
+    "datasets": [
+      "dataset-382"
+    ],
+    "original": {
+      "bbk_dataset": "PHF",
+      "doi": NaN,
+      "authors": "Zhu J., Pasteau E.",
+      "paper": "Discussion_Paper_Pasteau_Zhu",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=3234187",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Interbank Intermediation",
+    "datasets": [
+      "dataset-005",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, MIMIK",
+      "doi": NaN,
+      "authors": "Bluhm M., Krahnen J., Georg C.",
+      "paper": "Discussion_Paper_Bluhm_Georg_Krahnen",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1188516",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Why do banks bear interest rate risk?",
+    "datasets": [
+      "dataset-013",
+      "dataset-012",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS, BISTA, ZISTA",
+      "doi": NaN,
+      "authors": "Memmel C.",
+      "paper": "Discussion_Paper_Memmel",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1711002",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "A new perspective on the interest rate pass-through to non-maturing accounts",
+    "datasets": [
+      "dataset-012"
+    ],
+    "original": {
+      "bbk_dataset": "ZISTA",
+      "doi": NaN,
+      "authors": "Sopp H.",
+      "paper": "Discussion_Paper_Sopp",
+      "journal": "BBk Discussion Paper",
+      "url": NaN,
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Vulnerable asset management? The case of mutual funds",
+    "datasets": [
+      "dataset-005",
+      "dataset-431",
+      "dataset-432",
+      "dataset-383"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK, SHS-BASE, IFS-BASE",
+      "doi": NaN,
+      "authors": "Fricke D., Fricke C.",
+      "paper": "Discussion_Paper_Fricke_C_Fricke_D",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2866301",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "International Banking and Cross-Border Effects of Regulation: Lessons from Germany",
+    "datasets": [
+      "dataset-380",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA, BISTA",
+      "doi": NaN,
+      "authors": "Ohls J., Tonzer L., Pramor M.",
+      "paper": "Discussion_Paper_Ohls_Pramor_Tonzer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2848040",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "CDS and Credit: Testing the Small Bang Theory of the Financial Universe with Micro Data",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": NaN,
+      "doi": NaN,
+      "authors": "G\u00fcnd\u00fcz Y., Ongena S., T\u00fcmer-Alkan G., Yu Y.",
+      "paper": "Discussion_Paper_G\u00fcnd\u00fcz_Ongena_Yu_T\u00fcmer_Alkan",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2607909",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "The Effect of Investing Abroad on Investment at Home",
+    "datasets": [
+      "dataset-008",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI, USTAN",
+      "doi": NaN,
+      "authors": "Nagengast A., Goldbach S., Wamser G., Steinm\u00fcller E.",
+      "paper": "Discussion_Paper_Goldbach_Steinm\u00fcller_Nagengast_Wamser",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=483322",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Banks' Equity Stakes and Lending: Evidence from a Tax Reform",
+    "datasets": [
+      "dataset-006",
+      "dataset-013",
+      "dataset-005",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS, BISTA, MIMIK, USTAN",
+      "doi": NaN,
+      "authors": "Foos D., von Beschwitz B.",
+      "paper": "Discussion_Paper_Foos_von_Beschwitz",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2870321",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "M-PRESS-CreditRisk: A holistic micro- and macro-prudential approach to capital requirements",
+    "datasets": [
+      "dataset-005",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS, MIMIK",
+      "doi": NaN,
+      "authors": "Slopek U., Tente N., Westernhagen N.",
+      "paper": "Discussion_Paper_Tente_von_Westernhagen_Slopek",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ideas.repec.org/p/zbw/bubdps/152017.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Cross-border transmission of emergency liquidity",
+    "datasets": [
+      "dataset-013",
+      "dataset-012",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS, BISTA, ZISTA",
+      "doi": NaN,
+      "authors": "Kick T., Koetter M., Storz M.",
+      "paper": "Discussion_Paper_Koetter_Kick_Storz",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2848047",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Bank stress testing under different balance sheet assumptions",
+    "datasets": [
+      "dataset-434"
+    ],
+    "original": {
+      "bbk_dataset": NaN,
+      "doi": NaN,
+      "authors": "Busch R., Drescher C., Memmel C.",
+      "paper": "Discussion_Paper_Busch_Drescher_Memmel",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2956676",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Cyclical investment behavior across financial institutions",
+    "datasets": [
+      "dataset-431",
+      "dataset-432"
+    ],
+    "original": {
+      "bbk_dataset": "SHS-BASE",
+      "doi": NaN,
+      "authors": "Timmer Y.",
+      "paper": "Discussion_Paper_Timmer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2696647",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Fundamentals matter: Idiosyncratic shocks and interbank relations",
+    "datasets": [
+      "dataset-005",
+      "dataset-013",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK, BISTA, BAKIS",
+      "doi": NaN,
+      "authors": "Bednarek P., Dinger V., Westernhagen N.",
+      "paper": "Discussion_Paper_Bednarek_Dinger_von_Westernhagen",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2797069",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Arbitraging the Basel securitization framework: Evidence from German ABS investment",
+    "datasets": [
+      "dataset-431",
+      "dataset-432"
+    ],
+    "original": {
+      "bbk_dataset": "SHS-BASE",
+      "doi": NaN,
+      "authors": "Efing M.",
+      "paper": "Discussion_Paper_Efing",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2527981",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The winner's curse: Evidence on the danger of aggressive credit growth in banking",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Kick T., Pausch T., Ruprecht B.",
+      "paper": "Discussion_Paper_Kick_Pausch_Ruprecht",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2797057",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Cutting the credit line: Evidence from Germany",
+    "datasets": [
+      "dataset-005",
+      "dataset-006",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK, USTAN, BAKIS",
+      "doi": NaN,
+      "authors": "Goldbach S., Nitsch V.",
+      "paper": "Discussion_Paper_Goldbach_Nitsch",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2797050",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Who trades on momentum?",
+    "datasets": [
+      "dataset-431",
+      "dataset-432"
+    ],
+    "original": {
+      "bbk_dataset": "SHS-BASE",
+      "doi": NaN,
+      "authors": "Baltzer M., Jank S., Smajlbegovic E.",
+      "paper": "Discussion_Paper_Baltzer_Jank_Smajlbegovic",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=364000",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Loan loss provisioning and procyclicality: Evidence from an expected loss model",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Domikowsky C., Bornemann S., Duellmann K., Pfingsten A.",
+      "paper": "Discussion_Paper_Domikowsky_Duellmann_Bornemann_Pfingsten",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2797018",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Pro-cyclical capital regulation and lending",
+    "datasets": [
+      "dataset-005",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK, BAKIS",
+      "doi": NaN,
+      "authors": "Behn M., Haselmann R., Wachtel P.",
+      "paper": "Discussion_Paper_Behn_Haselmann_Wachtel",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=632687",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "A network analysis of the evolution of the German interbank market",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK",
+      "doi": NaN,
+      "authors": "Roukny T., Georg C. , Battiston S.",
+      "paper": "Discussion_Paper_Roukny_Georg_Battiston",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2796998",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Interbank lending and distress: Observables, unobservables, and network structure",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Craig B., Koetter M., Kr\u00fcger U.",
+      "paper": "Discussion_Paper_Craig_Koetter_Kr\u00fcger",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2505190",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Wealth shocks, credit-supply shocks, and asset allocation: Evidence from household and firm portfolios",
+    "datasets": [
+      "dataset-431",
+      "dataset-432"
+    ],
+    "original": {
+      "bbk_dataset": "SHS-BASE",
+      "doi": NaN,
+      "authors": "Kick T., Ruprecht B., Onali E., Schaeck K.",
+      "paper": "Discussion_Paper_Kick_Ruprecht_Onali_Schaeck",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2408449",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Market timing, maturity mismatch, and risk management: Evidence from the banking industry",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Ruprecht B., Entrop O., Kick T., Wilkens M.",
+      "paper": "Discussion_Paper_Ruprecht_Kick_Entrop_Wilkens",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2396922",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Changing forces of gravity: How the crisis affected international banking",
+    "datasets": [
+      "dataset-380"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA",
+      "doi": NaN,
+      "authors": "Buch C., Neugebauer K., Schr\u00f6der C.",
+      "paper": "Discussion_Paper_Buch_Neugebauer_Schr\u00f6der",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2385996",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Cash holdings of German open-end equity funds: Does ownership matter?",
+    "datasets": [
+      "dataset-383"
+    ],
+    "original": {
+      "bbk_dataset": "IFS-BASE",
+      "doi": NaN,
+      "authors": "D\u00f6tz N., Weth M.",
+      "paper": "Discussion_Paper_Doetz_Weth",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2356827",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Is proprietary trading detrimental to retail investors?",
+    "datasets": [
+      "dataset-431",
+      "dataset-432"
+    ],
+    "original": {
+      "bbk_dataset": "SHS-BASE",
+      "doi": NaN,
+      "authors": "Fecht F., Hackethal A., Karabulut Y.",
+      "paper": "Discussion_Paper_Fecht_Hackethal_Karabulut",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1783679",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Precautionary motives in short-term cash management: Evidence from German POS transactions",
+    "datasets": [
+      "dataset-004"
+    ],
+    "original": {
+      "bbk_dataset": NaN,
+      "doi": NaN,
+      "authors": "Eschelbach M., Schmidt T.",
+      "paper": "Discussion_Paper_Eschelbach_Schmidt",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2796927",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Testing the O-ring theory for FDI",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Engemann M., Lindemann H.",
+      "paper": "Discussion_Paper_Engemann_Lindemann",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2796917",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Evaluation of minimum capital requirements for bank loans to SMEs",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "D\u00fcllmann K., Koziol P.",
+      "paper": "Discussion_Paper_D\u00fcllmann_Koziol",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2796913",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Does non-interest income make banks more risky? Retail- versus investment-oriented banks",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "K\u00f6hler M.",
+      "paper": "Discussion_Paper_K\u00f6hler",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2796907",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The determinants of service imports: The role of cost pressure and financial constraints",
+    "datasets": [
+      "dataset-015",
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "SITS, MIDI",
+      "doi": NaN,
+      "authors": "Biewen E., Harsch D., Spies J.",
+      "paper": "Discussion_Paper_Biewen_Harsch_Spies",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2796888",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Tax incentives and capital structure choice: Evidence from Germany",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Hartmann-Wendels T., Stein I., St\u00f6ter A.",
+      "paper": "Discussion_Paper_Hartmann_Wendels_Stein_St\u00f6ter",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2140896",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The PHF: A comprehensive panel survey on household finances and wealth in Germany",
+    "datasets": [
+      "dataset-382"
+    ],
+    "original": {
+      "bbk_dataset": "PHF",
+      "doi": NaN,
+      "authors": "Kalckreuth U., Eisele M., Le Blanc J., Schmidt T., Zhu J.",
+      "paper": "Discussion_Paper_von_Kalckreuth_Eisele_LeBlanc_Schmidt_Zhu",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2796868",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Bank-related loan supply factors during the crisis: An analysis based on the German bank lending survey",
+    "datasets": [
+      "dataset-387"
+    ],
+    "original": {
+      "bbk_dataset": "BLS",
+      "doi": NaN,
+      "authors": "Blaes B.",
+      "paper": "Discussion_Paper_Blaes",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785427",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The use of tax havens in exemption regimes",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Gumpert A., Hines J., Schnitzer M.",
+      "paper": "Discussion_Paper_Gumpert_Hines_Schnitzer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1971468",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Crises, rescues, and policy transmission through international banks",
+    "datasets": [
+      "dataset-380"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA",
+      "doi": NaN,
+      "authors": "Buch C., Koch C., Koetter M.",
+      "paper": "Discussion_Paper_Buch_Koch_Koetter",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2195508",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Improvements in rating models for the German corporate sector",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "F\u00f6rstemann T.",
+      "paper": "Discussion_Paper_F\u00f6rstemann",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794066",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Portfolio holdings in the euro area - home bias and the role of international, domestic and sector-specific factors",
+    "datasets": [
+      "dataset-431"
+    ],
+    "original": {
+      "bbk_dataset": "SHS-BASE",
+      "doi": NaN,
+      "authors": "Jochem A., Volz U.",
+      "paper": "Discussion_Paper_Jochem_Volz",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785398",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Are there disadvantaged clienteles in mutual funds?",
+    "datasets": [
+      "dataset-431"
+    ],
+    "original": {
+      "bbk_dataset": "SHS-BASE",
+      "doi": NaN,
+      "authors": "Jank S.",
+      "paper": "Discussion_Paper_Jank",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794053",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Do specialization benefits outweigh concentration risks in credit portfolios of German banks?",
+    "datasets": [
+      "dataset-381"
+    ],
+    "original": {
+      "bbk_dataset": "VJKRE",
+      "doi": NaN,
+      "authors": "B\u00f6ve R., D\u00fcllmann K., Pfingsten A.",
+      "paper": "Discussion_Paper_Jank",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794048",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Do banks benefit from internationalization? Revisiting the market power-risk nexus",
+    "datasets": [
+      "dataset-380"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA",
+      "doi": NaN,
+      "authors": "Buch C., Koch C., Koetter M. ",
+      "paper": "Discussion_Paper_Koch_Koetter_Buch",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794047",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "What drives portfolio investments of German banks in emerging capital markets?",
+    "datasets": [
+      "dataset-380"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA",
+      "doi": NaN,
+      "authors": "Wildmann C.",
+      "paper": "Discussion_Paper_Wildmann",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794042",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Exports versus FDI revisited: does finance matter?",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Buch C., Kesternich I., Lipponer A., Schnitzer M.",
+      "paper": "Discussion_Paper_Buch_Kesternich_Lipponer_Schnitzer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785367",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Tax vs. Regulation Policy and the Location of ,Financial Sector FDI*",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Julia Merz, Michael Overesch, Georg Wamser",
+      "paper": "Working_Paper_Merz_Overesch_Wamser",
+      "journal": "CESifo Working Paper Series No. 5500, available at SSRN Electronic Journal: https://ssrn.com/abstract=2669368",
+      "url": "https://ssrn.com/abstract=2669368",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Environmental Regulation and Foreign Direct Investment: The Role of the Mode of Entry",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Sylwia Bialek, Alfons J. Weichenrieder",
+      "paper": NaN,
+      "journal": "CESifo DICE Report 4/2015, pp. 41-47",
+      "url": "https://ideas.repec.org/a/ces/ifodic/v13y2016i04p41-47.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "European climate policy and industrial relocation: Evidence from German multinational firms",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Nicolas Koch, Houdou Basse Mama",
+      "paper": NaN,
+      "journal": "available at SSRN Electronic Journal : https://ssrn.com/abstract=2868283",
+      "url": "https://ssrn.com/abstract=2868283",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Tax Influence on Financial Structures of M&As",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Christoph Harendt",
+      "paper": "Working_Paper_Harendt",
+      "journal": "ZEW Discussion Paper (No. 18-004)",
+      "url": "https://ssrn.com/abstract=423483",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Corporation Taxes and the Debt Policy of Multinational Firms - Evidence from German Multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "B\u00fcttner, T, M Overesch, U Schreiber and G Wamser",
+      "paper": "Working_Paper_B\u00fcttner_Overesch_Wamser_Schreiber",
+      "journal": "Working Paper",
+      "url": "https://www.researchgate.net/publication/271877664_Corporation_taxes_and_the_debt_policy_of_multinational_firms",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Tax Status and Tax Response Heterogeneity of Multinationals' Dept Finance",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "B\u00fcttner, T, M Overesch and G Wamser",
+      "paper": "Working_Paper_B\u00fcttner_Overesch_Wamser",
+      "journal": "Working Paper",
+      "url": "http://www.tax.mpg.de/fileadmin/user_upload/BOW_06012010.pdf",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Bilateral Internal Debt Financing, Tax Planning, and the Effectiveness of Anti-Tax Avoidance Rules",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Overesch, M and G Wamser",
+      "paper": NaN,
+      "journal": "Working Paper",
+      "url": "https://www.researchgate.net/publication/228814423_Bilateral_Internal_Debt_Financing_Tax_Planning_and_the_Effectiveness_of_Anti-Avoidance_Rules",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "How Low Business Tax Rates Attract Multinational Headquarters: Municipality-Level Evidence from Germany",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Becker, S, P Egger and V Merlo ",
+      "paper": "Working_Paper_Becker_Egger_Merlo",
+      "journal": "CESifo Working Paper No. 2517",
+      "url": "https://ssrn.com/abstract=1327685",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Intercompany Loans and Profit Shifting - Evidence from Company-Level Data",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "B\u00fcttner, T and G Wamser ",
+      "paper": "Working_Paper_Buettner_Wamser",
+      "journal": "Working Paper",
+      "url": "https://ssrn.com/abstract=981120",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Why is the Response of Multinationals' Capital Structure Choice to Tax Incentives That Low? Some Possible Explanations",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Ruf, M",
+      "paper": NaN,
+      "journal": "Working Paper",
+      "url": "https://ideas.repec.org/a/mhr/finarc/urnsici0015-2218(291106)672_123witrom_2.0.tx_2-4.html",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "The Taxation of Passive Foreign Investment: Lessons from German Experience",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Ruf, M and A Weichenrieder",
+      "paper": "Working_Paper_Ruf_Weichenrieder",
+      "journal": "Working Paper",
+      "url": "https://ssrn.com/abstract=1392203",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Network and Border Effects: Where Do Foreign Multinationals Locate in Germany?",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Spies, J",
+      "paper": "Working_Paper_Spies",
+      "journal": "Working Paper",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/EFIGEWP24.pdf",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "How Can Firms choose their Leverage? - Tax Planning for Implementing Tax Induced Debt Finance",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Ruf, M",
+      "paper": NaN,
+      "journal": "Working Paper",
+      "url": "https://ssrn.com/abstract=1290663",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Thin-capitalization rules and company responses: Experience from German legislation",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Weichenrieder, A J and H Windischbauer ",
+      "paper": "Working_Paper_Weichenrieder_Windischbauer",
+      "journal": "Working Paper",
+      "url": "https://ssrn.com/abstract=1299533",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "What determines the use of holding companies and ownership chains?",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Weichenrieder, J and J M Mintz",
+      "paper": "Working_Paper_Weichenrieder_Mintz",
+      "journal": "Working Paper",
+      "url": "https://www.researchgate.net/publication/4799441_What_determines_the_use_of_holding_companies_and_ownership_chains",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Offshoring and the Onshore Composition of Occupations, Tasks and Skills",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Becker, S. O., K. Ekholm, and M.-A. Muendler",
+      "paper": "Working_Paper_Becker_Ekholm_Muendler",
+      "journal": "Working Paper",
+      "url": "https://ssrn.com/abstract=1469870",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Who Goes East? The Impact of Enlargement on the Patterns of German FDI",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Buch, C.M., and J. Kleinert.",
+      "paper": "Working_Paper_Buch_Kleinert",
+      "journal": "Working Paper",
+      "url": "https://ssrn.com/abstract=904318",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Transfer Pricing of Intrafirm Sales as a Profit Shifting Channel - Evidence from German Firm Data",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Overesch, M",
+      "paper": "Working_Paper_Overesch",
+      "journal": "Working Paper",
+      "url": "https://ssrn.com/abstract=955758",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Taxes and the financial structure of German outbound FDI",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Mintz, J., and A.J. Weichenrieder",
+      "paper": "Working_Paper_Mintz_Weichenrieder",
+      "journal": "Working Paper",
+      "url": "https://www.ifo.de/DocDL/cesifo1_wp1612.pdf",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Zur Finanziellen Bildung der Privaten Haushalte in Deutschland: Ergebnisse der Studie \"Private Haushalte und ihre Finanzen (PHF)\"",
+    "datasets": [
+      "dataset-382"
+    ],
+    "original": {
+      "bbk_dataset": "PHF",
+      "doi": NaN,
+      "authors": "Schmidt T., Tzamourani P.",
+      "paper": NaN,
+      "journal": "DIW Vierteljahreshefte zur Wirtschaftsforschung",
+      "url": NaN,
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "An analysis of the consistency of banks' internal ratings",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK",
+      "doi": NaN,
+      "authors": "Berg T., Koziol P.",
+      "paper": NaN,
+      "journal": "Journal of Banking and Finance",
+      "url": "https://ssrn.com/abstract=906549",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Combined Firm Data for Germany - Possibilities and Consequences of Merging Firm Data from Different Data Producers",
+    "datasets": [
+      "dataset-008",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI, USTAN",
+      "doi": NaN,
+      "authors": "Biewen E., Gruhl A., G\u00fcrke C., Hethey-Maier T., Wei\u00df E.",
+      "paper": NaN,
+      "journal": "Schmollers Jahrbuch",
+      "url": "https://ideas.repec.org/a/aeq/aeqsjb/v132_y2012_i3_q3_p361-377.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "KombiFiD: A First Glimpse of the Bundesbank Data",
+    "datasets": [
+      "dataset-008",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI, USTAN",
+      "doi": NaN,
+      "authors": "Biewen E.",
+      "paper": NaN,
+      "journal": "Schmollers Jahrbuch",
+      "url": "https://ideas.repec.org/a/aeq/aeqsjb/v132_y2012_i3_q3_p405-418.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Extra Credit: Bank Finance and Firm Export Status in Germany",
+    "datasets": [
+      "dataset-005",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK, USTAN",
+      "doi": NaN,
+      "authors": "Goldbach S., Nitsch V.",
+      "paper": "Working_Paper_Goldbach_Nitsch",
+      "journal": "World Economy",
+      "url": "https://ssrn.com/abstract=2472497",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Why does bank credit not drive money in Germany (any more)?",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Kuzin V., Schobert F.",
+      "paper": "Working_Paper_Kuzim_Schobert",
+      "journal": "Economic Modelling",
+      "url": "https://ssrn.com/abstract=966399",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The payout behavior of German savings banks",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "K\u00f6hler M.",
+      "paper": "Working_Paper_K\u00f6hler",
+      "journal": "Credit and Capital Markets",
+      "url": "https://ideas.repec.org/p/zbw/bubdps/242016.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "German Banks in Financial Centers: How Risky is Their Business?",
+    "datasets": [
+      "dataset-380",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA, BISTA",
+      "doi": NaN,
+      "authors": "Kerl C.",
+      "paper": NaN,
+      "journal": "The Journal of Financial Perspectives",
+      "url": "https://ssrn.com/abstract=3154349",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "What Determines the Composition of International Bank Flows?",
+    "datasets": [
+      "dataset-380",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA, BISTA",
+      "doi": NaN,
+      "authors": "Kerl C., Niepmann F.",
+      "paper": NaN,
+      "journal": "IMF Economic Review",
+      "url": "https://ssrn.com/abstract=196028",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "International Banking and Liquidity Risk Transmission: Evidence from Germany",
+    "datasets": [
+      "dataset-380",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA, BISTA",
+      "doi": NaN,
+      "authors": "Kerl C., Koch C.",
+      "paper": NaN,
+      "journal": "IMF Economic Review",
+      "url": "https://ideas.repec.org/a/pal/imfecr/v63y2015i3p496-514.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Price Level Changes and the Redistribution of Nominal Wealth Across the Euro Area",
+    "datasets": [
+      "dataset-382"
+    ],
+    "original": {
+      "bbk_dataset": "PHF",
+      "doi": NaN,
+      "authors": "Zhu J., Adam K.",
+      "paper": NaN,
+      "journal": "Journal of the European Economic Association",
+      "url": "https://ssrn.com/abstract=2666983",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "You're banned! The effect of sanctions on German cross-border financial flows",
+    "datasets": [
+      "dataset-015"
+    ],
+    "original": {
+      "bbk_dataset": "SITS",
+      "doi": NaN,
+      "authors": "Besedes T., Goldbach S., Nitsch V.",
+      "paper": NaN,
+      "journal": "Economic Policy (formerly: Economic Policy: A European Forum)",
+      "url": "https://ssrn.com/abstract=2797085",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Do all new brooms sweep clean? Evidence for outside bank appointments",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Kick T., Nehring I., Schertler A.",
+      "paper": "Working_Paper_Kick_Nehring_Schertler",
+      "journal": "Journal of Banking and Finance",
+      "url": "https://ssrn.com/abstract=3044342",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Banks' Interest Rate Risk and Search for Yield: A Theoretical Rationale and Some Empirical Evidence",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, BAKIS, GUV",
+      "doi": NaN,
+      "authors": "Memmel C., Seymen A., Teichert M.",
+      "paper": "Working_Paper_Memmel_Seymen_Teichert",
+      "journal": "GERMAN Economic Review",
+      "url": "https://ssrn.com/abstract=2807293",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Cyclicality of SME lending and government involvement in banks",
+    "datasets": [
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV",
+      "doi": NaN,
+      "authors": "Behr P., Foos D., Norden L.",
+      "paper": "Working_Paper_Behr_Foos_Norden",
+      "journal": "Journal of Banking and Finance",
+      "url": "https://ssrn.com/abstract=2640679",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The credit quality channel: Modeling contagion in the interbank market",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK",
+      "doi": NaN,
+      "authors": "Fink K., Kr\u00fcger U., Meller B., Wong L.",
+      "paper": "Working_Paper_Fink_Kr\u00fcger_Meller_Wong",
+      "journal": "Journal of Financial Stability",
+      "url": "https://ssrn.com/abstract=2797063",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Bracket creep revisited - with and without r>g: Evidence from Germany",
+    "datasets": [
+      "dataset-382"
+    ],
+    "original": {
+      "bbk_dataset": "PHF ",
+      "doi": NaN,
+      "authors": "Zhu J.",
+      "paper": "Working_Paper_Zhu",
+      "journal": "Journal of Income Distribution",
+      "url": "https://ssrn.com/abstract=2696932",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Do exposures to sagging real estate, subprime or conduits abroad lead to contraction and flight to quality in bank lending at home?",
+    "datasets": [
+      "dataset-005",
+      "dataset-013",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS, BISTA, MIMIK",
+      "doi": NaN,
+      "authors": "Ongena S., T\u00fcmer-Alkan G., Westernhagen N.",
+      "paper": "Working_Paper_Ongena_T\u00fcmer-Alkan_vonWesternhagen",
+      "journal": "Review of Finance (formerly: European Finance Review)",
+      "url": "https://ssrn.com/abstract=2734718",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Securities trading by banks and credit supply: Micro-evidence",
+    "datasets": [
+      "dataset-005",
+      "dataset-013",
+      "dataset-431",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, BAKIS, BISTA, MIMIK, SHS-BASE, MIMIK",
+      "doi": NaN,
+      "authors": "Abbassi P., Iyer R., Peydr\u00f3 J., Tous F.",
+      "paper": "Working_Paper_Abbassi_Ilyer_Peydr\u00f3_Tous",
+      "journal": "Journal of Financial Economics",
+      "url": "https://ssrn.com/abstract=2570763",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Centrality-based capital allocations",
+    "datasets": [
+      "dataset-005",
+      "dataset-381",
+      "dataset-013",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS, BISTA, VJKRE, MIMIK",
+      "doi": NaN,
+      "authors": "Alter A., Craig B., Raupach P.",
+      "paper": "Working_Paper_Alter_Craig_Raupach",
+      "journal": "International Journal of Central Banking",
+      "url": "https://ssrn.com/abstract=2450788",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Taxing banks: An evaluation of the German bank levy",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-012"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV, ZISTA",
+      "doi": NaN,
+      "authors": "Buch C., Hilberg B., Tonzer L.",
+      "paper": "Working_Paper_Buch_Hilberg_Tonzer",
+      "journal": "Journal of Banking and Finance",
+      "url": "https://ssrn.com/abstract=2425501",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Quantifying the components of the banks' net interest margin",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV, BAKIS",
+      "doi": NaN,
+      "authors": "Busch R., Memmel C. ",
+      "paper": "Working_Paper_Busch_Memmel",
+      "journal": "Financial Markets and Portfolio Management (formerly: Finanzmarkt und Portfolio Management)",
+      "url": "https://ssrn.com/abstract=2796989",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Earnings baths by bank CEOs during turnovers",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Bornemann S., Pfingsten A., Kick T., Schertler A.",
+      "paper": "Working_Paper_Bornemann_Pfingsten_Kick_Schertler",
+      "journal": "Journal of Banking and Finance",
+      "url": "https://ssrn.com/abstract=2456228",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The role of interbank relationships and liquidity needs",
+    "datasets": [
+      "dataset-005",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK, BISTA",
+      "doi": NaN,
+      "authors": "Craig B., Fecht F., T\u00fcmer-Alkan G.",
+      "paper": "Working_Paper_Craig_Fecht_T\u00fcmer-Alkan",
+      "journal": "Journal of Banking and Finance",
+      "url": "https://ssrn.com/abstract=1188516",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Bank risk taking and competition: Evidence from regional banking markets",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Kick T., Prieto Fernandez E.",
+      "paper": "Working_Paper_Kick_Prieto",
+      "journal": "Review of Finance (formerly: European Finance Review)",
+      "url": "https://ssrn.com/abstract=2796924",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Banks and sovereign risk: A granular view",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-431",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, BAKIS, SHS-BASE, GUV",
+      "doi": NaN,
+      "authors": "Buch C., Koetter M., Ohls J.",
+      "paper": "Working_Paper_Buch_Koetter_Ohls",
+      "journal": "Journal of Financial Stability",
+      "url": "https://ssrn.com/abstract=2666510",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Is local bias a cross-border phenomenon? Evidence from individual investors' international asset allocation",
+    "datasets": [
+      "dataset-431"
+    ],
+    "original": {
+      "bbk_dataset": "SHS-BASE",
+      "doi": NaN,
+      "authors": "Baltzer M., Stolper O., Walter A.",
+      "paper": "Working_Paper_Baltzer_Stolper_Walter",
+      "journal": "Journal of Banking and Finance",
+      "url": "https://ssrn.com/abstract=2200821",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Repo funding and internal capital markets in the financial crisis",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Kerl C.",
+      "paper": "Working_Paper_Kerl_",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2796912",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Diversification and determinants of international credit portfolios: Evidence from German banks",
+    "datasets": [
+      "dataset-380"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA",
+      "doi": NaN,
+      "authors": "B\u00f6ninghausen B., K\u00f6hler M.",
+      "paper": "Discussion_Paper_B\u00f6ninghausen_K\u00f6hler",
+      "journal": "International Review of Economics and Finance",
+      "url": "https://ssrn.com/abstract=2796883",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Determinants of bank interest margins: Impact of maturity transformation",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Entrop O., Memmel C., Ruprecht B., Wilkens M.",
+      "paper": "Working_Paper_Entrop_Memmel_Ruprecht_Wilkens",
+      "journal": "Journal of Banking and Finance",
+      "url": "https://ssrn.com/abstract=2796872",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Home-field advantage or a matter of ambiguity aversion? Local bias among German individual investors",
+    "datasets": [
+      "dataset-431"
+    ],
+    "original": {
+      "bbk_dataset": "SHS-BASE",
+      "doi": NaN,
+      "authors": "Baltzer M., Stolper O., Walter A.",
+      "paper": "Working_Paper_Baltzer_Stolper_Walter",
+      "journal": "European Journal of Finance",
+      "url": "https://ssrn.com/abstract=2171248",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Contagion in the interbank market and its determinants",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Memmel C., Sachs A.",
+      "paper": "Working_Paper_Memmel_Sachs",
+      "journal": "Journal of Financial Stability",
+      "url": "https://ssrn.com/abstract=913691",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Bank management of the net interest margin: new measures",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, BAKIS, GUV",
+      "doi": NaN,
+      "authors": "Memmel C., Schertler A.",
+      "paper": "Working_Paper_Memmel_Schertler",
+      "journal": "Financial Markets and Portfolio Management (formerly: Finanzmarkt und Portfolio Management)",
+      "url": "https://ssrn.com/abstract=632532",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Are banks using hidden reserves to beat earnings benchmarks? Evidence from Germany",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Bornemann S., Kick T., Memmel C., Pfingsten A.",
+      "paper": "Working_Paper_Bornemann_Memmel_Kick_Pfingsten",
+      "journal": "Journal of Banking and Finance",
+      "url": "https://ssrn.com/abstract=2794052",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Banks' exposure to interest rate risk, their earnings from term transformation, and the dynamics of the term structure",
+    "datasets": [
+      "dataset-013",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, BAKIS",
+      "doi": NaN,
+      "authors": "Memmel C.",
+      "paper": "Working_Paper_Memmel_2",
+      "journal": "Journal of Banking and Finance",
+      "url": "https://ssrn.com/abstract=2794045",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Purchase and redemption decisions of mutual fund investors and the role of fund families",
+    "datasets": [
+      "dataset-383"
+    ],
+    "original": {
+      "bbk_dataset": "IFS-BASE",
+      "doi": NaN,
+      "authors": "Jank S., Wedow M.",
+      "paper": "Working_Paper_Jank_Wedow",
+      "journal": "European Journal of Finance",
+      "url": "https://ssrn.com/abstract=1630354",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Financial constraints and the margins of FDI",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Buch C., Kesternich I., Lipponer A., Schnitzer M.",
+      "paper": "Working_Paper_Buch_Kesternich_Lipponer_Schnitzer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1534905",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Export-Supporting FDI",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Krautheim S.",
+      "paper": "Working_Paper_Krautheim",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=623885",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Does lowering dividend tax rates increase dividends repatriated?: evidence of intra-firm cross-border dividend repatriation policies by German Multinational Enterprises",
+    "datasets": [
+      "dataset-015",
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI,SITS",
+      "doi": NaN,
+      "authors": "Leibrecht M., Bellak C., Wild M.",
+      "paper": "Working_Paper_Bellak_Leibrecht_Wild",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1672689",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The cross-section of firms over the business cycle: new facts and a DSGE exploration",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Bachmann R., Bayer C.",
+      "paper": "Working_Paper_Bachmann_Bayer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1487989",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "What macroeconomic shocks affect the German banking system? Analysis in an integrated micro-macro model",
+    "datasets": [
+      "dataset-434",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, SRP",
+      "doi": NaN,
+      "authors": "Blank S., Dovern J.",
+      "paper": "Working_Paper_Blank_Dovern",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794037",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Firm-specific productivity risk over the business cycle: facts and aggregate implications",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Bachmann R., Bayer C.",
+      "paper": "Working_Paper_Bachmann_Bayer_2",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1504531",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The dependency of the banks' assets and liabilities: evidence from Germany",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, BAKIS, BISTA, GUV",
+      "doi": NaN,
+      "authors": "Memmel C., Schertler A.",
+      "paper": "Working_Paper_Memmel_Schertler",
+      "journal": "European Financial Management",
+      "url": "https://ssrn.com/abstract=2794036",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Margins of international banking: is there a productivity pecking order in banking, too?",
+    "datasets": [
+      "dataset-380",
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA, BISTA, GUV",
+      "doi": NaN,
+      "authors": "Buch C., Koch C., Koetter M.",
+      "paper": "Working_Paper_Buch_Koch_Koetter",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1532693",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Visible Reserves in Banks - Determinants of Initial Creation, Usage and Contribution to Bank Stability",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Bornemann S., Hom\u00f6lle S., Hubensack C., Kick T., Pfingsten A.",
+      "paper": NaN,
+      "journal": "Journal of Business Finance and Accounting",
+      "url": "https://ssrn.com/abstract=2472220",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Determinants for using visible reserves in German banks: an empirical study",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Bornemann S., Hom\u00f6lle S., Hubensack C., Kick T., Pfingsten A.",
+      "paper": "Working_Paper_Bornemann_Hom\u00f6lle_Hubensack_Kick_Pfingsten",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794034",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The dark and the bright side of liquidity risks: evidence from open-end real estate funds in Germany",
+    "datasets": [
+      "dataset-383"
+    ],
+    "original": {
+      "bbk_dataset": "IFS-BASE",
+      "doi": NaN,
+      "authors": "Fecht F., Wedow M.",
+      "paper": "Working_Paper_Fecht_Wedow",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1487085",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Income Structure and Bank Business Models: Evidence on Performance and Stability from the German Banking Industry",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Busch R., Kick T.",
+      "paper": "Working_Paper_Busch_Kick",
+      "journal": "Schmalenbach Business Review",
+      "url": "https://link.springer.com/content/pdf/10.1007/BF03396875.pdf",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Why do savings banks transform sight deposits into illiquid assets less intensively than the regulation allows?",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Holl D., Schertler A.",
+      "paper": "Working_Paper_Holl_Schertler",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794028",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Shocks at large banks and banking sector distress: the Banking Granular Residual",
+    "datasets": [
+      "dataset-434"
+    ],
+    "original": {
+      "bbk_dataset": "SRP",
+      "doi": NaN,
+      "authors": "Blank S., Buch C. , Neugebauer K.",
+      "paper": "Working_Paper_Blank_Buch_Neugebauer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794027",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The effects of privatization and consolidation on bank productivity: comparative evidence from Italy and Germany",
+    "datasets": [
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV",
+      "doi": NaN,
+      "authors": "Fiorentino E., Vincenzo A., Heid F., Karmann A., Koetter M. ",
+      "paper": "Working_Paper_Fiorentino_deVincenzo_Karmann_Koetter",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1523644",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Who is afraid of political risk? Multinational firms and their choice of capital structure",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Kesternich I., Schnitzer M.",
+      "paper": "Working_Paper_Kesternicht_Schnitzer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1712384",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The price of liquidity: bank characteristics and market conditions",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Fecht F., Nyborg K., Rocholl J.",
+      "paper": "Working_Paper_Fecht_Nyborg_Rocholl",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2865612",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Sturm und Drang in money market funds: when money market funds cease to be narrow",
+    "datasets": [
+      "dataset-383"
+    ],
+    "original": {
+      "bbk_dataset": "IFS-BASE",
+      "doi": NaN,
+      "authors": "Jank S., Wedow M.",
+      "paper": "Working_Paper_Jank_Wedow_2",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1333024",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Real estate markets and bank distress",
+    "datasets": [
+      "dataset-005",
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA. GUV, MIMIK",
+      "doi": NaN,
+      "authors": "Koetter M., Poghosyan T.",
+      "paper": "Working_Paper_Koetter_Poghosyan",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=441981",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Stress testing of real credit portfolios",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK",
+      "doi": NaN,
+      "authors": "Mager F., Schmieder C.",
+      "paper": "Working_Paper_Mager_Schmieder",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794020",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The implications of latent technology regimes for competition and efficiency in banking",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Koetter M., Poghosyan T.",
+      "paper": "Working_Paper_Poghosyan_Koetter",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794018",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Foreign (in)direct investment and corporate taxation",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Wamser G.",
+      "paper": "Working_Paper_Wamser",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=281070",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Great moderation at the firm level? Unconditional versus conditional output volatility",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Buch C., D\u00f6pke J., Stahn K.",
+      "paper": "Working_Paper_Buch_D\u00f6pke_Stahn",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785311",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Which interest rate scenario is the worst one for a bank? Evidence from a tracking bank approach for German savings and cooperative banks",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Memmel C.",
+      "paper": "Working_Paper_Memmel_2",
+      "journal": "International Journal of Banking Account and Finance",
+      "url": "https://ssrn.com/abstract=2794011",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The success of bank mergers revisited: an assessment based on a matching strategy",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-386"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV, ZentK",
+      "doi": NaN,
+      "authors": "Heid F., Behr A.",
+      "paper": "Working_Paper_Behr_Heid",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1141842",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Monetary policy and financial (in)stability: An integrated micro-macro approach",
+    "datasets": [
+      "dataset-013",
+      "dataset-385",
+      "dataset-386"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV, ZentK",
+      "doi": NaN,
+      "authors": "De Graeve F., Kick T.",
+      "paper": "Discussion_Paper_DeGraeve_Kick_2",
+      "journal": "Journal of Financial Stability",
+      "url": "https://www.suomenpankki.fi/globalassets/en/research/seminars-and-conferences/conferences-and-workshops/documents/jfs2007/jfs2007_degraevekickkoetter_paper.pdf",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "The impact of thin-capitalization rules on multinationals' financing and investment decisions",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "B\u00fcttner T., Overesch M., Schreiber U., Wamser G.",
+      "paper": "Working_Paper_B\u00fcttner_Overesch_Schreiber_Wamser_2",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=935220",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Analyzing the interest rate risk of banks using time series of accounting-based data: evidence from Germany",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Wilkens M., Memmel C., Entrop O., Zeisler A.",
+      "paper": "Working_Paper_Entrop_Memmel_Wilkens_Zeisler",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2794005",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Volatile multinationals? Evidence from the labor demand of German firms",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Buch C., Lipponer A.",
+      "paper": "Working_Paper_Buch_Lipponer_2",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785297",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Corporate marginal tax rate, tax loss carryforwards and investment functions: empirical analysis using a large German panel data set",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Ramb F.",
+      "paper": "Working_Paper_Ramb",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=936900",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Creditor concentration: an empirical investigation",
+    "datasets": [
+      "dataset-005",
+      "dataset-006",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN, BAKIS, MIMIK",
+      "doi": NaN,
+      "authors": "Ongena S., T\u00fcmer-Alkan G., Westernhagen N.",
+      "paper": "Working_Paper_Ongena_T\u00fcmer-Alkan_vonWesternhagen_2",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1010353",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Relationship lending: empirical evidence for Germany",
+    "datasets": [
+      "dataset-005",
+      "dataset-006",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN, BAKIS, MIMIK",
+      "doi": NaN,
+      "authors": "Schmieder C., Memmel C., Stein I.",
+      "paper": "Working_Paper_Memmel_Schmieder_Stein",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=277229",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Banking consolidation and small businessfinance: empirical evidence for Germany",
+    "datasets": [
+      "dataset-005",
+      "dataset-006",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN, BAKIS, MIMIK",
+      "doi": NaN,
+      "authors": "Marsch K., Schmieder C., Forster-van Aerssen K.",
+      "paper": "Working_Paper_Marsch_Schmieder_vanAerssen",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2793994",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "How do banks adjust their capital ratios? Evidence from Germany",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Memmel C., Raupach P.",
+      "paper": "Working_Paper_Memmel_Raupach_2",
+      "journal": "Journal of Financial Intermediation",
+      "url": "https://ssrn.com/abstract=2793991",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Diversification and the banks' risk-return-characteristics: evidence from loan portfolios of German banks",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Behr A., Kamp A., Memmel C., Pfingsten A.",
+      "paper": "Working_Paper_Behr_Kamp_Memmel_Pfingsten",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=906448",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Slippery slopes of stress: ordered failure events in German banking",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-386"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV, ZentK",
+      "doi": NaN,
+      "authors": "Koetter M., Kick T. ",
+      "paper": "Working_Paper_Kick_Koetter",
+      "journal": "Journal of Financial Stability",
+      "url": "https://ssrn.com/abstract=963658",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Efficient, profitable and safe banking: an oxymoron? Evidence from a panel VAR approach",
+    "datasets": [
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV",
+      "doi": NaN,
+      "authors": "Koetter M., Porath D.",
+      "paper": "Working_Paper_Koetter_Porath",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2793987",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Granularity adjustment for Basel II",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK",
+      "doi": NaN,
+      "authors": "L\u00fctkebohmert E., Gordy M.",
+      "paper": "Working_Paper_Gordy_L\u00fctkebohmer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=855084",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Industries and the bank lending effects of bank credit demand and monetary policy in Germany",
+    "datasets": [
+      "dataset-005",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, MIMIK",
+      "doi": NaN,
+      "authors": "Arnold I., Kool C., Raabe K.",
+      "paper": "Working_Paper_Arnold_Kool_Raabe",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785275",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Does trade openness increase firm-level volatility?",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Strotmann H., D\u00f6pke J., Buch C.",
+      "paper": "Working_Paper_Buch_D\u00f6pke_Strotmann",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2778600",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The within-distribution business cycle dynamics of German firms",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Weber S., D\u00f6pke J.",
+      "paper": "Working_Paper_D\u00f6pke_Weber",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785256",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Margins of multinational labor substitution",
+    "datasets": [
+      "dataset-008",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI, USTAN",
+      "doi": NaN,
+      "authors": "M\u00fcndler M., Becker S.",
+      "paper": "Working_Paper_Becker_M\u00fcndler_2",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=903867",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "How would formula apportionment in the EU affect the distribution and the size of the corporate tax base? An analysis based on German multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Fuest C., Hemmelgarn T., Ramb F.",
+      "paper": "Working_Paper_Fuest_Hemmelgarn_Ramb",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=854909",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Internalization and internationalization under copeting real options",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Fisch J.",
+      "paper": "Working_Paper_Fisch",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785241",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Foreign direct investment in the enlarged EU: do taxes matter and to what extent?",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Wolff G.",
+      "paper": "Working_Paper_Wolff",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785238",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The cost efficiency of German banks: a comparison of SFA and DEA",
+    "datasets": [
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV",
+      "doi": NaN,
+      "authors": "Koetter M., Karmann A., Fiorentino E.",
+      "paper": "Working_Paper_Fiorentino_Karmann_Koetter",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=947340",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Sector concentration in loan portfolios and economic capital",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK",
+      "doi": NaN,
+      "authors": "Masschelein N., D\u00fcllmann K",
+      "paper": "Working_Paper_D\u00fcllmann_Masschelein",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1687615",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The stability of efficiency rankings when risk-preferences and objectives are different",
+    "datasets": [
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV",
+      "doi": NaN,
+      "authors": "Koetter M.",
+      "paper": "Working_Paper_Koetter",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2793981",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Banks' regulatory buffers, liquidity networks and monetary policy transmission",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS",
+      "doi": NaN,
+      "authors": "Merkl C., Stolz S.",
+      "paper": "Working_Paper_Merkl_Stolz",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2793911",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Does diversification improve the performance of German banks? Evidence from individual bank loan portfolios",
+    "datasets": [
+      "dataset-005",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS, MIMIK",
+      "doi": NaN,
+      "authors": "Westernhagen N., Porath D., Hayden E.",
+      "paper": "Working_Paper_Hayden_Porath_vonWesternhagen",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=918852",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Heterogeneity in lending and sectoral growth: evidence from German bank-level data",
+    "datasets": [
+      "dataset-005",
+      "dataset-013",
+      "dataset-006"
+    ],
+    "original": {
+      "bbk_dataset": "BAKIS, MIMIK, BISTA",
+      "doi": NaN,
+      "authors": "Schertler A., Buch C., Westernhagen N.",
+      "paper": "Working_Paper_Buch_Schertler_vonWesternhagen",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2793979",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Exports versus FDI in German manufacturing: firm performance and participation in international markets",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Arnold J., Hussinger K.",
+      "paper": "Working_Paper_Arnold_Hussinger",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785230",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Going multinational: What are the effects on home market performance?",
+    "datasets": [
+      "dataset-008",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN, MIDI",
+      "doi": NaN,
+      "authors": "J\u00e4ckle R.",
+      "paper": "Working_Paper_J\u00e4ckle",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785229",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Finance and growth in a bank-based economy: is it quantity or quality that matters?",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK",
+      "doi": NaN,
+      "authors": "Koetter M., Wedow M.",
+      "paper": "Working_Paper_Koetter_Wedow",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=909561",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Trade balances of the central and east European EU member states and the role of foreign direct investment",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Herrmann S., Jochem A.",
+      "paper": "Working_Paper_Herrmann_Jochem",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785224",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The cross-sectional dynamics of German business cycles: a bird's eye view",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "D\u00f6pke J., Funke M., Holly S., Weber S.",
+      "paper": "Working_Paper_D\u00f6pke_Funke_Holly_Weber",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785206",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Inefficient or just different? Effects of heterogeneity on bank efficiency scores",
+    "datasets": [
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV",
+      "doi": NaN,
+      "authors": "Bos J., Heid F., Koetter M., Kolari J., Kool C.",
+      "paper": "Working_Paper_Bos_Heid_Koetter_Kolari_Kool",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=886481",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Time series properties of a rating system based on financial ratios",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Kr\u00fcger U., St\u00f6tzel M., Tr\u00fcck S.",
+      "paper": "Working_Paper_Kr\u00fcger_St\u00f6tzel_Tr\u00fcck",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2793973",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Evaluating the German bank merger wave",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-386"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV, ZentK",
+      "doi": NaN,
+      "authors": "Koetter M.",
+      "paper": "Working_Paper_Koetter_M",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=726408",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The eurosystem money market auctions: a banking perspective",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Bartzsch N., Craig B., Fecht F.",
+      "paper": "Working_Paper_Bartzsch_Craig_Fecht",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=1025523",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Accounting for distress in bank mergers",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-386"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV, ZentK",
+      "doi": NaN,
+      "authors": "Koetter M., Bos J., Heid F., Kool C., Kolari J., Porath D.",
+      "paper": "Working_Paper_Koetter_Bos_Heid_Kool_Kolari_Porath",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=811525",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Business cycles and FDI: evidence from German sectoral data",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Buch C., Lipponer A.",
+      "paper": "Working_Paper_Buch_CM_Lipponer",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785096",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "German bank lending to industrial and non-industrial countries: driven by fundamentals or different treatment?",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK",
+      "doi": NaN,
+      "authors": "Nestmann T.",
+      "paper": "Working_Paper_Nestmann",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=791444",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Taxes and the financial structure of German inward FDI",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Ramb F., Weichenrieder A.",
+      "paper": "Working_Paper_Ramb_Weichenrieder",
+      "journal": " Review of World Economics (Weltwirtschaftliches Archiv) ",
+      "url": "https://ssrn.com/abstract=638604",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Do banks diversify loan portfolios? A tentative answer based on individual bank loan portfolios",
+    "datasets": [
+      "dataset-381"
+    ],
+    "original": {
+      "bbk_dataset": "VJKRE",
+      "doi": NaN,
+      "authors": "Kamp A., Pfingsten A., Porath D.",
+      "paper": "Working_Paper_Kamp_Pfingsten_Porath",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2793961",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Measurement matters: Input price proxies and bank efficiency in Germany",
+    "datasets": [
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV",
+      "doi": NaN,
+      "authors": "Koetter M.",
+      "paper": "Working_Paper_Koetter_Michael",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2793959",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Clustering or competition? The foreign investment behaviour of German banks",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI, BISTA, GUV",
+      "doi": NaN,
+      "authors": "Lipponer A., Buch C. ",
+      "paper": "Working_Paper_Buch_Lipponer_A",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=524003",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "How will Basel II affect bank lending to emerging markets? An analysis based on German bank level data",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK",
+      "doi": NaN,
+      "authors": "Liebig T., Porath D., di Mauro B., Wedow M.",
+      "paper": "Working_Paper_Liebig_Porath_diMauro_Wedow",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=627842",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "FDI versus cross-border financial services: The globalisation of German banks",
+    "datasets": [
+      "dataset-385",
+      "dataset-013",
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI, BISTA, GUV",
+      "doi": NaN,
+      "authors": "Buch C., Lipponer A.",
+      "paper": "Working_Paper_Buch_CM_Lipponer_A",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=524002",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "German bank lending during emerging market crises: A bank level analysis",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK",
+      "doi": NaN,
+      "authors": "Heid F., Nestmann T., di Mauro B., Westernhagen N.",
+      "paper": "Working_Paper_Heid_Nestmann_diMauro_vonWesternhagen",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=605562",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Does capital regulation matter for bank behaviour? Evidence for German savings banks",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Heid F., Porath D., Stolz S.",
+      "paper": "Working_Paper_Heid_Porath_Stolz",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2793955",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Does co-financing by multilateral development banks increase \"risky\" direct investment in emerging markets'",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Wezel T.",
+      "paper": "Working_Paper_Wezel",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785047",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Forecasting Credit Portfolio Risk",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Hamerle A., Liebig T., Scheule H.",
+      "paper": "Working_Paper_Hamerle_Liebig_Scheule",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=871253",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Foreign Bank Entry into Emerging Economies: An Empirical Assessment of the Determinants and Risks Predicated on German FDI Data",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Wezel T.",
+      "paper": "Working_Paper_Wezel_T",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785046",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Determinants of German Foreign Direct Investment in Latin American and Asian Emerging Markets in the 1990s",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Wezel T.",
+      "paper": "Working_Paper_Wezel_Torsten",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785197",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Determinants of German FDI: New Evidence from Micro-Data",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Toubal F., Kleinert J., Buch C.",
+      "paper": "Working_Paper_Buch_Toubal_Kleinert",
+      "journal": "Economic Policy 20 ",
+      "url": "https://ssrn.com/abstract=392681",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "A Vectorautoregressive Investment Model (VIM) and Monetary Policy Transmission: Panel Evidence from German Firms",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Kalckreuth U, Chirinko R., Breitung J.",
+      "paper": "Working_Paper_Breitung_Chirinko_vonKalckreuth",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785190",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Dynamic Q-investment functions for Germany using panel balance sheet data and a new algorithm for the capital stock at replacement values",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Bellgardt E., Behr A.",
+      "paper": "Working_Paper_Behr_Bellgardt",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785159",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Estimating Bilateral Exposures in the German Interbank Market: Is there a Danger of Contagion?",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Upper C., Worms A.",
+      "paper": "Working_Paper_Upper_Worms",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=304454",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Testing for Competition Among German Banks",
+    "datasets": [
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV",
+      "doi": NaN,
+      "authors": "Hempell H.",
+      "paper": "Working_Paper_Hempell",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=304343",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Firm Investment and Monetary Policy Transmission in the Euro Area",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Kalckreuth U., Hernando I., Generale A., Chatelain J., Vermeulen P.",
+      "paper": "Working_Paper_Chatelain_Generale_Hernando_vonKalckreuth_Vermeulen",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=303122",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Monetary transmission in Germany: New Perspectives on Financial Constraints and Investment Spending",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Kalckreuth U.",
+      "paper": "Working_Paper_vonKalckreuth",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=299385",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Monetary policy effects on bank loans in Germany: A panel-econometric analysis",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Worms A.",
+      "paper": "Working_Paper_Worms",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=303240",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Interbank lending and monetary policy transmission: evidence for Germany",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Ehrmann M., Worms A.",
+      "paper": "Working_Paper_Worms",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=303243",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Exploring the role of uncertainty for corporate investment decisions in Germany",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Kalckreuth U.",
+      "paper": "Working_Paper_vonKalckreuth_U",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=299484",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Enterprises' financing structure and their response to monetary policy stimuli: An analysis based on the Deutsche Bundesbank's corporate balance sheet statistics",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "St\u00f6\u00df E.",
+      "paper": "Working_Paper_St\u00f6\u00df",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=2785791",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The impact of nonprofit taxes on foreign direct investment: Evidence from German multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Georg Wamser, Thiess Buettner",
+      "paper": "Working_Paper_Buettner_T_Wamser_G",
+      "journal": "International Tax and Public Finance, volume 16(3), pp. 298-320",
+      "url": "https://ideas.repec.org/a/kap/itaxpf/v16y2009i3p298-320.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Global Production with Export Platforms",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Felix Tintelnot",
+      "paper": "Working_Paper_Tintelnot",
+      "journal": "Quarterly Journal of Economics",
+      "url": "https://ssrn.com/abstract=1846673",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Multinational Firms and Tax Havens",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Anna Gumpert, James R. Hines Jr., and Monika Schnitzer",
+      "paper": "Discussion_Paper_Gumpert_Hines_Schnitzer",
+      "journal": "The Review of Economics and Statistics, volume 98(4), pp. 713\u201a\u00c4\u00ec727",
+      "url": "https://ssrn.com/abstract=593546",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Evaluating the effects of ACE systems on multinational debt financing and investment",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Shafik Hebous, Martin Ruf",
+      "paper": "Working_Paper_Hebous_Ruf",
+      "journal": "Journal of Public Economics, volume 156, pp. 131-149",
+      "url": "https://ssrn.com/abstract=2613819",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "What happens if private accounting information becomes public? The case of access to bank debt",
+    "datasets": [
+      "dataset-005",
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "MIMIK, USTAN",
+      "doi": NaN,
+      "authors": "Snjezana Deno, Thomas R. Loy, Carsten Homburg",
+      "paper": NaN,
+      "journal": NaN,
+      "url": "https://www.researchgate.net/publication/321234853_What_Happens_if_Private_Accounting_Information_Becomes_Public_The_Case_of_Access_to_Bank_Debt",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "You might not get what you need: The discrepancy between financial,advice and commissions in Germany,You might not get what you need: The discrepancy between financial advice and commissions in Germany",
+    "datasets": [
+      "dataset-382"
+    ],
+    "original": {
+      "bbk_dataset": "PHF",
+      "doi": NaN,
+      "authors": "Mark Mietzner, Manuel Molterer",
+      "paper": NaN,
+      "journal": "Economics Letters, vloume 162,pp. 167-170",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165176517304597",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The Pricing of FX Forward Contracts: Micro Evidence from Banks' Dollar Hedging",
+    "datasets": [
+      "dataset-380",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "AUSTA, BISTA",
+      "doi": NaN,
+      "authors": "Puriya Abbassi, Falk Br\u00e4uning",
+      "paper": NaN,
+      "journal": " available at SSRN Electronic Journal: https://ssrn.com/abstract=31173",
+      "url": "https://ssrn.com/abstract=3117397",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Unconventional Monetary Policy, Bank Lending, and Security Holdings: The Yield-Induced Portfolio Rebalancing Channel",
+    "datasets": [
+      "dataset-013",
+      "dataset-012",
+      "dataset-431",
+      "dataset-381",
+      "dataset-385"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, VJKRE, ZISTA, GUV, SHS-BASE",
+      "doi": NaN,
+      "authors": "Karol Paludkiewicz",
+      "paper": "Discussion_Paper_Paludkiewicz",
+      "journal": " Deutsche Bundesbank Discussion Paper (22/2018)",
+      "url": "https://ssrn.com/abstract=3214522",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "P2P Lenders versus Banks: Cream Skimming or Bottom Fishing?",
+    "datasets": [
+      "dataset-013",
+      "dataset-012"
+    ],
+    "original": {
+      "bbk_dataset": "ZISTA, BISTA",
+      "doi": NaN,
+      "authors": "Calebe de Roure, Pelizzon Loriana, Thakor Anjan",
+      "paper": NaN,
+      "journal": "SAFE Working Paper No. 206., available at SSRN: https://ssrn.com/abstract=3174632",
+      "url": "https://ssrn.com/abstract=3174632",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Rent-Seeking in Elite Networks",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "Vikrant Vig, David Schoenherr, Rainer F. Haselmann",
+      "paper": NaN,
+      "journal": "Journal of Political Economy (forthcoming), currently available at SSRN Electronic Journal",
+      "url": "https://ssrn.com/abstract=2911062",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Household Financial Risk Tolerance in Europe",
+    "datasets": [
+      "dataset-382"
+    ],
+    "original": {
+      "bbk_dataset": "PHF",
+      "doi": NaN,
+      "authors": "Nora Laurinaityte",
+      "paper": NaN,
+      "journal": "available at SSRN Electronic Journal: https://ssrn.com/abstract=3175881",
+      "url": "https://ssrn.com/abstract=3175881",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Intra-household allocation of non-mandatory retirement savings",
+    "datasets": [
+      "dataset-382"
+    ],
+    "original": {
+      "bbk_dataset": "PHF",
+      "doi": NaN,
+      "authors": "Christoph Metzger",
+      "paper": "Working_Paper_Metzger",
+      "journal": "The Journal of the Economics of Ageing, Vol. 12.",
+      "url": "https://ssrn.com/abstract=2774243",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The Effect of International Taxation on Organizational Form Choices: Evidence from Group Structures of Multinationals,International Taxation and the Role of Organizational Form,Choices for Group Structures of Multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Harald Amberger, Saskia Kohlhase",
+      "paper": NaN,
+      "journal": " WU International Taxation Research Paper Series (02/2017), available at SSRN Electronic Journal: https://ssrn.com/abstract=2929347)",
+      "url": "https://epub.wu.ac.at/7273/",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Determinants of bank-level deposit volatility: Evidence from the German banking system",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA",
+      "doi": NaN,
+      "authors": "Daniel Streit, Marc Lange, Paul Stephan",
+      "paper": NaN,
+      "journal": "available at SSRN Electronic Journal: https://www.ssrn.com/abstract=2862034",
+      "url": "https://ssrn.com/abstract=2862034",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Historical Antisemitism, Ethnic Specialization, and Financial Development",
+    "datasets": [
+      "dataset-382"
+    ],
+    "original": {
+      "bbk_dataset": "PHF",
+      "doi": NaN,
+      "authors": "Francesco D'Acunto, Marcel Prokopczuk, Michael Weber",
+      "paper": "Working_Paper_DAcunto_Prokopczuk_Weber",
+      "journal": "The review of Economic Studies",
+      "url": "https://ssrn.com/abstract=3029643",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The Good, the Bad, and the Ugly: Impact of Negative Interest Rates and QE on the Profitability and Risk-Taking of 1600 German Banks",
+    "datasets": [
+      "dataset-385",
+      "dataset-013"
+    ],
+    "original": {
+      "bbk_dataset": "BISTA, GUV",
+      "doi": NaN,
+      "authors": "Florian Urbschat",
+      "paper": "Working_Paper_Urbschat",
+      "journal": "Munich Discussion Paper",
+      "url": "https://ssrn.com/abstract=3338686",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Investment dispersion and the business cycle",
+    "datasets": [
+      "dataset-003"
+    ],
+    "original": {
+      "bbk_dataset": "USTAN",
+      "doi": NaN,
+      "authors": "R\u00fcdiger Bachmann, Christian Bayer",
+      "paper": "Working_Paper_Bachmann_Bayer_2",
+      "journal": "American Economic Review",
+      "url": "https://ssrn.com/abstract=1411367",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Transfer pricing as tax avoidance under different legislative schemes",
+    "datasets": [
+      "dataset-015",
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI, SITS",
+      "doi": NaN,
+      "authors": "Carolin Holzmann",
+      "paper": "Working_Paper_Holzmann",
+      "journal": "Beitr\u221a\u00a7ge zur Jahrestagung des Vereins f\u221a\u00bar Socialpolitik",
+      "url": "https://ssrn.com/abstract=3164103",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Ownership Disclosure and Ownership Structure: Investors' Response to Lower Reporting Thresholds",
+    "datasets": [
+      "dataset-431"
+    ],
+    "original": {
+      "bbk_dataset": "SHS-BASE",
+      "doi": NaN,
+      "authors": "Sarah Kr\u00f6chert",
+      "paper": NaN,
+      "journal": "SSRN Discussion Paper",
+      "url": "https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3020023",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Investment Impact of Tax Loss Treatment - Empirical Insights from a Panel of Multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "D. Dre\u00dfler und M. Overesch",
+      "paper": "Working_Paper_Dre\u00dfler_Overesch",
+      "journal": "Canadian Journal of Economics",
+      "url": "https://link.springer.com/article/10.1007/s10797-012-9240-1",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Internal Debt and Multinational Profit Shifting: Empirical Evidence from Firm-Level Panel Data",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "T. B\u00fcttner and Wamser, G.",
+      "paper": NaN,
+      "journal": " National Tax Journal",
+      "url": "https://ideas.repec.org/a/ntj/journl/v66y2013i1p63-95.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Bilateral Internal Debt Financing and Tax Planning of Muiltinational Firms",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "M. Overesch and Wamser, G.",
+      "paper": NaN,
+      "journal": "Review of Quantitative Finance and Accounting",
+      "url": "https://link.springer.com/article/10.1007/s11156-012-0339-3",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The Impact of Thin-Capitalization Rules on the Capital Structure of Multinational Firms",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "B\u00fcttner, Thiess, Michael Overesch, Ulrich Schreiber und Georg Wamser",
+      "paper": "Working_Paper_B\u00fcttner_Overesch_Schreiber_Wamser",
+      "journal": "Journal of Public Economics",
+      "url": "https://ssrn.com/abstract=2398815",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Information Costs and Internationalization Performance",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Fisch, J.H.",
+      "paper": "Working_Paper_Fisch",
+      "journal": "Global Strategy Journal",
+      "url": "https://ssrn.com/abstract=1860026",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The taxation of passive foreign investment - Lessons from German experience",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Ruf, Weichenrieder",
+      "paper": NaN,
+      "journal": "Canadian Journal of Economics",
+      "url": "https://ssrn.com/abstract=1392203",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Tax Status and Tax Response Heterogeneity of Multinationals' Debt Finance",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "B\u00fcttner, Thiess, Michael Overesch, und Georg Wamser",
+      "paper": NaN,
+      "journal": " Finanzarchiv",
+      "url": "https://ideas.repec.org/a/mhr/finarc/urnsici0015-2218(291106)672_103tsatrh_2.0.tx_2-8.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Corporation Taxes and the Debt Policy of Multinational Firms - Evidence for German Multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "B\u00fcttner, Thiess, Michael Overesch, Ulrich Schreiber und Georg Wamser",
+      "paper": NaN,
+      "journal": " Zeitschrift f\u221a\u00bar Betriebswirtschaft",
+      "url": "https://www.researchgate.net/publication/271877664_Corporation_taxes_and_the_debt_policy_of_multinational_firms",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The role of operational flexibility in the expansion of international production networks",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Fisch, J H and M Zschoche",
+      "paper": NaN,
+      "journal": "Strategic Management Journal",
+      "url": "https://www.researchgate.net/publication/261531722_The_role_of_operational_flexibility_in_the_expansion_of_international_production_networks",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "International Profit Shifting and Multinational Firms in Developing Economies",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Fuest, C, S Hebous and N Riedel",
+      "paper": "Working_Paper_Fuest_Hebous_Riedel",
+      "journal": "Taxation in Developing Economics, MIT Press",
+      "url": "https://www.theigc.org/wp-content/uploads/2014/10/Fuest-Et-Al-2011-Working-Paper.pdf",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The effects of taxation on the location decision of multinational firms: M&A vs. Greenfield investments",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Hebous/Ruf/Weichenrieder",
+      "paper": "Working_Paper_Hebous_Ruf_Weichenrieder",
+      "journal": " National Tax Journal",
+      "url": "https://ssrn.com/abstract=1624789",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "FDI and Domestic Investment: An Industry-Level View",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Arndt, C, C Buch and M Schnitzer",
+      "paper": "Working_Paper_Arndt_Buch_Schnitzer",
+      "journal": "The B.E. Journals of Economic Analysis and Policy",
+      "url": "https://ssrn.com/abstract=1649684",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Debt financing and sharp currency depreciations: wholly versus partially-owned multinational affiliates",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Hebous S, A J Weichenrieder",
+      "paper": NaN,
+      "journal": "Review of World Economics",
+      "url": "https://link.springer.com/article/10.1007/s10290-010-0055-9",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "German Firms in Service Trade",
+    "datasets": [
+      "dataset-015",
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI, SITS",
+      "doi": NaN,
+      "authors": "Kelle, M and J Kleinert",
+      "paper": "Working_Paper_Kelle_Kleinert",
+      "journal": "Applied Economics Quarterly",
+      "url": "https://ssrn.com/abstract=1431450",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Corporate Tax Planning and Thin-Capitalzation Rules: Evidence from a Quasi-Experiment",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Overesch, M and G Wamser",
+      "paper": NaN,
+      "journal": "Applied Economics",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00036840701704477",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Holding als Mittel der Steuerplanung zur Implementierung von steuerlich motiviertem Fremdkapital",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Ruf, M ",
+      "paper": NaN,
+      "journal": "Zeitschrift f\u221a\u00bar betriebswirtschaftliche Forschung",
+      "url": "https://link.springer.com/article/10.1007/BF03373682",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The Long Shadow of the Berlin Wall",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Buch, C and F Toubal",
+      "paper": "Working_Paper_Buch_Toubal",
+      "journal": "Journal of Macroeconomics",
+      "url": "https://ssrn.com/abstract=2745394",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Taxation and Capital Structure Choice - Evidence from a Panel of German Multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "B\u00fcttner, T, M Overesch, U Schreiber and G Wamser ",
+      "paper": "Working_Paper_Buettner_Overesch_Schreiber_Wamser",
+      "journal": " Economics Letters",
+      "url": "https://ssrn.com/abstract=981120",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "The Effects of Multinationals' Profit Shifting Activities on Real Investments",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Overesch, M",
+      "paper": "Working_Paper_Overesch",
+      "journal": "National Tax Journal",
+      "url": "https://ssrn.com/abstract=1080553",
+      "date_added": "2019-11-11 11:51:10"
+    }
+  },
+  {
+    "title": "Who Cares about Corporate Taxation? Asymmetric Tax Effects on Outbound FDI",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Overesch, M and G Wamser",
+      "paper": NaN,
+      "journal": "The World Economy",
+      "url": "https://ssrn.com/abstract=1521266",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Profit shifting in the EU: Evidence from Germany",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Weichenrieder, A J ",
+      "paper": "Working_Paper_Weichenrieder",
+      "journal": " International Tax and Public Finance",
+      "url": "https://ssrn.com/abstract=998420",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Job Creation Abroad and Worker Retention at Home",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "M\u00fcndler, M and S Becker",
+      "paper": NaN,
+      "journal": " The Analysis of Firms and Employees: Quantitative and Qualitative Approaches",
+      "url": "https://ideas.repec.org/h/nbr/nberch/9120.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Corporate Tax Planning and Thin-Capitalization Rules: Evidence from a Quasi Experiment",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Overesch, M., and G. Wamser",
+      "paper": NaN,
+      "journal": "Applied Economics",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00036840701704477",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Foreign direct investment, corporate finance, and the life cycle of investment",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Gersl, A., and M. Hlavacek",
+      "paper": NaN,
+      "journal": "Czech Journal of Economics and Finance",
+      "url": "http://journal.fsv.cuni.cz/storage/1087_fau_9_10_2007_00000036.pdf",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Foreign direct investment and the Czech corporate sector: potential risks to financial stability",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Gersl, A., and M. Hlavacek",
+      "paper": NaN,
+      "journal": "Financial Stability Report 2006, Czech National Bank",
+      "url": "http://journal.fsv.cuni.cz/storage/1087_fau_9_10_2007_00000036.pdf",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Where Enterprises Lead, People Follow? Links Between Migration and German FDI",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Buch, C.M., Kleinert, J., and F. Toubal",
+      "paper": "Working_Paper_Buch_M_Kleinert_Toubal",
+      "journal": "European Economic Review",
+      "url": "https://ssrn.com/abstract=523962",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Location Choice and Employment Decisions: A Comparison of German and Swedish Multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Becker, S. O., K. Ekholm, R. J\u00e4ckle, and M.-A. Muendler",
+      "paper": "Working_Paper_Muendler_J\u00e4ckle_Ekholm_Becker",
+      "journal": "Review of World Economics",
+      "url": "https://ssrn.com/abstract=648081",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The organization of knowledge in multinational firms",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Gumpert, A.",
+      "paper": "Working_Paper_Gumpert",
+      "journal": "BBk Discussion Paper",
+      "url": "https://ssrn.com/abstract=231202",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Environmental Regulation and Foreign Direct Investment: The Role of Mode of Entry",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Bialek, S. and Weichenrieder, Alfons J.",
+      "paper": "Working_Paper_Bialek_Weichenrieder",
+      "journal": NaN,
+      "url": "https://ideas.repec.org/a/ces/ifodic/v13y2016i04p41-47.html",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "At Your Service! The Role of Tax Havens in International Trade with Services",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "bbk_dataset": "MIDI",
+      "doi": NaN,
+      "authors": "Hebous, Shafik and Niels Johannesen ",
+      "paper": "Working_Paper_Hebous_Johannesen",
+      "journal": NaN,
+      "url": "https://ssrn.com/abstract=2627083",
+      "date_added": "2019-11-11 12:31:11"
     }
   },
   {
@@ -1085,10 +4881,10 @@
   {
     "title": "Linking USDA Nutrition Databases to IRI Household-Based and Store-Based Scanner Data",
     "datasets": [
-      "dataset-001",
       "dataset-057",
-      "dataset-002",
-      "dataset-053"
+      "dataset-001",
+      "dataset-053",
+      "dataset-002"
     ],
     "original": {
       "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=92570",
@@ -3811,8 +7607,8 @@
   {
     "title": "Reversing welfare reform? Immigrant restoration efforts and food stamp receipt among Mexican immigrant families",
     "datasets": [
-      "dataset-026",
-      "dataset-033"
+      "dataset-033",
+      "dataset-026"
     ],
     "original": {
       "url": "www.doi.org/10.1016/j.ssresearch.2016.03.001",
@@ -3839,8 +7635,8 @@
   {
     "title": "National Trends in Food Insecurity and Congregation-Based Food Provision between 1998 and 2012",
     "datasets": [
-      "dataset-026",
-      "dataset-033"
+      "dataset-033",
+      "dataset-026"
     ],
     "original": {
       "url": "www.doi.org/10.1080/03670244.2019.1598979",
@@ -4150,8 +7946,8 @@
   {
     "title": "Household Food Insecurity Is a Stronger Marker of Adequacy of Nutrient Intakes among Canadian Compared to American Youth and Adults",
     "datasets": [
-      "dataset-346",
       "dataset-048",
+      "dataset-346",
       "dataset-017"
     ],
     "original": {
@@ -5123,8 +8919,8 @@
   {
     "title": "Position of the Academy of Nutrition and Dietetics: Food Insecurity in the United States",
     "datasets": [
-      "dataset-033",
-      "dataset-346"
+      "dataset-346",
+      "dataset-033"
     ],
     "original": {
       "url": "www.doi.org/10.1016/j.jand.2017.09.027",
@@ -6092,10 +9888,10 @@
   {
     "title": "Time to eat? The relationship between food security and food-related time use",
     "datasets": [
+      "dataset-346",
       "dataset-001",
       "dataset-033",
-      "dataset-002",
-      "dataset-346"
+      "dataset-002"
     ],
     "original": {
       "url": "www.doi.org/10.1017/s1368980012005599",
@@ -6858,8 +10654,8 @@
   {
     "title": "Food insecurity in veteran households: findings from nationally representative data",
     "datasets": [
-      "dataset-033",
-      "dataset-346"
+      "dataset-346",
+      "dataset-033"
     ],
     "original": {
       "url": "www.doi.org/10.1017/s1368980015003067",
@@ -7213,9 +11009,9 @@
   {
     "title": "Food Insecurity And Health Outcomes",
     "datasets": [
-      "dataset-026",
-      "dataset-048",
       "dataset-033",
+      "dataset-048",
+      "dataset-026",
       "dataset-017"
     ],
     "original": {
@@ -7988,10 +11784,10 @@
   {
     "title": "Annual and Monthly SNAP Participation Rates",
     "datasets": [
-      "dataset-026",
       "dataset-048",
+      "dataset-017",
       "dataset-033",
-      "dataset-017"
+      "dataset-026"
     ],
     "original": {
       "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45414",
@@ -8050,8 +11846,8 @@
   {
     "title": "Children's Food Security and USDA Child Nutrition Programs",
     "datasets": [
-      "dataset-033",
       "dataset-048",
+      "dataset-033",
       "dataset-017"
     ],
     "original": {
@@ -8365,8 +12161,8 @@
   {
     "title": "Effects of maternal depression on family food insecurity",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "url": "www.doi.org/10.1016/j.ehb.2016.04.004",
@@ -9959,8 +13755,8 @@
   {
     "title": "Childhood adversity and behavioral health outcomes for youth: An investigation using state administrative data",
     "datasets": [
-      "dataset-026",
-      "dataset-091"
+      "dataset-091",
+      "dataset-026"
     ],
     "original": {
       "url": "www.doi.org/10.1016/j.chiabu.2015.07.006",
@@ -13234,8 +17030,8 @@
   {
     "title": "Position of the Academy of Nutrition and Dietetics: Child and Adolescent Federally Funded Nutrition Assistance Programs",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 118.0,
@@ -15504,8 +19300,8 @@
   {
     "title": "Food-package assignments and breastfeeding initiation before and after a change in the Special Supplemental Nutrition Program for Women, Infants, and Children",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 96.0,
@@ -16430,8 +20226,8 @@
   {
     "title": "Influence of Maternal Depression on WIC Participation in Low-Income Families",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 20.0,
@@ -18364,8 +22160,8 @@
   {
     "title": "The Special Supplemental Nutrition Program for Women, Infants, and Children Fresh Start Randomized Controlled Trial: Baseline Participant Characteristics and Reliability of Measures",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 116.0,
@@ -24162,8 +27958,8 @@
   {
     "title": "Accessibility of summer meals and the food insecurity of low-income households with children",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 19.0,
@@ -29456,8 +33252,8 @@
   {
     "title": "The Relationship between the School Breakfast Program and Food Insecurity",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 51.0,
@@ -29710,8 +33506,8 @@
   {
     "title": "Effects of infant health on family food insecurity: Evidence from two U.S. birth cohort studies",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 123.0,
@@ -30132,8 +33928,8 @@
   {
     "title": "A Framework for Valuing Investments in a Nurturing Society: Opportunities for Prevention Research",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 20.0,
@@ -30302,8 +34098,8 @@
   {
     "title": "Lunch at the library: examination of a community-based approach to addressing summer food insecurity",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 20.0,
@@ -34924,8 +38720,8 @@
   {
     "title": "Understanding the link between poverty and food insecurity among children: Does the definition of poverty matter?",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 20.0,
@@ -35850,8 +39646,8 @@
   {
     "title": "Poverty and Child Health in the United States",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 137.0,
@@ -37532,8 +41328,8 @@
   {
     "title": "Aligning Programs and Policies to Support Food Security and Public Health Goals in the United States",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 40.0,
@@ -37702,8 +41498,8 @@
   {
     "title": "A Proposal for Improvements in the Supplemental Nutrition Assistance Program",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 52.0,
@@ -38208,8 +42004,8 @@
   {
     "title": "Food and financial coping strategies during the monthly Supplemental Nutrition Assistance Program cycle",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 7.0,
@@ -41318,8 +45114,8 @@
   {
     "title": "A Brief Indicator of Household Energy Security: Associations With Food Security, Child Health, and Child Development in US Infants and Toddlers",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 122.0,
@@ -41824,8 +45620,8 @@
   {
     "title": "SNAP benefits and childhood asthma",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 220.0,
@@ -41910,8 +45706,8 @@
   {
     "title": "INTENDED AND UNINTENDED EFFECTS OF THE WAR ON POVERTY: WHAT RESEARCH TELLS US AND IMPLICATIONS FOR POLICY",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 34.0,
@@ -43844,8 +47640,8 @@
   {
     "title": "The Use of Blended Data to Improve Public Assistance Programs: Results from a Partnership between the U.S. Census Bureau, USDA, and State Program Agencies",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 3.0,
@@ -49726,8 +53522,8 @@
   {
     "title": "Household Food Insecurity: Serious Concerns for Child Development and commentaries",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 25.0,
@@ -51828,8 +55624,8 @@
   {
     "title": "Facebook Is an Effective Strategy to Recruit Low-income Women to Online Nutrition Education",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 45.0,
@@ -52418,8 +56214,8 @@
   {
     "title": "The effects of SNAP and WIC programs on nutrient intakes of children",
     "datasets": [
-      "dataset-026",
-      "dataset-346"
+      "dataset-346",
+      "dataset-026"
     ],
     "original": {
       "volume": 35.0,
@@ -56464,8 +60260,8 @@
   {
     "title": "Making Ends Meet After Prison",
     "datasets": [
-      "dataset-026",
-      "dataset-197"
+      "dataset-197",
+      "dataset-026"
     ],
     "original": {
       "doi": "10.1002/pam.21741",
@@ -58452,6 +62248,181 @@
       "journal": "Journal of Environmental Economics and Management",
       "doi": "10.1016/j.jeem.2019.01.001",
       "date_added": "2019-10-10 14:54:31"
+    }
+  },
+  {
+    "title": "An analysis of the consistency of banksAo internal ratings",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "journal": "Journal of Banking and Finance",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "BanksAo Equity Stakes and Lending: Evidence from a Tax Reform",
+    "datasets": [
+      "dataset-006",
+      "dataset-013",
+      "dataset-005",
+      "dataset-003"
+    ],
+    "original": {
+      "journal": "BBk Discussion Paper",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Choosing and using payment instruments: evidence from German microdata",
+    "datasets": [
+      "dataset-004"
+    ],
+    "original": {
+      "journal": "Empirical Economics",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Consumer cash usage: A cross-country comparison with payment diary survey data",
+    "datasets": [
+      "dataset-004"
+    ],
+    "original": {
+      "journal": "International Journal of Central Banking",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Corporation Taxes and the Debt Policy of Multinational Firms Ai Evidence from German Multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "journal": "Working Paper",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "How Can Firms choose their Leverage? Ai Tax Planning for Implementing Tax Induced Debt Finance",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "journal": "Working Paper",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Intercompany Loans and Profit Shifting Ai Evidence from Company-Level Data",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "journal": "Working Paper",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Monetary policy and financial (in)stability: An integrated microAimacro approach",
+    "datasets": [
+      "dataset-013",
+      "dataset-385",
+      "dataset-386"
+    ],
+    "original": {
+      "journal": "Journal of Financial Stability",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Tax Status and Tax Response Heterogeneity of MultinationalsAo Dept Finance",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "journal": "Working Paper",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Taxation and Capital Structure Choice Ai Evidence from a Panel of German Multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "journal": " Economics Letters",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The Effects of MultinationalsAo Profit Shifting Activities on Real Investments",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "journal": "National Tax Journal",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "The influence of an up-front experiment on respondents' recording behaviour in payment diaries: Evidence from Germany",
+    "datasets": [
+      "dataset-004"
+    ],
+    "original": {
+      "journal": "Journal of Official Statistics",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Using cash to monitor liquidity: Implications for payments, currency demand and withdrawal behavior",
+    "datasets": [
+      "dataset-004"
+    ],
+    "original": {
+      "journal": "Journal of Money, Credit and Banking",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Visible Reserves in Banks Ai Determinants of Initial Creation, Usage and Contribution to Bank Stability",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "journal": "Journal of Business Finance and Accounting",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Why is the Response of MultinationalsAo Capital Structure Choice to Tax Incentives That Low? Some Possible Explanations",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "journal": "Working Paper",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "YouAore banned! The effect of sanctions on German cross-border financial flows",
+    "datasets": [
+      "dataset-015"
+    ],
+    "original": {
+      "journal": "Economic Policy (formerly: Economic Policy: A European Forum)",
+      "date_added": "2019-11-11 12:31:11"
+    }
+  },
+  {
+    "title": "Zur Finanziellen Bildung der Privaten Haushalte in Deutschland: Ergebnisse der Studie AuPrivate Haushalte und ihre Finanzen (PHF)Au",
+    "datasets": [
+      "dataset-382"
+    ],
+    "original": {
+      "journal": "DIW Vierteljahreshefte zur Wirtschaftsforschung",
+      "date_added": "2019-11-11 12:31:11"
     }
   },
   {
