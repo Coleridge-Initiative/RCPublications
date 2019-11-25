@@ -6,7 +6,9 @@ import json
 import os
 import sys
 import unittest
-import glob
+
+
+PARTITIONS = []
 
 
 def url_validator (url):
@@ -18,37 +20,25 @@ def url_validator (url):
         return False
 
 
-class TestVerifypublications (unittest.TestCase):
+class TestVerifyPublications (unittest.TestCase):
     ALLOWED_FIELDS = set([
             "title",
             "datasets",
             "original"
             ])
 
-# ALLOWED_FIELDS = set([
-#             "alt_ids",
-#             "keywords",
-#             "date",
-#             "doi",
-#             "title",
-#             "url",
-#             "journal",
-#             "publisher",
-#             "related_dataset"
-#             ])
 
-
-    def allow_arg(self):
+    def allow_arg (self):
         return None
     
-    def setUp(self):
+
+    def setUp (self):
         """load the publications list"""
         self.publications = []
-        # filename = os.path.join('/Users/sophierand/RCPublications/',self.filename)
-        filename = self.filename
-        # filename = os.path.join('/Users/sophierand/RCPublications/partitions/',self.filename)
-        with open(filename, "r") as f:
-            self.publications = json.load(f)
+
+        for partition in PARTITIONS:
+            with open(partition, "r") as f:
+                self.publications.extend(json.load(f))
 
 
     def test_file_loaded (self):
@@ -80,23 +70,12 @@ class TestVerifypublications (unittest.TestCase):
                     raise Exception("{}: unknown field name {}".format(publication["title"], key))
 
 
-    # def test_unique_titles (self):
-    #     print('testing {} file now'.format(self.filename))
-    #     title_set = set([])
-
-    #     for publication in self.publications:
-    #         title = publication["title"]
-
-    #         if title in title_set:
-    #             raise Exception("{}: duplicate title {}".format(publication["title"], title))
-    #         else:
-    #             title_set.add(title)
-
-
 if __name__ == "__main__":
     if len(sys.argv) > 1:
-        # TestVerifypublications.filename = os.path.join('/Users/sophierand/RCPublications/partitions/',sys.argv.pop())
-        TestVerifypublications.filename = sys.argv.pop()
-        # filename = os.path.join('/Users/sophierand/RCPublications/partitions/',self.filename)
-        # MyTest.PASSWORD = sys.argv.pop()
+        PARTITIONS.append(sys.argv.pop())
+    else:
+        subdir = "partitions"
+        PARTITIONS = [ "/".join([subdir, name]) for name in os.listdir(subdir) ]
+
+    print(PARTITIONS)
     unittest.main()
