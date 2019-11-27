@@ -67,7 +67,7 @@ class TestVerifyPublications (unittest.TestCase):
         for publication in self.publications:
             for key in publication.keys():
                 if key not in self.ALLOWED_FIELDS:
-                    raise Exception("{}: unknown field name {}".format(publication["title"], key))
+                    raise Exception("{}: unknown field name {} in publication {}".format(publication["title"], key,publication))
 
 
 if __name__ == "__main__":
