@@ -1,0 +1,41 @@
+[
+  {
+    "title": "How important are fixed effects and time trends in estimating returns to schooling? Evidence from a replication of Jacobson, Lalonde, and Sullivan, 2005",
+    "datasets": [
+      "dataset-075"
+    ],
+    "original": {
+      "doi": "10.1002/jae.2653",
+      "url": "https://doi.org10.1002/jae.2653",
+      "search_term": "State of Michigan Unemployment Insurance",
+      "journal": "Journal of Applied Econometrics",
+      "date_added": "2019-11-26 12:56:59"
+    }
+  },
+  {
+    "title": "How Important are Fixed Effects and Time Trends in Estimating Returns to Schooling? Evidence Froma Replication of Jacobson, Lalonde and Sullivan, 2005",
+    "datasets": [
+      "dataset-075"
+    ],
+    "original": {
+      "doi": "10.2139/ssrn.3175945",
+      "url": "https://doi.org10.2139/ssrn.3175945",
+      "search_term": "State of Michigan Unemployment Insurance",
+      "journal": "SSRN Electronic Journal",
+      "date_added": "2019-11-26 12:56:59"
+    }
+  },
+  {
+    "title": "Do Temporary-Help Jobs Improve Labor Market Outcomes for Low-Skilled Workers? Evidence from 'Work First'",
+    "datasets": [
+      "dataset-075"
+    ],
+    "original": {
+      "doi": "10.2139/ssrn.830905",
+      "url": "https://doi.org10.2139/ssrn.830905",
+      "search_term": "State of Michigan Unemployment Insurance",
+      "journal": "SSRN Electronic Journal",
+      "date_added": "2019-11-26 12:56:59"
+    }
+  }
+]
