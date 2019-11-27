@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Small Firm Death in Developing Countries",
+    "datasets": [
+      "dataset-341"
+    ],
+    "original": {
+      "URL": "https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00798",
+      "search_term": "Business Employment Dynamics Data",
+      "doi": "10.1162/rest_a_00798",
+      "journal": "Review of Economics and Statistics",
+      "Validation ": "Yes",
+      "date_added": "2019-11-27 13:31:31"
+    }
+  },
+  {
+    "title": "United States",
+    "datasets": [
+      "dataset-341"
+    ],
+    "original": {
+      "URL": "https://www.oecd-ilibrary.org/docserver/69ea15d0-en.pdf?expires=1574282185&id=id&accname=ocid177380&checksum=DD600CC335F41455BB37EED1B0AD7A5F",
+      "search_term": "Business Employment Dynamics Data",
+      "doi": "10.1787/69ea15d0-en",
+      "journal": "OECD,Financing SMEs and Entrepreneurs 2019",
+      "Validation ": "Yes",
+      "date_added": "2019-11-27 13:31:31"
+    }
+  },
+  {
+    "title": "Nearly Half Of Small Employers Using Tobacco Surcharges Do Not Provide Tobacco Cessation Wellness Programs",
+    "datasets": [
+      "dataset-341"
+    ],
+    "original": {
+      "URL": "https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2017.1062",
+      "search_term": "Business Employment Dynamics Data",
+      "doi": "10.1377/hlthaff.2017.1062",
+      "journal": "Health Affairs",
+      "Validation ": "Yes",
+      "date_added": "2019-11-27 13:31:31"
+    }
+  },
+  {
+    "title": "Is regulation to blame for the decline in American entrepreneurship?",
+    "datasets": [
+      "dataset-341"
+    ],
+    "original": {
+      "URL": "https://academic.oup.com/economicpolicy/article/33/93/5/4833996",
+      "search_term": "Business Employment Dynamics Data",
+      "doi": "10.1093/epolic/eix019",
+      "journal": "Economic Policy",
+      "Validation ": "Yes",
+      "date_added": "2019-11-27 13:31:32"
+    }
+  },
+  {
+    "title": "Some additional evidence on the interplay between corruption, tax policy and firm entry using US states",
+    "datasets": [
+      "dataset-341"
+    ],
+    "original": {
+      "URL": "https://poseidon01.ssrn.com/delivery.php?ID=426022009020026065019122113083091023037021070063025049029096082109001094068090015099009033049061045022049095120121101113119076042034044050085099117071114125081124108039042048112091066101028118120127002121114120122120118092031118104115098122124091120127&EXT=pdf",
+      "search_term": "Business Employment Dynamics Data",
+      "doi": "10.1080/13504851.2016.1273483",
+      "journal": "Applied Economics Letters",
+      "Validation ": "Yes",
+      "date_added": "2019-11-27 13:31:32"
+    }
+  },
+  {
+    "title": "Monetary transmission mechanism with firm turnover",
+    "datasets": [
+      "dataset-341"
+    ],
+    "original": {
+      "URL": "https://www.sciencedirect.com/science/article/pii/S0164070416300465",
+      "search_term": "Business Employment Dynamics Data",
+      "doi": "10.1016/j.jmacro.2016.08.005",
+      "journal": "Journal of Macroeconomics",
+      "Validation ": "Yes",
+      "date_added": "2019-11-27 13:31:32"
+    }
+  }
+]
