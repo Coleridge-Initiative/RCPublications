@@ -1,5 +1,90 @@
 [
   {
+    "title": "Applicability of the ICF-CY in evaluating children with disabilities and family support: an integrative literature review",
+    "datasets": [
+      "dataset-027"
+    ],
+    "original": {
+      "URL": "http://www.scielo.br/scielo.php?pid=S1516-18462020000100601&script=sci_arttext#B29",
+      "search_term": "Survey of Income and Program Participation",
+      "doi": "10.1590/1982-0216/202022111518",
+      "journal": "Revista CEFAC",
+      "Validation": "Yes",
+      "date_added": "2019-11-27 13:26:22"
+    }
+  },
+  {
+    "title": "Entry and Stability of Cross-National Marriages in the United States",
+    "datasets": [
+      "dataset-027"
+    ],
+    "original": {
+      "URL": "https://journals.sagepub.com/doi/full/10.1177/0192513X19860186",
+      "search_term": "Survey of Income and Program Participation",
+      "doi": "10.1177/0192513x19860186",
+      "journal": "Journal of Family Issues",
+      "Validation": "Yes",
+      "date_added": "2019-11-27 13:26:22"
+    }
+  },
+  {
+    "title": "The effects of the 2010 Affordable Care Act dependent care provision on family structure and public program participation among young adults",
+    "datasets": [
+      "dataset-027"
+    ],
+    "original": {
+      "URL": "https://link.springer.com/article/10.1007/s11150-019-09459-w",
+      "search_term": "Survey of Income and Program Participation",
+      "doi": "10.1007/s11150-019-09459-w",
+      "journal": "Review of Economics of the Household",
+      "Validation": "Yes",
+      "date_added": "2019-11-27 13:26:22"
+    }
+  },
+  {
+    "title": "Occupational Licensing and the Earnings Premium in the United States: Updated Evidence from the Current Population Survey",
+    "datasets": [
+      "dataset-027"
+    ],
+    "original": {
+      "URL": "https://onlinelibrary.wiley.com/doi/full/10.1111/bjir.12469",
+      "search_term": "Survey of Income and Program Participation",
+      "doi": "10.1111/bjir.12469",
+      "journal": "British Journal of Industrial Relations",
+      "Validation": "Yes",
+      "date_added": "2019-11-27 13:26:22"
+    }
+  },
+  {
+    "title": "Local Food Prices, SNAP Purchasing Power, and Child Health",
+    "datasets": [
+      "dataset-027"
+    ],
+    "original": {
+      "URL": "https://www.sciencedirect.com/science/article/pii/S0167629619304151",
+      "search_term": "Survey of Income and Program Participation",
+      "doi": "10.1016/j.jhealeco.2019.102231",
+      "journal": "Journal of Health Economics",
+      "Validation": "Yes",
+      "date_added": "2019-11-27 13:26:22"
+    }
+  },
+  {
+    "title": "Pink work: Same-sex marriage, employment and discrimination",
+    "datasets": [
+      "dataset-027"
+    ],
+    "original": {
+      "URL": "https://www.sciencedirect.com/science/article/pii/S0047272719301471",
+      "search_term": "Survey of Income and Program Participation",
+      "doi": "10.1016/j.jpubeco.2019.104086",
+      "journal": "Journal of Public Economics",
+      "Validation": "Yes",
+      "date_added": "2019-11-27 13:26:22"
+    }
+  }
+[
+  {
     "title": "The nativity wealth gap in Europe: a matching approach",
     "datasets": [
       "dataset-027"
