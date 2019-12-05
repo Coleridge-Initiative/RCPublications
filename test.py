@@ -2,6 +2,7 @@
 # encoding: utf-8
 
 from urllib.parse import urlparse
+import glob
 import json
 import os
 import sys
@@ -38,6 +39,7 @@ class TestVerifyPublications (unittest.TestCase):
 
         for partition in PARTITIONS:
             with open(partition, "r") as f:
+                print("loading: {}".format(partition))
                 self.publications.extend(json.load(f))
 
 
@@ -75,7 +77,8 @@ if __name__ == "__main__":
         PARTITIONS.append(sys.argv.pop())
     else:
         subdir = "partitions"
-        PARTITIONS = [ "/".join([subdir, name]) for name in os.listdir(subdir) ]
 
-    print(PARTITIONS)
+        for partition in glob.glob(subdir + "/*.json"):
+            PARTITIONS.append(partition)
+
     unittest.main()

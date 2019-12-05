@@ -69,6 +69,7 @@
     "datasets": [
       "dataset-025"
     ],
+    "original": {
       "doi": NaN,
       "journal": "United States Department of Agriculture, Economic Research Service",
       "pdf": "https://www.ers.usda.gov/webdocs/publications/89344/err-251.pdf?v=0",
