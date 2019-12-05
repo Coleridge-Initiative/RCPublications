@@ -35,12 +35,12 @@ class TestVerifyPublications (unittest.TestCase):
 
     def setUp (self):
         """load the publications list"""
-        self.publications = []
+        self.publications = {}
 
         for partition in PARTITIONS:
             with open(partition, "r") as f:
                 print("loading: {}".format(partition))
-                self.publications.extend(json.load(f))
+                self.publications[partition] = json.load(f)[0]
 
 
     def test_file_loaded (self):
@@ -49,27 +49,39 @@ class TestVerifyPublications (unittest.TestCase):
 
 
     def test_has_required_fields (self):
-        for publication in self.publications:
+        for partition, publication in self.publications.items():
             if not set(["title", "datasets"]).issubset(publication.keys()):
-                raise Exception("{}: missing required fields".format(publication["id"]))
+                raise Exception("{}: missing required fields\n{}".format(publication["id"], partition))
 
 
     def test_has_valid_url (self):
-        for publication in self.publications:
+        for partition, publication in self.publications.items():
             if "url" in publication:
                 url = publication["url"]
 
                 if url == "" or not url:
                     pass
                 elif not url_validator(url):
-                    raise Exception("{}: badly formed URL {}".format(publication["title"], url))
+                    raise Exception("{}: badly formed URL {}\n{}".format(publication["title"], url, partition))
 
 
     def test_each_field (self):
-        for publication in self.publications:
+        for partition, publication in self.publications.items():
             for key in publication.keys():
                 if key not in self.ALLOWED_FIELDS:
-                    raise Exception("{}: unknown field name {} in publication {}".format(publication["title"], key,publication))
+                    raise Exception("{}: unknown field name {}\n{}".format(publication["title"], key, partition))
+
+
+    def test_original_fields (self):
+        for partition, publication in self.publications.items():
+            if "original" in publication.keys():
+                orig = publication["original"]
+
+                for key in ["url", "doi", "pdf", "journal"]:
+                    if key in orig:
+                        if not orig[key] or not isinstance(orig[key], str):
+                            print(orig)
+                            raise Exception("{}: bad value for {}\n{}".format(publication["title"], partition))
 
 
 if __name__ == "__main__":
