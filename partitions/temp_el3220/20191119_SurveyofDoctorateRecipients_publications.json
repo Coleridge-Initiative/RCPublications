@@ -1,0 +1,379 @@
+[
+  {
+    "title": "African Americans in evolutionary science: where we have been, and whataTMs next",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "Evolution: Education and Outreach",
+      "doi": "10.1186/s12052-019-0110-5",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Shifting Gears: Characteristics and Consequences of Latent Class Transitions in Doctoral Socialization",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "Research in Higher Education",
+      "doi": "10.1007/s11162-019-09583-7",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Policy should change to improve invited speaker diversity and reflect trainee diversity",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "bioRxiv",
+      "doi": "10.1101/785717",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Probing the National Geoscience Faculty Survey for reported use of practices that support inclusive learning environments in undergraduate courses",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "Journal of Geoscience Education",
+      "doi": "10.1080/10899995.2019.1621714",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Academic Entrepreneurship: The Bayh-Dole Act versus the ProfessoraTMs Privilege",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "ILR Review",
+      "doi": "10.1177/0019793918819809",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "A data-based guide to the North American ecology faculty job market",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "bioRxiv",
+      "doi": "10.1101/751867",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Developing an Indigenous Knowledge Field Camp",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "New Directions for Higher Education",
+      "doi": "10.1002/he.20336",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Why foreign STEM PhDs are unlikely to work for US technology startups",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1820079116",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "On the nexus between innovation, productivity and migration of US university graduates",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "Spatial Economic Analysis",
+      "doi": "10.1080/17421772.2019.1636127",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Biobusiness consulting to prepare scientists for industry careers",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "Nature Biotechnology",
+      "doi": "10.1038/s41587-019-0173-4",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "The Use of Multi-State Life Tables in Estimating Places for Biomedical and Behavioral Scientists",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "National Research Council (US) Committee on National Needs for Biomedical and Behavioral Research Personnel",
+      "doi": "10.17226/5751",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Stability and Longevity in the Publication Careers of U.S. Doctorate Recipients",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "PLOS One",
+      "doi": "10.1371/journal.pone.0154741",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Measuring time to the doctorate: reinterpretation of the evidence.",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.88.3.713",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "WHO'S PATENTING IN THE UNIVERSITY? EVIDENCE FROM THE SURVEY OF DOCTORATE RECIPIENTS",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "Economics of Innovation and New Technology",
+      "doi": "10.1080/10438590600982806",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Stay Rates of Foreign Doctorate Recipients from U.S. Universities, 2007",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "U.S. Department of Energy Office of Scientific and Technical Information",
+      "doi": "10.2172/971617",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Marriage and Baby Blues: Redefining Gender Equity in the Academy",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "The American Academy of Political and Social Science",
+      "doi": "10.1177/0002716204268744",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Gender Differences in Salary and Promotion in the Humanities",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "The Journal of Human Resources",
+      "doi": "10.2139/ssrn.267533",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Factors in Decisions of Underrepresented Minorities to Forego Science and Engineering Doctoral Study: A Pilot Study",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "Journal of Science and Technology",
+      "doi": "10.1023/A:1016694701704",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Diversifying Science and Engineering Faculties: Intersections of Race, Ethnicity, and Gender",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "American Behavioral Scientist",
+      "doi": "10.1177/0002764209356236",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Foreign-born academic scientists and engineers: producing more and getting less than their U.S.-born peers?",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "Research in Higher Education",
+      "doi": "10.1007/s11162-007-9055-6",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Why the US science and engineering workforce is aging rapidly",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1611748114",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Women in Academic Science: A Changing Landscape",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "Psychological Science in the Public Interest",
+      "doi": "10.1177/1529100614541236",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Career goals, pathways and competencies of geography graduate students in the USA",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "Journal of Geography in Higher Education",
+      "doi": "10.1080/03098265.2012.729563",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "The Pathology Workforce and Clinical Licensure: The Role of the PhD Clinical Laboratorian in the United States",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "Academic Pathology",
+      "doi": "10.1177/2374289518775948",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "The bachelor's to Ph.D. STEM pipeline no longer leaks more women than men: a 30-year analysis",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "Frontiers in Psychology",
+      "doi": "10.3389/fpsyg.2015.00037",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "New linked data on research investments: Scientific workforce, productivity, and public value",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "journal": "Research Policy",
+      "doi": "10.1016/j.respol.2014.12.013",
+      "notes": "manually collected",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "A conceptual framework for studying science research careers",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "The Journal of Technology Transfer",
+      "doi": "10.1007/s10961-018-9659-3",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "Are foreign-born researchers more innovative? Self-selection and the production of knowledge among PhD recipients in the USA",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "Journal of Geographical Systems",
+      "doi": "10.1007/s10109-018-0281-6",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  },
+  {
+    "title": "University and Department Influences on ScientistsaTM Occupational Outcomes",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "dataset_string": "Survey of Doctorate Recipients",
+      "journal": "Research in Higher Education",
+      "doi": "10.1007/s11162-019-09584-6",
+      "dataset_title": "Survey of Doctorate Recipients",
+      "date_added": "2019-11-27 13:53:31"
+    }
+  }
+]
