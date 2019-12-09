@@ -161,7 +161,6 @@
       "doi": "10.1108/s0147-912120190000047009",
       "url": "https://doi.org/10.1108/s0147-912120190000047009",
       "search_term": "Quarterly Workforce Indicators",
-      "journal": NaN,
       "date_added": "2019-12-09 14:20:48"
     }
   },
@@ -228,6 +227,7 @@
       "search_term": "Quarterly Workforce Indicators",
       "journal": "Journal of Time Series Analysis",
       "date_added": "2019-12-09 14:20:48"
+
     }
   },
   {
@@ -239,6 +239,7 @@
       "doi": "10.1080/07418825.2019.1602160",
       "url": "https://doi.org/10.1080/07418825.2019.1602160",
       "search_term": "Quarterly Workforce Indicators",
+
       "journal": "Justice Quarterly",
       "date_added": "2019-12-09 14:20:48"
     }
@@ -254,6 +255,9 @@
       "search_term": "Quarterly Workforce Indicators",
       "journal": "ILR Review",
       "date_added": "2019-12-09 14:20:48"
+    }
+  }
+]
     }
   }
 ]

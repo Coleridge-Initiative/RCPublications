@@ -1,41 +1,115 @@
 [
   {
-    "title": "Do changes in oil prices affect welfare programs? Evidence from Kern County",
+    "title": "Scalable Bayes under Informative Sampling",
     "datasets": [
-      "dataset-348"
+      "dataset-345"
+    ],
+    "original": {
+      "journal": "Scandinavian Journal of Statistics",
+      "doi": "10.1111/sjos.12312",
+      "search_term": "Current Employment Statistics Survey Data",
+      "date_added": "2019-11-27 13:23:24"
+    }
+  },
+  {
+    "title": "Input--Output Linkages, Proximity to Final Demand and the Location of Manufacturing Industries",
+    "datasets": [
+      "dataset-345"
+    ],
+    "original": {
+      "journal": "Advances in Spatial Science",
+      "doi": "10.1007/978-3-642-33395-8_12",
+      "notes": "This is a chapter in a book",
+      "search_term": "Current Employment Statistics Survey Data",
+      "date_added": "2019-11-27 13:23:24"
+    }
+  },
+  {
+    "title": "Geography, Institutions and Regional Economic Performance",
+    "datasets": [
+      "dataset-345"
+    ],
+    "original": {
+      "journal": "Advances in Spatial Science",
+      "doi": "10.1007/978-3-642-33395-8",
+      "notes": "This is a book",
+      "search_term": "Current Employment Statistics Survey Data",
+      "date_added": "2019-11-27 13:23:24"
+    }
+  },
+  {
+    "title": "Analysis of U.S. residential wood energy consumption: 1967-2009",
+    "datasets": [
+      "dataset-345"
     ],
     "original": {
       "journal": "Energy Economics",
-      "url": "https://doi.org/10.1016/j.eneco.2017.06.013",
-      "doi": "10.1016/j.eneco.2017.06.013",
-      "search_term": "CalWORKs Cash Grant Caseload Movement Report",
-      "date_added": "2019-11-22 11:54:34"
+      "doi": "10.1016/j.eneco.2012.03.004",
+      "search_term": "Current Employment Statistics Survey Data",
+      "date_added": "2019-11-27 13:23:24"
     }
   },
   {
-    "title": "Welfare reform's ineligible immigrant parents: Program reach and enrollment barriers",
+    "title": "Media Diversity and Localism",
     "datasets": [
-      "dataset-348"
+      "dataset-345"
     ],
     "original": {
-      "journal": "Journal of Children and Poverty",
-      "url": "https://doi.org/10.1080/10796126.2013.845144",
-      "doi": "10.1080/10796126.2013.845144",
-      "search_term": "CalWORKs Cash Grant Caseload Movement Report",
-      "date_added": "2019-11-22 11:54:34"
+      "journal": "Meaning and Metrics",
+      "doi": "10.4324/9781410614407",
+      "notes": "This is a book",
+      "search_term": "Current Employment Statistics Survey Data",
+      "date_added": "2019-11-27 13:23:24"
     }
   },
   {
-    "title": "Measuring the Role of Transportation in Facilitating Welfare-to-Work Transition: Evidence from Three California Counties",
+    "title": "Health Spending Growth Slows In 2003",
     "datasets": [
-      "dataset-348"
+      "dataset-345"
     ],
     "original": {
-      "journal": "Transportation Research Record Journal of the Transportation Research Board",
-      "url": "https://doi.org/10.3141/1859-12",
-      "doi": "10.3141/1859-12",
-      "search_term": "CalWORKs Cash Grant Caseload Movement Report",
-      "date_added": "2019-11-22 11:54:34"
+      "journal": "Health Affairs",
+      "doi": "10.1377/hlthaff.w5.185",
+      "search_term": "Current Employment Statistics Survey Data",
+      "date_added": "2019-11-27 13:23:24"
+    }
+  },
+  {
+    "title": "Health Spending Growth Slows In 2003",
+    "datasets": [
+      "dataset-345"
+    ],
+    "original": {
+      "journal": "Health Affairs",
+      "doi": "10.1377/hlthaff.24.1.185",
+      "search_term": "Current Employment Statistics Survey Data",
+      "date_added": "2019-11-27 13:23:24"
+    }
+  },
+  {
+    "title": "Input-Output Linkages, Proximity to Final Demand and the Location of Manufacturing Industries",
+    "datasets": [
+      "dataset-345"
+    ],
+    "original": {
+      "journal": "SSRN Electronic Journal",
+      "doi": "10.2139/ssrn.883581",
+      "notes": "This is a chapter in a book",
+      "search_term": "Current Employment Statistics Survey Data",
+      "date_added": "2019-11-27 13:23:24"
+    }
+  },
+  {
+    "title": "Employment and Wage Effects of Radio Consolidation Peter DiCola",
+    "datasets": [
+      "dataset-345"
+    ],
+    "original": {
+      "journal": "Meaning and Metrics",
+      "doi": "10.4324/9781410614407-11",
+      "notes": "This is a chapter in a book",
+      "search_term": "Current Employment Statistics Survey Data",
+      "date_added": "2019-11-27 13:23:24"
     }
   }
 ]

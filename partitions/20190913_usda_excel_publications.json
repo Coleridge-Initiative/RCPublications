@@ -344,7 +344,6 @@
     "original": {
       "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45441",
       "sheet_name": "Qtrly FAFH",
-      "original_dataset_name": NaN,
       "date_added": "2019-10-11 11:13:08"
     }
   },
@@ -1268,7 +1267,6 @@
     "original": {
       "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=80653",
       "sheet_name": "Qtrly FAFH",
-      "original_dataset_name": NaN,
       "date_added": "2019-10-11 11:13:08"
     }
   },
