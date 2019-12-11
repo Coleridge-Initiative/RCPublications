@@ -68,7 +68,6 @@ class TestVerifyPublications (unittest.TestCase):
             for pub in publications:
                 if not set(["title", "datasets"]).issubset(pub.keys()):
                     raise Exception("{}: missing required fields\n{}".format(pub["title"], partition))
-                    # raise Exception("{}: missing required fields\n{}".format(pub["id"], partition))
 
 
     def test_has_valid_url (self):
