@@ -95,6 +95,7 @@ class TestVerifyPublications (unittest.TestCase):
             for pub in publications:
                 if "original" in pub.keys():
                     orig = pub["original"] 
+
                     for key in ["url", "doi", "pdf", "journal"]:
                         if key in orig:
                             if not orig[key] or not isinstance(orig[key], str):
@@ -108,8 +109,8 @@ class TestVerifyPublications (unittest.TestCase):
                 if "original" in pub.keys():
                     orig = pub["original"] 
 
-                    for key in ["url", "doi", "pdf", "journal"]:
-                        if key in orig:
+                    for key in orig.keys():
+                        if key in ["url", "doi", "pdf", "journal"]:
                             try:                           
                                 eval_orig = ast.literal_eval(orig[key])
                             except:
