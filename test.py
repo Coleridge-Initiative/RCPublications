@@ -101,19 +101,23 @@ class TestVerifyPublications (unittest.TestCase):
                                 print(orig)
                                 raise Exception("{}: bad value for {}\n{}".format(pub["title"], partition))
 
+
     def test_dict_fields (self):
         for partition, publications in self.publications.items():
             for pub in publications:
                 if "original" in pub.keys():
                     orig = pub["original"] 
+
                     for key in ["url", "doi", "pdf", "journal"]:
                         if key in orig:
                             try:                           
                                 eval_orig = ast.literal_eval(orig[key])
                             except:
                                 eval_orig = orig[key]
-                            if isinstance(eval_orig,dict):
-                                raise Exception("{}: There is a bad value in {} in \n{}".format(pub["title"],eval_orig,partition))
+
+                            if not isinstance(eval_orig, str):
+                                print(orig)
+                                raise Exception("{}: bad value in {}\n{}".format(pub["title"], eval_orig, partition))
                                 
                                 
 if __name__ == "__main__":
