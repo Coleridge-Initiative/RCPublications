@@ -67,7 +67,7 @@ class TestVerifyPublications (unittest.TestCase):
         for partition, publications in self.publications.items():
             for pub in publications:
                 if not set(["title", "datasets"]).issubset(pub.keys()):
-                    raise Exception("{}: missing required fields\n{}".format(pub["title"], partition))
+                    raise Exception("{}:\n missing required fields\n{}".format(pub["title"], partition))
 
 
     def test_has_valid_url (self):
@@ -79,7 +79,7 @@ class TestVerifyPublications (unittest.TestCase):
                     if url == "" or not url:
                         pass
                     elif not url_validator(url):
-                        raise Exception("{}: badly formed URL {}\n{}".format(pub["title"], url, partition))
+                        raise Exception("{}:\n badly formed URL {}\n{}".format(pub["title"], url, partition))
 
 
     def test_each_field (self):
@@ -87,7 +87,7 @@ class TestVerifyPublications (unittest.TestCase):
             for pub in publications:
                 for key in pub.keys():
                     if key not in self.ALLOWED_FIELDS:
-                        raise Exception("{}: unknown field name {}\n{}".format(pub["title"], key, partition))
+                        raise Exception("{}:\n unknown field name {}\n{}".format(pub["title"], key, partition))
 
 
     def test_original_fields (self):
@@ -99,7 +99,7 @@ class TestVerifyPublications (unittest.TestCase):
                         if key in orig:
                             if not orig[key] or not isinstance(orig[key], str):
                                 print(orig)
-                                raise Exception("{}: bad value for {}\n{}".format(pub["title"], partition))
+                                raise Exception("{}:\n bad value for `{}`\n{}".format(pub["title"], key, partition))
 
 
     def test_dict_fields (self):
@@ -117,7 +117,7 @@ class TestVerifyPublications (unittest.TestCase):
 
                             if not isinstance(eval_orig, str):
                                 print(orig)
-                                raise Exception("{}: bad value in {}\n{}".format(pub["title"], eval_orig, partition))
+                                raise Exception("{}:\n bad value in {}\n{}".format(pub["title"], eval_orig, partition))
                                 
                                 
 if __name__ == "__main__":
