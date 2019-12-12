@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-
+import ast
 from urllib.parse import urlparse
 import glob
 import json
@@ -94,15 +94,28 @@ class TestVerifyPublications (unittest.TestCase):
         for partition, publications in self.publications.items():
             for pub in publications:
                 if "original" in pub.keys():
-                    orig = pub["original"]
-
+                    orig = pub["original"] 
                     for key in ["url", "doi", "pdf", "journal"]:
                         if key in orig:
                             if not orig[key] or not isinstance(orig[key], str):
                                 print(orig)
                                 raise Exception("{}: bad value for {}\n{}".format(pub["title"], partition))
 
-
+    def test_dict_fields (self):
+        for partition, publications in self.publications.items():
+            for pub in publications:
+                if "original" in pub.keys():
+                    orig = pub["original"] 
+                    for key in ["url", "doi", "pdf", "journal"]:
+                        if key in orig:
+                            try:                           
+                                eval_orig = ast.literal_eval(orig[key])
+                            except:
+                                eval_orig = orig[key]
+                            if isinstance(eval_orig,dict):
+                                raise Exception("{}: There is a bad value in {} in \n{}".format(pub["title"],eval_orig,partition))
+                                
+                                
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         PARTITIONS.append(sys.argv.pop())
