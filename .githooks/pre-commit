@@ -2,11 +2,12 @@
 
 python test.py
 result=$?
-echo $result
+
+echo "Status of Tests: $result"
 
 if [ $result -eq 0 ]; then
     echo "Unit Test PASSED"
-    exit 1
+    exit 0
 else 
     echo "Unit Test FAILED"
     exit 1
