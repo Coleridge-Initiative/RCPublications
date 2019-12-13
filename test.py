@@ -28,10 +28,6 @@ class TestVerifyPublications (unittest.TestCase):
             "datasets",
             "original"
             ])
-    def test_temp(self):
-        
-        self.assertTrue(False, "Testing, Remove test case")
-
 
     def allow_arg (self):
         return None
