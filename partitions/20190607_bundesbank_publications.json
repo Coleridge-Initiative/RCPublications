@@ -1092,7 +1092,7 @@
     ],
     "original": {
       "bbk_dataset": "MIDI, USTAN",
-      "authors": "Biewen E., Gruhl A., Gürke C., Hethey-Maier T., Wei\u00df E.",
+      "authors": "Biewen E., Gruhl A., Gürke C., Hethey-Maier T., Weiß E.",
       "journal": "Schmollers Jahrbuch",
       "url": "https://ideas.repec.org/a/aeq/aeqsjb/v132_y2012_i3_q3_p361-377.html",
       "date_added": "2019-11-11 11:51:10"
@@ -1322,8 +1322,8 @@
     ],
     "original": {
       "bbk_dataset": "BISTA, BAKIS, BISTA, MIMIK, SHS-BASE, MIMIK",
-      "authors": "Abbassi P., Iyer R., Peydr\u00f3 J., Tous F.",
-      "paper": "Working_Paper_Abbassi_Ilyer_Peydr\u00f3_Tous",
+      "authors": "Abbassi P., Iyer R., Peydró J., Tous F.",
+      "paper": "Working_Paper_Abbassi_Ilyer_Peydró_Tous",
       "journal": "Journal of Financial Economics",
       "url": "https://ssrn.com/abstract=2570763",
       "date_added": "2019-11-11 11:51:10"
@@ -2817,8 +2817,8 @@
     ],
     "original": {
       "bbk_dataset": "USTAN",
-      "authors": "Stö\u00df E.",
-      "paper": "Working_Paper_Stö\u00df",
+      "authors": "Stöß E.",
+      "paper": "Working_Paper_Stöß",
       "journal": "BBk Discussion Paper",
       "url": "https://ssrn.com/abstract=2785791",
       "date_added": "2019-11-11 11:51:10"
@@ -2861,7 +2861,7 @@
       "bbk_dataset": "MIDI",
       "authors": "Anna Gumpert, James R. Hines Jr., and Monika Schnitzer",
       "paper": "Discussion_Paper_Gumpert_Hines_Schnitzer",
-      "journal": "The Review of Economics and Statistics, volume 98(4), pp. 713\u2013727",
+      "journal": "The Review of Economics and Statistics, volume 98(4), pp. 713-727",
       "url": "https://ssrn.com/abstract=593546",
       "date_added": "2019-11-11 11:51:10"
     }
@@ -3096,8 +3096,8 @@
     ],
     "original": {
       "bbk_dataset": "MIDI",
-      "authors": "D. Dre\u00dfler und M. Overesch",
-      "paper": "Working_Paper_Dre\u00dfler_Overesch",
+      "authors": "D. Dreßler und M. Overesch",
+      "paper": "Working_Paper_Dreßler_Overesch",
       "journal": "Canadian Journal of Economics",
       "url": "https://link.springer.com/article/10.1007/s10797-012-9240-1",
       "date_added": "2019-11-11 11:51:10"
