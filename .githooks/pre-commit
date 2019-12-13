@@ -1,0 +1,14 @@
+#!/bin/sh
+
+python test.py
+result=$?
+echo $result
+
+if [ $result -eq 0 ]; then
+    echo "Unit Test PASSED"
+    exit 1
+else 
+    echo "Unit Test FAILED"
+    exit 1
+fi
+exit 1
