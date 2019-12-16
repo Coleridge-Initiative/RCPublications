@@ -15,6 +15,7 @@ Also, before working in this repo you must set up your *pre-commit*
 hooks for Git:
 
 ```
+chmod +x .githooks/pre-commit
 bash .githooks/one-time-hook-setup.sh
 ```
 
