@@ -13,6 +13,7 @@ import unittest
 PARTITIONS = []
 PUBLICATIONS = {}
 
+
 def url_validator (url):
     """validate the format of a URL"""
     try:
@@ -28,6 +29,7 @@ class TestVerifyPublications (unittest.TestCase):
             "datasets",
             "original"
             ])
+
 
     def allow_arg (self):
         return None
