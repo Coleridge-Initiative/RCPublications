@@ -11,6 +11,13 @@ Updates arrive in mulitple drops and the manual curation gets
 performed over in that repo prior to commits:
 <https://github.com/NYU-CI/RichContextMetadata/tree/master/metadata>
 
+Also, before working in this repo you must set up your *pre-commit*
+hooks for Git:
+
+```
+bash .githooks/one-time-hook-setup.sh
+```
+
 
 ## Instructions for adding new publications
 
