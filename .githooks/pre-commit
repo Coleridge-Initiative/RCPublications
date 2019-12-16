@@ -6,10 +6,10 @@ result=$?
 echo "Status of Tests: $result"
 
 if [ $result -eq 0 ]; then
-    echo "Unit Test PASSED"
+    echo "Unit Tests PASSED"
     exit 0
 else 
-    echo "Unit Test FAILED"
+    echo "Unit Tests FAILED"
     exit 1
 fi
 exit 1
