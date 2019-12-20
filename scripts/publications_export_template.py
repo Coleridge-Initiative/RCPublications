@@ -3,7 +3,9 @@ import os, errno
 import csv
 import datetime
 import json
+import numpy as np
 import pandas as pd
+import re
 import unicodedata
 from pathlib import Path
 
@@ -44,6 +46,13 @@ def scrub_unicode (text):
         print("not a string?", type(x), x)
 
     return x
+
+def check_linkages(linkages_csv): 
+    obj_pattern = re.compile('\{.*?\}')
+
+    if linkages_csv['journal'].str.contains(obj_pattern).any():
+        raise ValueError("Column '{}' contains invalid value/pattern: {}".format('journal', obj_pattern.pattern))
+
 
 def create_pub_dict(linkages_dataframe, datasets):
     pub_metadata_fields = ['title']
@@ -89,6 +98,9 @@ def export(rcm_subfolder, file_name):
     linkages_csv = linkages_csv.loc[pd.notnull(linkages_csv.dataset)].drop_duplicates()
     linkages_csv = linkages_csv.loc[pd.notnull(linkages_csv.title)].drop_duplicates()
     linkages_csv['title'] = linkages_csv['title'].apply(scrub_unicode)
+    
+    # Check for invalid values
+    check_linkages(linkages_csv)
 
     # Get Datasets Information
     with open(datasets_file_path, encoding="utf-8") as json_file:
@@ -120,5 +132,3 @@ if __name__ == "__main__":
         export(rcm_subfolder, file_name)
     else:
         raise ValueError("Wrong number of arguments passed in.")
-
-    ##TODO: from Sophie, check for bad title values: example: {Title: ID: }  
