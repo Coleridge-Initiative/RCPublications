@@ -60,24 +60,20 @@ Remove any entries that don't have these fields.
 
 ### 3. Generate a JSON file to add as a partition
 
-Use the `publications_export_template.ipynb` example to generate a
+Use the `scripts/publications_export_template.py` script to generate a
 JSON file to add to the `partitions/` directory.
 
   * Navigate to your subdirectory in `RichContextMetadata/metadata` where your CSV is stored
 
-  * Copy `publications_export_template.ipynb` from this repo
+  * Copy the **directory name** where your CSV is located, and Copy the **file name** of the CSV you want to export
+    * Note: The directory name will become part of the new JSON file 
 
-  * Optional: it's a good pratice to rename the notebook the same as the subdirectory
-
-  * Update the `file_name` and `rcm_subfolder` variables, and no changes should be needed after that
-
-  * You can step through the notebook, which will export your publications metdata to `/partitions`
+  * Execute `python scripts/publications_export_template.py <directory_name> <csv_file_name>` on the terminal, or on your favorite IDE.
+    * This script will export your publications metadata to `/partitions`
 
   * If you run into any problems with the template, post a GitHub issue on this repo
 
-Check the `RCPublications/partitions` subdirectory after you reach the
-end of the notebook, to make sure that the JSON files has the required
-fields and was exported properly.
+Check the `RCPublications/partitions` subdirectory after the script is done running without errors, to make sure that the JSON files has the required fields and was exported properly.
 
 
 ### 4. Run unit tests prior to commit
