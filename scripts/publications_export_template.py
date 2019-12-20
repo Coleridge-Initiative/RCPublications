@@ -3,7 +3,6 @@ import os, errno
 import csv
 import datetime
 import json
-import numpy as np
 import pandas as pd
 import re
 import unicodedata
