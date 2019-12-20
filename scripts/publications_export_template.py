@@ -7,7 +7,7 @@ import pandas as pd
 import unicodedata
 from pathlib import Path
 
-
+# TODO maybe move this function to a Utils class? So it can managed from one location 
 def scrub_unicode (text):
     """
     try to handle the unicode edge cases encountered in source text,
@@ -90,6 +90,7 @@ def export(rcm_subfolder, file_name):
     linkages_csv = linkages_csv.loc[pd.notnull(linkages_csv.title)].drop_duplicates()
     linkages_csv['title'] = linkages_csv['title'].apply(scrub_unicode)
 
+    # Get Datasets Information
     with open(datasets_file_path, encoding="utf-8") as json_file:
         datasets = json.load(json_file)
 
