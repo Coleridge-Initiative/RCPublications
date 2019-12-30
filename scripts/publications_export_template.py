@@ -35,6 +35,9 @@ def scrub_unicode (text):
 
     x = x.replace("\\u2014", " - ").replace('–', '-').replace('—', ' - ')
     x = x.replace("\\u2013", " - ").replace("\\u00ad", " - ")
+    x = x.replace("\\u00C9", "É")
+    x = x.replace('"', "'")
+    
 
     x = str(unicodedata.normalize("NFKD", x).encode("ascii", "ignore").decode("utf-8"))
 
@@ -71,6 +74,12 @@ def create_pub_dict(linkages_dataframe, datasets):
         if len(original_metadata_cols) > 0:
             original_metadata_raw = r[original_metadata_cols].to_dict()
             original_metadata_raw.update({'date_added':datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')})
+            if 'journal' in original_metadata_cols:
+                # print(original_metadata_raw["journal"])
+                try:
+                    original_metadata_raw.update({'journal':scrub_unicode(original_metadata_raw["journal"])})
+                except:
+                    pass
             original_metadata = {k: v for k, v in original_metadata_raw.items() if not pd.isnull(v)}
             pub_dict.update({'original': original_metadata})
         pub_dict_list.append(pub_dict)
