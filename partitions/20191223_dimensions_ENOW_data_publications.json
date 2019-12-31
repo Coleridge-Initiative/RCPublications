@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Using Re-scaled Resilience Screening Index Results and Location Quotients for Socio-Ecological Characterizations in U.S. Coastal Regions",
+    "datasets": [
+      "dataset-617",
+      "dataset-627"
+    ],
+    "original": {
+      "doi": "10.3389/fenvs.2019.00096",
+      "url": "https://www.frontiersin.org/articles/10.3389/fenvs.2019.00096/full",
+      "journal": "Frontiers in Environmental Science",
+      "pdf ": "https://www.frontiersin.org/articles/10.3389/fenvs.2019.00096/pdf",
+      "search_term": "ENOW",
+      "date_added": "2019-12-31 09:57:30"
+    }
+  },
+  {
+    "title": "Economic impact of Mississippi and Alabama Gulf Coast tourism on the regional economy",
+    "datasets": [
+      "dataset-617",
+      "dataset-328",
+      "dataset-628",
+      "dataset-629"
+    ],
+    "original": {
+      "doi": "10.1016/j.ocecoaman.2017.05.006",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0964569117304982#bib5",
+      "journal": "Ocean & Coastal Management",
+      "search_term": "ENOW",
+      "date_added": "2019-12-31 09:57:30"
+    }
+  },
+  {
+    "title": "Using cultural ecosystem services to inform restoration priorities in the Laurentian Great Lakes",
+    "datasets": [
+      "dataset-617"
+    ],
+    "original": {
+      "doi": "10.1890/140328",
+      "url": "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/140328",
+      "journal": "Frontiers in Ecology and the Environment",
+      "search_term": "ENOW",
+      "date_added": "2019-12-31 09:57:30"
+    }
+  },
+  {
+    "title": "Approach for assessing coastal vulnerability to oil spills for prevention and readiness using GIS and the Blowout and Spill Occurrence Model",
+    "datasets": [
+      "dataset-617"
+    ],
+    "original": {
+      "doi": "10.1016/j.ocecoaman.2015.04.014",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0964569115001076#bib48",
+      "journal": "Ocean & Coastal Management",
+      "pdf ": "https://manuscript.elsevier.com/S0964569115001076/pdf/S0964569115001076.pdf",
+      "search_term": "ENOW",
+      "date_added": "2019-12-31 09:57:30"
+    }
+  },
+  {
+    "title": "The Evolution of the Coastal Economy: The Role of Working Waterfronts in the Alabama Gulf Coast",
+    "datasets": [
+      "dataset-617",
+      "dataset-328",
+      "dataset-629",
+      "dataset-630"
+    ],
+    "original": {
+      "doi": "10.3390/su7044310",
+      "url": "https://www.mdpi.com/2071-1050/7/4/4310/htm",
+      "journal": "Sustainability",
+      "pdf ": "http://www.mdpi.com/2071-1050/7/4/4310/pdf",
+      "search_term": "ENOW",
+      "date_added": "2019-12-31 09:57:30"
+    }
+  },
+  {
+    "title": "Human Dimensions of Our Estuaries and Coasts",
+    "datasets": [
+      "dataset-617",
+      "dataset-630"
+    ],
+    "original": {
+      "doi": "10.1007/s12237-014-9926-y",
+      "journal": "Chesapeake Science",
+      "pdf ": "https://link.springer.com/content/pdf/10.1007%2Fs12237-014-9926-y.pdf",
+      "search_term": "ENOW",
+      "date_added": "2019-12-31 09:57:30"
+    }
+  },
+  {
+    "title": "Citizen science datasets reveal drivers of spatial and temporal variation for anthropogenic litter on Great Lakes beaches",
+    "datasets": [
+      "dataset-617\u00a3\u00acdataset-632"
+    ],
+    "original": {
+      "doi": "10.1016/j.scitotenv.2016.10.113",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0048969716322999?via%3Dihub#bb0110",
+      "journal": "The Science of The Total Environment",
+      "search_term": "Economics: National Ocean Watch",
+      "date_added": "2019-12-31 09:57:30"
+    }
+  },
+  {
+    "title": "Indicators of climate change and social vulnerability in fishing dependent communities along the Eastern and Gulf Coasts of the United States",
+    "datasets": [
+      "dataset-617",
+      "dataset-631"
+    ],
+    "original": {
+      "doi": "10.1016/j.marpol.2016.04.030",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308597X16302123#bfn2",
+      "journal": "Marine Policy",
+      "search_term": "Economics: National Ocean Watch",
+      "date_added": "2019-12-31 09:57:30"
+    }
+  },
+  {
+    "title": "Accuracy Assessment of NOAA Coastal Change Analysis Program 2006-2010 Land Cover and Land Cover Change Data",
+    "datasets": [
+      "dataset-617",
+      "dataset-623"
+    ],
+    "original": {
+      "doi": "10.1016/s0099-1112(16)30122-7",
+      "journal": "Photogrammetric Engineering & Remote Sensing",
+      "pdf ": "https://coast.noaa.gov/data/digitalcoast/pdf/ccap-accuracy-assessment.pdf",
+      "search_term": "Economics: National Ocean Watch",
+      "date_added": "2019-12-31 09:57:30"
+    }
+  },
+  {
+    "title": "Abundance and environmental drivers of anthropogenic litter on 5 Lake Michigan beaches: A study facilitated by citizen science data collection",
+    "datasets": [
+      "dataset-617",
+      "dataset-632"
+    ],
+    "original": {
+      "doi": "10.1016/j.jglr.2014.12.015",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0380133014002767#bbb0140",
+      "journal": "Journal of Great Lakes Research",
+      "search_term": "Economics: National Ocean Watch",
+      "date_added": "2019-12-31 09:57:30"
+    }
+  }
+]
