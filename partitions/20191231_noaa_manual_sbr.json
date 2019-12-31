@@ -1,0 +1,194 @@
+[
+    {
+        "title": "Effective inundation of continental United States communities with 21st century sea level rise",
+        "datasets": ["dataset-614","dataset-631"],        
+        "original":{
+        "doi":"10.1525/elementa.234",
+        "journal":"Elementa",
+        "url": "https://www.elementascience.org/articles/10.1525/elementa.234/",        
+        "github": "https://github.com/kristydahl/permanent_inundation",
+        "authors":
+        [
+           "Kristina A. Dahl", 
+           "Erika Spanger-Siegfried", 
+           "Astrid Caldas", 
+           "Shana Udvardy"
+        ]
+        }
+    },
+    {
+        "title":"Trends in United States Tidal Datum Statistics and Tide Range",
+        "datasets":["dataset-614"],
+        "original":{
+            "doi":"10.1061/~ASCE!0733-950X~2003!129:4~155!",
+            "url": "https://www.researchgate.net/publication/228554447_Trends_in_United_States_Tidal_Datum_Statistics_and_Tide_Range",
+            "authors":[
+                "Reinhard E. Flick",
+                "Joseph F. Murray",
+                "Lesley C. Ewing"
+            ]
+        }
+    },
+    {
+        "title":"Unlocking the Potential of NEXRAD Data through NOAA’s Big Data Partnership",
+        "datasets": ["dataset-612"],
+        "original":{
+            "url": "https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-16-0021.1",
+            "doi": "10.1175/BAMS-D-16-0021.1",
+            "authors":[
+                "Steve Ansari",
+                "Stephen Del Greco"
+            ]
+        }
+    },
+    {
+        "title":"The U.S. Historical Climatology Network Monthly Temperature Data, Version 2",
+        "datasets":["dataset-638"],
+        "original":{
+            "url":"https://journals.ametsoc.org/doi/10.1175/2008BAMS2613.1",
+            "doi":"10.1175/2008BAMS2613.1",
+            "journal":"Bulletin of the American Meteorological Society",
+            "pdf":"https://journals.ametsoc.org/doi/pdf/10.1175/2008BAMS2613.1"
+        }
+
+    },
+    {   
+        "title":"A Historical Perspective of U.S. Climate Divisions",
+        "datasets":["dataset-640"],
+        "original":{
+            "doi":"10.1175/1520-0477(1996)077<0293:AHPOUC>2.0.CO;2",
+            "journal":"Bulletin of the American Meteorological Society",
+            "url":"https://journals.ametsoc.org/doi/abs/10.1175/1520-0477%281996%29077%3C0293%3AAHPOUC%3E2.0.CO%3B2",
+            "pdf":"https://journals.ametsoc.org/doi/pdf/10.1175/1520-0477%281996%29077%3C0293%3AAHPOUC%3E2.0.CO%3B2"
+        }
+    },
+
+    {   
+        "title":"Developments in Operational Long-Range Climate Prediction at CPC",
+        "datasets":["dataset-639"],
+        "original":{
+            "doi":"10.1175/2007WAF2007042.1",
+            "journal":"Weather and Forecasting",
+            "url":"https://journals.ametsoc.org/doi/full/10.1175/2007WAF2007042.1",
+            "pdf":"https://journals.ametsoc.org/doi/pdf/10.1175/2007WAF2007042.1"
+        }
+    },
+    {   
+        "title":"A modern Applied Climate Information System",
+        "datasets":["dataset-642"],
+        "original":{
+            "doi":"10.1175/BAMS-85-6-811",
+            "journal":"Bulletin of the American Meteorological Society",
+            "url":"https://www.researchgate.net/publication/253389764_A_modern_Applied_Climate_Information_System"
+        }
+    },
+
+    {
+        "title": "NOAA Local Climate Analysis Tool (LCAT): Data, Methods, and Usability",
+        "datasets":["dataset-637","dataset-638","dataset-639","dataset-640","dataset-642"],
+        "original":{
+            "doi":"10.1175/BAMS-D-13-00187.1",
+            "journal":"Bulletin of the American Meteorological Society",
+            "url":"https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00187.1"
+
+        }
+    },
+    {
+        "title": "The New Digital Forecast Database of the National Weather Service",
+        "datasets":[
+            "dataset-643"
+        ],
+        "original":{
+            "doi":"10.1175/BAMS-84-2-195",
+            "journal":"Bulletin of the American Meteorological Society",
+            "url":"https://journals.ametsoc.org/doi/abs/10.1175/BAMS-84-2-195",
+            "pdf":"https://journals.ametsoc.org/doi/pdf/10.1175/BAMS-84-2-195"
+
+        }
+    },
+
+    {
+        "title":"Mapping Coastal Risks and Social Vulnerability: Current Tools and Legal Risks",
+        "datasets":[
+            "dataset-610"
+        ],
+        "original":{
+            "url":"https://scholarship.law.wm.edu/vcpclinic/16/",
+            "pdf":"https://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1016&context=vcpclinic"
+        }
+    },
+    {
+        "title":"A lifeline and social vulnerability analysis of sea level rise impacts on rural coastal communities",
+        "datasets":[
+            "dataset-613",
+            "dataset-644"
+        ],
+        "original":{
+            "url":"https://www.researchgate.net/publication/331299482_A_lifeline_and_social_vulnerability_analysis_of_sea_level_rise_impacts_on_rural_coastal_communities"
+        }
+        
+    },
+    {
+        "title":"https://coast.noaa.gov/data/digitalcoast/pdf/econ-report.pdf",
+        "datasets": [
+            "dataset-617",
+            "dataset-328",
+            "dataset-619"
+        ],
+        "original":{
+            "url":"https://coast.noaa.gov/digitalcoast/training/econreport.html",
+            "pdf":"https://coast.noaa.gov/data/digitalcoast/pdf/econ-report.pdf"
+        }
+    }
+    ,
+    
+    {
+        "title":"New elevation data triple estimates of global vulnerability to sea-level rise and coastal flooding",
+        "datasets":[
+            "dataset-618",
+            "dataset-646",
+            "dataset-647"
+        ],
+        "original":{
+            "doi":"10.1038/s41467-019-12808-z",
+            "journal":"Nature Commmunications",
+            "pdf":"https://www.nature.com/articles/s41467-019-12808-z.pdf",
+            "url":"https://www.nature.com/articles/s41467-019-12808-z"
+        }
+    },
+    {
+        "title":"The Shuttle Radar Topography Mission",
+        "datasets":[
+            "dataset-646"
+        ],
+        "original":{
+            "url":"https://www.researchgate.net/publication/200459069_The_Shuttle_Radar_Topography_Mission",
+            "doi":"10.1029/2005RG000183",
+            "journal":"Reviews in Geophysics"
+
+        }
+        
+    },
+    {
+        "title":"CoastalDEM: A global coastal digital elevation model improved from SRTM using a neural network",
+        "datasets":["dataset-646"],
+        "original":{
+            "doi":"10.1016/j.rse.2017.12.026",
+            "url":"https://www.sciencedirect.com/science/article/pii/S0034425717306016?via%3Dihub",
+            "journal":"Remote Sensing of Environment"
+        }
+    },
+    {
+        "title":"Disaster on the Horizon: The Price Effect of Sea Level Rise",
+        "datasets":[
+            "dataset-647",
+            "dataset-610"
+        ],
+        "original":{
+            "url":"https://www.sciencedirect.com/science/article/pii/S0304405X19300807?via%3Dihub",
+            "doi":"10.1016/j.jfineco.2019.03.013",
+            "journal":"Journal of Financial Economics"
+        }
+    }
+    
+]  
