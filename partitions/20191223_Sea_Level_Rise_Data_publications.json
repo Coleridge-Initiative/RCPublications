@@ -1,0 +1,101 @@
+[
+  {
+    "title": "American archives and climate change: risks and adaptation",
+    "datasets": [
+      "dataset-610",
+      "dataset-631",
+      "dataset-615"
+    ],
+    "original": {
+      "search_term": "Sea Level Rise Data",
+      "journal": "Climate Risk Management",
+      "doi": "10.1016/j.crm.2018.03.005",
+      "url": "https://doi.org/10.1016/j.crm.2018.03.005",
+      "date_added": "2020-01-01 15:09:29"
+    }
+  },
+  {
+    "title": "Visualizing Sea Level Rise to Examine the Nexus of Climate Change and Socio-Economic Security",
+    "datasets": [
+      "dataset-610",
+      "dataset-641",
+      "dataset-631"
+    ],
+    "original": {
+      "search_term": "Sea Level Rise Data",
+      "journal": "OCEANS 2016 MTS/IEEE Monterey",
+      "doi": "10.1109/oceans.2016.7761191",
+      "url": "https://ieeexplore.ieee.org/document/7761191",
+      "date_added": "2020-01-01 15:09:29"
+    }
+  },
+  {
+    "title": "Legal Issues When Managing Public Roads Affected by Sea Level Rise: North Carolina",
+    "datasets": [
+      "dataset-610",
+      "dataset-649"
+    ],
+    "original": {
+      "search_term": "Sea Level Rise Inundation",
+      "journal": "SSRN Electronic Journal",
+      "doi": "10.2139/ssrn.3441444",
+      "pdf": "https://poseidon01.ssrn.com/delivery.php?ID=636105110097094065007021116115078108005045006058036003100115022070126074024098097089061030040044008109118027109005104025077066020059035013080124078119020065001089096039050008025125116066120074102065097017006113117066080102070127126012019094068125120094&EXT=pdf",
+      "date_added": "2020-01-01 15:09:29"
+    }
+  },
+  {
+    "title": "Road Vulnerabilities to Projected Sea-Level Rise by County: North Carolina, South Carolina, and Georgia",
+    "datasets": [
+      "dataset-610",
+      "dataset-649",
+      "dataset-650"
+    ],
+    "original": {
+      "search_term": "Sea Level Rise Inundation",
+      "journal": "SSRN Electronic Journal",
+      "doi": "10.2139/ssrn.3441447",
+      "pdf": "https://poseidon01.ssrn.com/delivery.php?ID=105078117027006085030085089092080064030064049034070049097092106112065098065093126095050000006042010051053025102027025076028095019080035020033098114109087066127024073056062046025025094091066123092106021009106120088083025009087114097087103031005105023092&EXT=pdf",
+      "date_added": "2020-01-01 15:09:29"
+    }
+  },
+  {
+    "title": "Lights Out: Climate Change Risk to Internet Infrastructure",
+    "datasets": [
+      "dataset-610",
+      "dataset-648"
+    ],
+    "original": {
+      "search_term": "Sea Level Rise Inundation",
+      "journal": "the Applied Networking Research Workshop",
+      "doi": "10.1145/3232755.3232775",
+      "pdf": "http://pages.cs.wisc.edu/~pb/anrw18_final.pdf",
+      "date_added": "2020-01-01 15:09:29"
+    }
+  },
+  {
+    "title": "The Impacts of Sea-Level Rise on Tidal Flooding in Boston, Massachusetts",
+    "datasets": [
+      "dataset-610"
+    ],
+    "original": {
+      "search_term": "Sea Level Rise Inundation",
+      "journal": "Journal of Coastal Research",
+      "doi": "10.2112/jcoastres-d-15-00100.1",
+      "url": "https://bioone.org/journals/journal-of-coastal-research/volume-32/issue-6/JCOASTRES-D-15-00100.1/The-Impacts-of-Sea-Level-Rise-on-Tidal-Flooding-in/10.2112/JCOASTRES-D-15-00100.1.full#i1551-5036-32-6-1302-NOAANationalOceanographicandAtmosphericAdministration1",
+      "date_added": "2020-01-01 15:09:29"
+    }
+  },
+  {
+    "title": "The Competitive Analysis Method for Evaluating Water Level Visualization Tools",
+    "datasets": [
+      "dataset-610"
+    ],
+    "original": {
+      "search_term": "Sea Level Rise Inundation",
+      "journal": "Modern Trends in Cartography",
+      "doi": "10.1007/978-3-319-07926-4_19",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-319-07926-4_19",
+      "date_added": "2020-01-01 15:09:29"
+    }
+  }
+]
