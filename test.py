@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
+from pathlib import Path
 from urllib.parse import urlparse
+import codecs
 import json
 import os
 import sys
@@ -37,8 +39,13 @@ class TestVerifyPublications (unittest.TestCase):
         self.publications = []
 
         for partition in PARTITIONS:
-            with open(partition, "r") as f:
-                self.publications.extend(json.load(f))
+            with codecs.open(partition, "r", encoding="utf8") as f:
+                try:
+                    part = json.load(f)
+                    self.publications.extend(part)
+                except:
+                    print(f"failing partition read: {partition}")
+                    sys.exit(-1)
 
 
     def test_file_loaded (self):
@@ -74,8 +81,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         PARTITIONS.append(sys.argv.pop())
     else:
-        subdir = "partitions"
-        PARTITIONS = [ "/".join([subdir, name]) for name in os.listdir(subdir) ]
+        PARTITIONS = [ p for p in Path("partitions").glob("*.json") ]
 
-    print(PARTITIONS)
+    #print(PARTITIONS)
     unittest.main()
