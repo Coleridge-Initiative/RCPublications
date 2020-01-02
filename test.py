@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 # encoding: utf-8
-import ast
+
+from pathlib import Path
 from urllib.parse import urlparse
-import glob
+import ast
+import codecs
 import json
 import os
 import pprint
@@ -47,7 +49,7 @@ class TestVerifyPublications (unittest.TestCase):
         count = 0
 
         for partition in PARTITIONS:
-            with open(partition, "r") as f:
+            with codecs.open(partition, "r", encoding="utf8") as f:
                 #print("loading: {}".format(partition))
                 self.publications[partition] = json.load(f)
                 count += len(self.publications[partition])
@@ -125,9 +127,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         PARTITIONS.append(sys.argv.pop())
     else:
-        subdir = "partitions"
-
-        for partition in glob.glob(subdir + "/*.json"):
+        for partition in sorted(Path("partitions").glob("*.json")):
             PARTITIONS.append(partition)
 
     unittest.main()
