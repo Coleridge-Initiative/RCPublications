@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The influence of bed friction variability due to land cover on storm-driven barrier island morphodynamics",
+    "datasets": [
+      "dataset-623",
+      "dataset-618"
+    ],
+    "original": {
+      "doi": "10.1016/j.coastaleng.2017.11.005",
+      "journal": "Coastal Engineering",
+      "search_term": "Coastal Topographic Lidar",
+      "url": "https://doi.org/10.1016/j.coastaleng.2017.11.005",
+      "date_added": "2020-01-08 11:12:47"
+    }
+  },
+  {
+    "title": "Data and numerical analysis of astronomic tides, windwaves, and hurricane storm surge along the northern Gulf of Mexico",
+    "datasets": [
+      "dataset-616",
+      "dataset-654",
+      "dataset-633",
+      "dataset-651"
+    ],
+    "original": {
+      "doi": "10.1002/2015jc011400",
+      "journal": "Journal of Geophysical Research Oceans",
+      "search_term": "Coastal Topographic Lidar",
+      "url": "https:/doi.org/10.1002/2015jc011400",
+      "date_added": "2020-01-08 11:12:47"
+    }
+  }
+]
