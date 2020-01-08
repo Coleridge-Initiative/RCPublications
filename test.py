@@ -63,6 +63,15 @@ class TestVerifyPublications (unittest.TestCase):
     def test_file_loaded (self):
         print("\n{} partitions loaded".format(len(self.publications)))
         self.assertTrue(len(self.publications) > 0)
+    
+    def test_title_not_url (self):
+        for partition, publications in self.publications.items():
+            for pub in publications:
+                if url_validator(pub['title']):
+                    raise Exception("{}:\n badly formed title \n{}".format(pub["title"], partition))
+        
+        
+        self.assertTrue(len(self.publications) > 0)
 
 
     def test_has_required_fields (self):
