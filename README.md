@@ -73,10 +73,30 @@ JSON file to add to the `partitions/` directory.
 
   * If you run into any problems with the template, post a GitHub issue on this repo
 
-Check the `RCPublications/partitions` subdirectory after the script is done running without errors, to make sure that the JSON files has the required fields and was exported properly.
+Check the `RCPublications/partitions` subdirectory after the script is
+done running without errors, to make sure that the JSON files has the
+required fields and was exported properly.
 
 
-### 4. Run unit tests prior to commit
+### 4. Rebase if needed
+
+Since our team is generally working on different partitions in parallel,
+often you'll need to `rebase` prior to creating a pull request.
+In other words,
+
+```
+git rebase master
+git push -f origin
+```
+
+Sometimes there may be merge conflicts, which you'll need to fix
+manually before you can continue.
+See this 
+[Git rebase tutorial](https://akrabat.com/the-beginners-guide-to-rebasing-your-pr/)
+for more details.
+
+
+### 5. Run unit tests prior to commit
 
 Run the unit tests on your new JSON file partition prior to commit:
 ```
