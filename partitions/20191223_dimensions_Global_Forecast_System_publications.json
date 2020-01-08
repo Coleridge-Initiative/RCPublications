@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Assimilation of radar radial velocity data with the WRF hybrid 4DEnVar system for the prediction of hurricane Ike (2008)",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1016/j.atmosres.2019.104771",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169809519304636?via%3Dihub",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0169809519304636/pdfft?md5=c1803c1d7208493f6f3185da5ded89a8&pid=1-s2.0-S0169809519304636-main.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Research",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "A study of ensemble-sensitivity-based initial condition perturbation methods for convection-permitting ensemble forecasts",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1016/j.atmosres.2019.104741",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169809519302492?via%3Dihub",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0169809519302492/pdfft?md5=3560e37c0bc67452fda18289ddb33e04&pid=1-s2.0-S0169809519302492-main.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Research",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Evaluation of season long rainfall simulated by WRF over the NWH region: KF vs. MSKF",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1016/j.atmosres.2019.104682",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169809519303904?via%3Dihub",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0169809519303904/pdfft?md5=5962fc5bf35053bdee99c34caf58741f&pid=1-s2.0-S0169809519303904-main.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Research",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "OPENCoastS: An open-access service for the automatic generation of coastal forecast systems",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1016/j.envsoft.2019.104585",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1364815219304967?via%3Dihub",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S1364815219304967/pdfft?md5=132ddb85fc0302026bdbcebec593f23a&pid=1-s2.0-S1364815219304967-main.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Environmental Modelling & Software",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Forecasting experiences associated with supercells over South-Western Poland on July 7, 2017",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1016/j.atmosres.2019.104681",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169809519305150?via%3Dihub",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0169809519305150/pdfft?md5=40fdf7e4b3f5e6c791c27c8acfbd533e&pid=1-s2.0-S0169809519305150-main.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Research",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Maximizing Energy Production from Hydropower Dams using Short-Term Weather Forecasts",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1016/j.renene.2019.07.126",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0960148119311462?via%3Dihub",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0960148119311462/pdfft?md5=33f4c2bfb3e25180eb5f343151493991&pid=1-s2.0-S0960148119311462-main.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Renewable Energy",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Using the Analog Ensemble Method as a Proxy Measurement for Wind Power Predictability",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1016/j.renene.2019.06.132",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0960148119309668?via%3Dihub",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0960148119309668/pdfft?md5=e9bee0e20eff8080f4752e118888d1a0&pid=1-s2.0-S0960148119309668-main.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Renewable Energy",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Modeling Arctic Boundary Layer Cloud Streets at Grey-zone Resolutions",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1007/s00376-019-9105-y",
+      "url": "https://link.springer.com/article/10.1007%2Fs00376-019-9105-y",
+      "pdf": "https://link.springer.com/content/pdf/10.1007%2Fs00376-019-9105-y.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Advances in Atmospheric Sciences",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "A novel framework for daily forecasting of ozone mass concentrations based on cycle reservoir with regular jumps neural networks",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1016/j.atmosenv.2019.117072",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1352231019307113?via%3Dihub",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S1352231019307113/pdfft?md5=150e66ed754add47f5a1faab41c90dbb&pid=1-s2.0-S1352231019307113-main.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Environment",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Post-processing of Wind-Speed Forecasts Using the Extended Perfect Prog Method with Polynomial Neural Networks to Elicit PDE Models",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1007/978-3-030-14347-3_2",
+      "url": "https://link.springer.com/chapter/10.1007%2F978-3-030-14347-3_2",
+      "pdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-14347-3.pdf",
+      "search_term": "Global Forecast System",
+      "notes": "This is a book",
+      "journal": "Hybrid Intelligent Systems",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Sensitivity of Atmospheric Composition Mesoscale Simulations in the Mediterranean to the Meteorological Data and Chemical Boundary Conditions",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1007/978-3-030-22055-6_53",
+      "url": "https://link.springer.com/chapter/10.1007%2F978-3-030-22055-6_53",
+      "pdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-22055-6.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Air Pollution Modeling and its Application XXVI",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Advanced GNSS Processing Techniques (Working Group 1)",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1007/978-3-030-13901-8_3",
+      "pdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-13901-8.pdf",
+      "search_term": "Global Forecast System",
+      "notes": "This is part of a book",
+      "journal": "Advanced GNSS Tropospheric Products for Monitoring Severe Weather Events and Climate",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Impacts of North Pacific subtropical and subarctic oceanic frontal zones on the wintertime atmospheric large-scale circulations",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1175/jcli-d-19-0308.1",
+      "pdf": "https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-19-0308.1",
+      "search_term": "Global Forecast System",
+      "journal": "Journal of Climate",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Air quality and health impacts from the updated industrial emission standards in China",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1088/1748-9326/ab54fa",
+      "url": "http://dx.doi.org/10.1088/1748-9326/ab54fa",
+      "pdf": "https://iopscience.iop.org/article/10.1088/1748-9326/ab54fa/pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Environmental Research Letters",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Modeling of Internal Tides in the Western Bay of Bengal: Characteristics and Energetics",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1029/2019jc015319",
+      "search_term": "Global Forecast System",
+      "journal": "Journal of Geophysical Research Oceans",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Vertical structure of ocean surface currents under high winds from massive arrays of drifters",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/os-15-1627-2019",
+      "url": "http://dx.doi.org/10.5194/os-15-1627-2019",
+      "search_term": "Global Forecast System",
+      "journal": "Ocean Science",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Impact of ocean mixedlayer depth initialization on the simulation of tropical cyclones over the Bay of Bengal using the WRF-ARW model",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1002/met.1862",
+      "search_term": "Global Forecast System",
+      "journal": "Meteorological Applications",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Predictability of the wintertime 500 hPa geopotential height over Ural-Siberia in the NCEP climate forecast system",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1007/s00382-019-05074-8",
+      "search_term": "Global Forecast System",
+      "journal": "Climate Dynamics",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Toward a Better Regional Ozone Forecast Over CONUS Using Rapid Data Assimilation of Clouds and Meteorology in WRF-Chem",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1029/2019jd031232",
+      "search_term": "Global Forecast System",
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Extreme Weather and Poverty Risk: Evidence from Multiple Shocks in Mozambique",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1007/s41885-019-00049-9",
+      "search_term": "Global Forecast System",
+      "journal": "Economics of Disasters and Climate Change",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "The role of aerosol-radiation-cloud interactions in linking anthropogenic pollution over southern west Africa and dust emission over the Sahara",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/acp-19-14657-2019",
+      "url": "http://dx.doi.org/10.5194/acp-19-14657-2019",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Chemistry and Physics",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Use of Predictive Weather Uncertainties in an Irrigation Scheduling Tool Part II: An Application of Metrics and Adjoints",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1111/1752-1688.12806",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.12806",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/1752-1688.12806",
+      "search_term": "Global Forecast System",
+      "journal": "JAWRA Journal of the American Water Resources Association",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Multi-Grid Nesting Ability to Represent Convections across the Gray Zone",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1029/2019ms001741",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001741",
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019MS001741",
+      "search_term": "Global Forecast System",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Study on Wind Simulations Using Deep Learning Techniques during Typhoons: A Case Study of Northern Taiwan",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.3390/atmos10110684",
+      "url": "https://www.mdpi.com/2073-4433/10/11/684/htm",
+      "pdf": "https://www.mdpi.com/2073-4433/10/11/684/pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmosphere",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Motion of animated streamlets appears to surpass their graphical alterations in human visual detection of vector field maxima",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1080/15230406.2018.1553113",
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/15230406.2018.1553113?needAccess=true",
+      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/15230406.2018.1553113?needAccess=true",
+      "search_term": "Global Forecast System",
+      "journal": "Cartography and Geographic Information Science",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Individual Condensation Trails in Aircraft Trajectory Optimization",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.3390/su11216082",
+      "url": "http://dx.doi.org/10.3390/su11216082",
+      "pdf": "https://www.mdpi.com/2071-1050/11/21/6082/pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Sustainability",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Understanding and improving model representation of aerosol optical properties for a Chinese haze event measured during KORUS-AQ",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/acp-2019-1022",
+      "url": "http://dx.doi.org/10.5194/acp-2019-1022",
+      "pdf": "https://www.atmos-chem-phys-discuss.net/acp-2019-1022/acp-2019-1022.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Chemistry and Physics",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Covariations between the Indian Ocean dipole and ENSO: a modeling study",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1007/s00382-019-04895-x",
+      "search_term": "Global Forecast System",
+      "journal": "Climate Dynamics",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "An important mechanism of regional O3 transport for summer smog over the Yangtze River Delta in East China",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/acp-2018-479",
+      "url": "https://doi.org/10.5194/acp-2018-479",
+      "pdf": "https://www.atmos-chem-phys-discuss.net/acp-2018-479/acp-2018-479.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Chemistry and Physics",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Advanced methods for uncertainty assessment and global sensitivity analysis of a Eulerian atmospheric chemistry transport model",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/acp-2018-690",
+      "url": "http://nora.nerc.ac.uk/id/eprint/522443/1/N522443JA.pdf",
+      "pdf": "https://www.atmos-chem-phys-discuss.net/acp-2018-690/acp-2018-690.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Chemistry and Physics",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Evaluating two methods of estimating error variances using simulated data sets with known errors",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/amt-11-4309-2018",
+      "url": "https://www.atmos-meas-tech.net/11/4309/2018/amt-11-4309-2018.pdf",
+      "pdf": "https://www.atmos-meas-tech.net/11/4309/2018/amt-11-4309-2018.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Measurement Techniques",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Estimating observation and model error variances using multiple data sets",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/amt-11-4239-2018",
+      "url": "https://www.atmos-meas-tech.net/11/4239/2018/amt-11-4239-2018.pdf",
+      "pdf": "https://www.atmos-meas-tech.net/11/4239/2018/amt-11-4239-2018.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Measurement Techniques",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "A top-down assessment using OMI NO2 suggests an underestimate in the NOx emissions inventory in Seoul, South Korea during KORUS-AQ",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/acp-2018-678",
+      "url": "https://doi.org/10.5194/acp-2018-678",
+      "pdf": "https://www.atmos-chem-phys-discuss.net/acp-2018-678/acp-2018-678.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Chemistry and Physics",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Characterization of lemniscate atmospheric aberrations in Gemini Planet Imager data",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1117/12.2314267",
+      "url": "http://arxiv.org/pdf/1807.07179",
+      "search_term": "Global Forecast System",
+      "journal": "Proceedings",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "IMPLEMENTATION OF A COMPREHENSIVE AND EFFECTIVE GEOPROCESSING WORKFLOW ENVIRONMENT",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/isprs-archives-xlii-4-w8-123-2018",
+      "url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W8/123/2018/isprs-archives-XLII-4-W8-123-2018.pdf",
+      "pdf": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W8/123/2018/isprs-archives-XLII-4-W8-123-2018.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "International Society for Photogrammetry and Remote Sensing",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "A Case Study of Low-Level Jets in Yerevan Simulated by the WRF Model",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1002/2017jd027629",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD027629",
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2017JD027629",
+      "search_term": "Global Forecast System",
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Interactions of atmospheric gases and aerosols with the monsoon dynamics over the Sudano-Guinean region during AMMA",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/acp-18-445-2018",
+      "url": "https://doi.org/10.5194/acp-18-445-2018",
+      "pdf": "https://www.atmos-chem-phys.net/18/445/2018/acp-18-445-2018.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Chemistry and Physics",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "High-Resolution Discharge Forecasting for Snowmelt and Rainfall Mixed Events",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.3390/w10010056",
+      "url": "https://www.mdpi.com/2073-4441/10/1/56/pdf",
+      "pdf": "https://www.mdpi.com/2073-4441/10/1/56/pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Water",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Effects of model resolution and parameterizations on the simulations of clouds, precipitation, and their interactions with aerosols",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/acp-18-13-2018",
+      "url": "https://www.atmos-chem-phys.net/18/13/2018/acp-18-13-2018.pdf",
+      "pdf": "https://www.atmos-chem-phys.net/18/13/2018/acp-18-13-2018.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Atmospheric Chemistry and Physics",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Evaluation of Doppler radar and GTS Data Assimilation for NWP Rainfall Prediction of an Extreme Summer Storm in Northern China: from the Hydrological Perspective",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.5194/hess-2017-689",
+      "url": "https://www.hydrol-earth-syst-sci.net/22/4329/2018/hess-22-4329-2018.pdf",
+      "pdf": "https://www.hydrol-earth-syst-sci-discuss.net/hess-2017-689/hess-2017-689.pdf",
+      "search_term": "Global Forecast System",
+      "journal": "Hydrology and Earth System Sciences",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  },
+  {
+    "title": "Detecting Clandestine Reprocessing Activities in the Middle East",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "doi": "10.1080/08929882.2018.1446540",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/08929882.2018.1446540",
+      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/08929882.2018.1446540?needAccess=true",
+      "search_term": "Global Forecast System",
+      "journal": "Science & Global Security",
+      "valid?": "Yes",
+      "date_added": "2020-01-08 14:01:52"
+    }
+  }
+]
