@@ -5,13 +5,12 @@
       "dataset-614"
     ],
     "original": {
-      "journal": "Ocean Dynamics",
-      "valid?": "Yes",
-      "url": "https://link.springer.com/article/10.1007%2Fs10236-019-01289-9",
-      "search_term": "Tide gauge data",
-      "doi": "10.1007/s10236-019-01289-9",
       "pdf": "https://link.springer.com/content/pdf/10.1007/s10236-019-01289-9.pdf",
-      "date_added": "2020-01-10 13:46:17"
+      "doi": "10.1007/s10236-019-01289-9",
+      "journal": "Ocean Dynamics",
+      "search_term": "Tide gauge data",
+      "url": "https://link.springer.com/article/10.1007%2Fs10236-019-01289-9",
+      "date_added": "2020-01-10 14:37:25"
     }
   },
   {
@@ -20,12 +19,11 @@
       "dataset-614"
     ],
     "original": {
-      "journal": "Journal of Coastal Research",
-      "valid?": "Yes",
-      "search_term": "Tide gauge data",
-      "doi": "10.2112/jcoastres-d-19-00031.1",
       "pdf": "https://bioone.org/journalArticle/Download?fullDOI=10.2112%2FJCOASTRES-D-19-00031.1",
-      "date_added": "2020-01-10 13:46:17"
+      "doi": "10.2112/jcoastres-d-19-00031.1",
+      "journal": "Journal of Coastal Research",
+      "search_term": "Tide gauge data",
+      "date_added": "2020-01-10 14:37:25"
     }
   },
   {
@@ -34,11 +32,10 @@
       "dataset-614"
     ],
     "original": {
-      "journal": "Chesapeake Science",
-      "valid?": "Yes",
-      "search_term": "Tide gauge data",
       "doi": "10.1007/s12237-018-0426-3",
-      "date_added": "2020-01-10 13:46:17"
+      "journal": "Chesapeake Science",
+      "search_term": "Tide gauge data",
+      "date_added": "2020-01-10 14:37:25"
     }
   },
   {
@@ -47,12 +44,11 @@
       "dataset-614"
     ],
     "original": {
-      "journal": "Ocean Modelling",
-      "valid?": "Yes",
-      "search_term": "Tide gauge data",
-      "doi": "10.1016/j.ocemod.2018.07.003",
       "pdf": "https://www.sciencedirect.com/science/article/pii/S146350031830026X/pdfft?md5=1046d164588579c60eb643e4479ef9a4&pid=1-s2.0-S146350031830026X-main.pdf",
-      "date_added": "2020-01-10 13:46:17"
+      "doi": "10.1016/j.ocemod.2018.07.003",
+      "journal": "Ocean Modelling",
+      "search_term": "Tide gauge data",
+      "date_added": "2020-01-10 14:37:25"
     }
   },
   {
@@ -61,13 +57,12 @@
       "dataset-614"
     ],
     "original": {
-      "journal": "Ecosphere",
-      "valid?": "Yes",
-      "url": "https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.2329",
-      "search_term": "Tide gauge data",
-      "doi": "10.1002/ecs2.2329",
       "pdf": "https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecs2.2329",
-      "date_added": "2020-01-10 13:46:17"
+      "doi": "10.1002/ecs2.2329",
+      "journal": "Ecosphere",
+      "search_term": "Tide gauge data",
+      "url": "https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.2329",
+      "date_added": "2020-01-10 14:37:25"
     }
   },
   {
@@ -76,12 +71,11 @@
       "dataset-614"
     ],
     "original": {
-      "journal": "Remote Sensing of Environment",
-      "valid?": "Yes",
-      "search_term": "Tide gauge data",
-      "doi": "10.1016/j.rse.2017.06.005",
       "pdf": "https://www.sciencedirect.com/science/article/pii/S0034425717302602/pdfft?md5=d35a1b8c212f6e62293e07b33660832b&pid=1-s2.0-S0034425717302602-main.pdf",
-      "date_added": "2020-01-10 13:46:17"
+      "doi": "10.1016/j.rse.2017.06.005",
+      "journal": "Remote Sensing of Environment",
+      "search_term": "Tide gauge data",
+      "date_added": "2020-01-10 14:37:25"
     }
   },
   {
@@ -90,12 +84,11 @@
       "dataset-614"
     ],
     "original": {
-      "journal": "Journal of Coastal Research",
-      "valid?": "Yes",
-      "url": "http://nsgl.gso.uri.edu/flsgp/flsgpm10001.pdf",
-      "search_term": "Tide gauge data",
       "doi": "10.2112/jcoastres-d-14-00161.1",
-      "date_added": "2020-01-10 13:46:17"
+      "journal": "Journal of Coastal Research",
+      "search_term": "Tide gauge data",
+      "url": "http://nsgl.gso.uri.edu/flsgp/flsgpm10001.pdf",
+      "date_added": "2020-01-10 14:37:25"
     }
   },
   {
@@ -104,13 +97,12 @@
       "dataset-614"
     ],
     "original": {
-      "journal": "Quaternary Science Reviews",
-      "valid?": "Yes",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0277379114002030?via%3Dihub",
-      "search_term": "Tide gauge data",
-      "doi": "10.1016/j.quascirev.2014.05.022",
       "pdf": "https://www.sciencedirect.com/science/article/pii/S0277379114002030/pdfft?md5=b2fd1b3385028a50e086fcc0e7021c0c&pid=1-s2.0-S0277379114002030-main.pdf",
-      "date_added": "2020-01-10 13:46:17"
+      "doi": "10.1016/j.quascirev.2014.05.022",
+      "journal": "Quaternary Science Reviews",
+      "search_term": "Tide gauge data",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0277379114002030?via%3Dihub",
+      "date_added": "2020-01-10 14:37:25"
     }
   },
   {
@@ -119,12 +111,11 @@
       "dataset-614"
     ],
     "original": {
-      "journal": "Journal of Geophysical Research: Oceans",
-      "valid?": "Yes",
-      "url": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2010JC006759",
-      "search_term": "Tide gauge data",
       "doi": "10.1029/2010jc006759",
-      "date_added": "2020-01-10 13:46:17"
+      "journal": "Journal of Geophysical Research: Oceans",
+      "search_term": "Tide gauge data",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2010JC006759",
+      "date_added": "2020-01-10 14:37:25"
     }
   }
 ]
