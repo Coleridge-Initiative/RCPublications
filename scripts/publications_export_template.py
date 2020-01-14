@@ -48,9 +48,9 @@ def scrub_unicode (text):
 
 def check_linkages(linkages_csv): 
     obj_pattern = re.compile('\{.*?\}')
-
-    if linkages_csv['journal'].str.contains(obj_pattern).any():
-        raise ValueError("Column '{}' contains invalid value/pattern: {}".format('journal', obj_pattern.pattern))
+    if 'journal' in linkages_csv.columns.values:
+        if linkages_csv['journal'].str.contains(obj_pattern).any():
+            raise ValueError("Column '{}' contains invalid value/pattern: {}".format('journal', obj_pattern.pattern))
 
 
 def create_pub_dict(linkages_dataframe, datasets):
@@ -76,7 +76,7 @@ def create_pub_dict(linkages_dataframe, datasets):
         pub_dict_list.append(pub_dict)
     return pub_dict_list
 
-def export(rcm_subfolder, file_name): 
+def export(rcm_subfolder, file_name,partition_name = None): 
 
     ## TODO: these paths should be refactored out into a config file
     curr_dir = Path(__file__).parent
@@ -107,11 +107,23 @@ def export(rcm_subfolder, file_name):
 
     linkage_list = create_pub_dict(linkages_csv, datasets)
 
-    json_pub_path = partitions_path / (rcm_subfolder + '_publications.json')
-    print("Publication File: ", json_pub_path)
+    if partition_name:
+        if not partition_name.endswith('.json'):
+            raise ValueError("Your file name for the partition must end with '.json'")
+        elif partition_name.endswith('.json'):
+            json_pub_path = partitions_path / (partition_name)
+        
+            print("Publication File: ", json_pub_path)
 
-    with open(json_pub_path, 'w', encoding="utf-8") as outfile:
-        json.dump(linkage_list, outfile, indent=2, ensure_ascii=False)
+            with open(json_pub_path, 'w', encoding="utf-8") as outfile:
+                json.dump(linkage_list, outfile, indent=2, ensure_ascii=False)
+    
+    elif not partition_name:
+        json_pub_path = partitions_path / (rcm_subfolder + '_publications.json')
+        print("Publication File: ", json_pub_path)
+
+        with open(json_pub_path, 'w', encoding="utf-8") as outfile:
+            json.dump(linkage_list, outfile, indent=2, ensure_ascii=False)
     
     print("Done publishing.")
 
@@ -129,5 +141,10 @@ if __name__ == "__main__":
         rcm_subfolder = sys.argv[1]
         file_name = sys.argv[2]
         export(rcm_subfolder, file_name)
+    if len(sys.argv) == 4:
+        rcm_subfolder = sys.argv[1]
+        file_name = sys.argv[2]
+        partition_name = sys.argv[3]
+        export(rcm_subfolder, file_name, partition_name)
     else:
         raise ValueError("Wrong number of arguments passed in.")

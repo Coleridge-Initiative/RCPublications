@@ -66,9 +66,12 @@ JSON file to add to the `partitions/` directory.
   * Navigate to your subdirectory in `RichContextMetadata/metadata` where your CSV is stored
 
   * Copy the **directory name** where your CSV is located, and Copy the **file name** of the CSV you want to export
-    * Note: The directory name will become part of the new JSON file 
-
+    * Note: The directory name will become part of the new JSON file. 
+    
   * Execute `python scripts/publications_export_template.py <directory_name> <csv_file_name>` on the terminal, or on your favorite IDE.
+  * If you want to specify your own filename for the JSON partition, add it as a third argument, e.g:
+  `python scripts/publications_export_template.py <directory_name> <csv_file_name> <json_file_name>`
+
     * This script will export your publications metadata to `/partitions`
 
   * If you run into any problems with the template, post a GitHub issue on this repo
