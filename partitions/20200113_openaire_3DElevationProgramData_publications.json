@@ -1,0 +1,133 @@
+[
+  {
+    "title": "Evaluation of Single Photon and Geiger Mode Lidar for the 3D Elevation Program",
+    "datasets": [
+      "dataset-611"
+    ],
+    "original": {
+      "url": "https://www.mdpi.com/2072-4292/8/9/767/htm",
+      "journal": "Remote Sensing",
+      "search_term": "3D Elevation Program Data",
+      "authors": "Jason M. Stoker, Qassim A. Abdullah, Amar Nayegandhi, Jayna Winehouse",
+      "doi": "10.3390/rs8090767",
+      "date_added": "2020-01-14 12:58:41"
+    }
+  },
+  {
+    "title": "Automated Extraction of Drainage Channels and Roads through Deep Learning",
+    "datasets": [
+      "dataset-611"
+    ],
+    "original": {
+      "pdf": "https://www.abstr-int-cartogr-assoc.net/1/350/2019/ica-abs-1-350-2019.pdf",
+      "url": "https://www.abstr-int-cartogr-assoc.net/1/350/2019/",
+      "search_term": "3D Elevation Program Data",
+      "authors": "Stanislawski, Lawrence, Brockmeyer, Tyler, Shavers, Ethan",
+      "doi": "10.5194/ica-abs-1-350-2019",
+      "date_added": "2020-01-14 12:58:41"
+    }
+  },
+  {
+    "title": "General External Uncertainty Models of Three-Plane Intersection Point for 3D Absolute Accuracy Assessment of Lidar Point Cloud",
+    "datasets": [
+      "dataset-611"
+    ],
+    "original": {
+      "url": "https://www.mdpi.com/2072-4292/11/23/2737/htm",
+      "journal": "Remote Sensing",
+      "search_term": "3D Elevation Program Data",
+      "authors": "Kim, Minsu, Park, Seonkyung, Danielson, Jeffrey, Irwin, Jeffrey, Stensaas, Gregory, Stoker, Jason, Nimetz, Joshua",
+      "doi": "10.3390/rs11232737",
+      "date_added": "2020-01-14 12:58:41"
+    }
+  },
+  {
+    "title": "Automated summit spot height generation for modern topographic mapping",
+    "datasets": [
+      "dataset-611"
+    ],
+    "original": {
+      "url": "https://www.abstr-int-cartogr-assoc.net/1/17/2019/",
+      "search_term": "3D Elevation Program Data",
+      "authors": "Arundel, Samantha T., Chan, Arthur",
+      "doi": "10.5194/ica-abs-1-17-2019",
+      "date_added": "2020-01-14 12:58:41"
+    }
+  },
+  {
+    "title": "Use of lidar point cloud data to support estimation of residual trace metals stored in mine chat piles in the Old Lead Belt of southeastern, Missouri",
+    "datasets": [
+      "dataset-611",
+      "dataset-633"
+    ],
+    "original": {
+      "url": "http://www.aimspress.com/environmental/article/916/fulltext.html",
+      "journal": "AIMS Environmental Science",
+      "search_term": "3D Elevation Program Data",
+      "authors": "Emitt C. Witt III",
+      "doi": "10.3934/environsci.2016.3.509",
+      "date_added": "2020-01-14 12:58:41"
+    }
+  },
+  {
+    "title": "UAV Data Processing for Large Scale Topographical Mapping",
+    "datasets": [
+      "dataset-611",
+      "dataset-631"
+    ],
+    "original": {
+      "pdf": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5/565/2014/isprsarchives-XL-5-565-2014.pdf",
+      "url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5/565/2014/isprsarchives-XL-5-565-2014.pdf",
+      "journal": "The International Archives of the Photogrammetry",
+      "search_term": "3D Elevation Program Data",
+      "authors": "Tampubolon, W., Reinhardt, W.",
+      "doi": "10.5194/isprsarchives-XL-5-565-2014",
+      "date_added": "2020-01-14 12:58:41"
+    }
+  },
+  {
+    "title": "Close range photogrammetry in the survey of the coastal area geoecological conditions (on the example of Portugal)",
+    "datasets": [
+      "dataset-611",
+      "dataset-631"
+    ],
+    "original": {
+      "pdf": "https://pdfs.semanticscholar.org/fae4/2753333e1dd355510234ab1d0a6874a0ac06.pdf?_ga=2.17364605.519019769.1579015229-921547169.1574280891",
+      "url": "https://pdfs.semanticscholar.org/fae4/2753333e1dd355510234ab1d0a6874a0ac06.pdf?_ga=2.17364605.519019769.1579015229-921547169.1574280891",
+      "search_term": "3D Elevation Program Data",
+      "authors": "Chikhradze, Nino, Henriques, Renato F., Elashvili M, Janelidze, Z., Bolashvili N., Lominadze G.",
+      "doi": "10.11648/j.earth.s.2015040501.17",
+      "date_added": "2020-01-14 12:58:41"
+    }
+  },
+  {
+    "title": "Response of a vulnerable barrier island to multi-year storm impacts: LiDAR-data-inferred morphodynamic changes on Ship Island, Mississippi, USA.",
+    "datasets": [
+      "dataset-611",
+      "dataset-631"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169555X1830148X",
+      "journal": "Geomorphology (Amsterdam, Netherlands)",
+      "search_term": "3D Elevation Program Data",
+      "authors": "Eisemann, Eve R, Wallace, Davin J, Buijsman, Maarten C, Pierce, Troy",
+      "doi": "10.1016/j.geomorph.2018.04.001",
+      "date_added": "2020-01-14 12:58:41"
+    }
+  },
+  {
+    "title": "Challenges and Opportunities for UAV-Based Digital Elevation Model Generation for Flood-Risk Management: A Case of Princeville, North Carolina.",
+    "datasets": [
+      "dataset-611",
+      "dataset-631"
+    ],
+    "original": {
+      "url": "https://www.mdpi.com/1424-8220/18/11/3843/htm",
+      "journal": "Sensors (Basel, Switzerland)",
+      "search_term": "3D Elevation Program Data",
+      "authors": "Hashemi-Beni, Leila, Jones, Jeffery, Thompson, Gary, Johnson, Curt, Gebrehiwot, Asmamaw",
+      "doi": "10.3390/s18113843",
+      "date_added": "2020-01-14 12:58:41"
+    }
+  }
+]
