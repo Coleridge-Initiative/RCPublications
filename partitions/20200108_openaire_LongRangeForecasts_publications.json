@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Long-range forecasting of forest fire danger based on the SLAV model seasonal ensemble forecasts",
+    "datasets": [
+      "dataset-716"
+    ],
+    "original": {
+      "journal": "RUSSIAN METEOROLOGY AND HYDROLOGY",
+      "url": "http://dx.doi.org/10.3103/S1068373912080018",
+      "search_term": "Long Range Forecasts",
+      "doi": "10.3103/S1068373912080018",
+      "pdf": "https://link.springer.com/content/pdf/10.3103/S1068373912080018.pdf",
+      "authors": "Khan, V. M.",
+      "date_added": "2020-01-15 15:45:53"
+    }
+  },
+  {
+    "title": "The Utility of the Bering Sea and East Asia Rules in Long-Range Forecasting",
+    "datasets": [
+      "dataset-639",
+      "dataset-717"
+    ],
+    "original": {
+      "journal": "Advances in Meteorology",
+      "url": "http://dx.doi.org/10.1155/2017/1765428",
+      "search_term": "Long Range Forecasts",
+      "doi": "10.1155/2017/1765428",
+      "authors": "Renken, Joseph S., Herman, Joshua J., Bradshaw, Travis R., Market, Patrick S., Lupo, Anthony R.",
+      "date_added": "2020-01-15 15:45:53"
+    }
+  },
+  {
+    "title": "The Role of Continental Mesoscale Convective Systems in Forecast Busts within Global Weather Prediction Systems",
+    "datasets": [
+      "dataset-691"
+    ],
+    "original": {
+      "journal": "Atmosphere",
+      "url": "https://www.mdpi.com/2073-4433/10/11/681",
+      "search_term": "Long Range Forecasts",
+      "doi": "10.3390/atmos10110681",
+      "authors": "David Parsons, Samuel Lillo, Christopher Rattray, Peter Bechtold, Mark Rodwell, Connor Bruce",
+      "date_added": "2020-01-15 15:45:53"
+    }
+  },
+  {
+    "title": "Predictability of Weather and Climate",
+    "datasets": [
+      "dataset-718"
+    ],
+    "original": {
+      "journal": "Earth and Space Science (Hoboken, N.j.)",
+      "url": "http://europepmc.org/articles/PMC6774281",
+      "search_term": "Long Range Forecasts",
+      "doi": "10.1029/2019EA000586 ",
+      "authors": "Krishnamurthy, V.",
+      "date_added": "2020-01-15 15:45:53"
+    }
+  }
+]
