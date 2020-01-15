@@ -1,0 +1,90 @@
+[
+  {
+    "title": "A method for regional estimation of climate change exposure of coastal infrastructure: Case of USVI and the influence of digital elevation models on assessments.",
+    "datasets": [
+      "dataset-618"
+    ],
+    "original": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0048969719361583/pdfft?md5=b5091226ed3c7df62962b79f95cf2a0a&pid=1-s2.0-S0048969719361583-main.pdf",
+      "authors": "Bove, Gerald, Becker, Austin, Sweeney, Benjamin, Vousdoukas, Michalis, Kulp, Scott",
+      "journal": "The Science of the total environment",
+      "doi": "10.1016/j.scitotenv.2019.136162",
+      "search_term": "Sea Level Rise Inundation",
+      "date_added": "2020-01-15 16:51:49"
+    }
+  },
+  {
+    "title": "Adding to the toolbox for tidal-inundation mapping in estuarine areas.",
+    "datasets": [
+      "dataset-610",
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s11852-018-0605-1.pdf",
+      "authors": "Flitcroft, Rebecca, Clinton, Patrick, Christiansen, Kelly",
+      "journal": "Journal of coastal conservation",
+      "doi": "10.1007/s11852-018-0605-1",
+      "search_term": "Sea Level Rise Inundation",
+      "date_added": "2020-01-15 16:51:49"
+    }
+  },
+  {
+    "title": "Dynamic responses and implications to coastal wetlands and the surrounding regions under sea level rise.",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0205176&type=printable",
+      "authors": "Alizad, Karim, Hagen, Scott C, Medeiros, Stephen C, Bilskie, Matthew V, Morris, James T, Balthis, Len, Buckel, Christine A",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0205176",
+      "search_term": "Sea Level Rise Inundation",
+      "date_added": "2020-01-15 16:51:49"
+    }
+  },
+  {
+    "title": "Modeling multiple sea level rise stresses reveals up to twice the land at risk compared to strictly passive flooding methods.",
+    "datasets": [
+      "dataset-610",
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://www.nature.com/articles/s41598-018-32658-x.pdf",
+      "authors": "Anderson, Tiffany R, Fletcher, Charles H, Barbee, Matthew M, Romine, Bradley M, Lemmo, Sam, Delevaux, Jade M S",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-018-32658-x",
+      "search_term": "Sea Level Rise Inundation",
+      "date_added": "2020-01-15 16:51:49"
+    }
+  },
+  {
+    "title": "Top-down and bottom-up controls on southern New England salt marsh crab populations.",
+    "datasets": [
+      "dataset-614",
+      "dataset-726"
+    ],
+    "original": {
+      "pdf": "https://peerj.com/articles/4876.pdf",
+      "authors": "Raposa, Kenneth B, McKinney, Richard A, Wigand, Cathleen, Hollister, Jeffrey W, Lovall, Cassie, Szura, Katelyn, Gurak, John A, McNamee, Jason, Raithel, Christopher, Watson, Elizabeth B",
+      "notes": "different datasets than intended",
+      "journal": "PeerJ",
+      "doi": "10.7717/peerj.4876",
+      "search_term": "Sea Level Rise Inundation",
+      "date_added": "2020-01-15 16:51:49"
+    }
+  },
+  {
+    "title": "Simulating the Effects of Sea Level Rise on the Resilience and Migration of Tidal Wetlands along the Hudson River.",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152437&type=printable",
+      "authors": "Tabak, Nava M, Laba, Magdeline, Spector, Sacha",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0152437",
+      "search_term": "Sea Level Rise Inundation",
+      "date_added": "2020-01-15 16:51:49"
+    }
+  }
+]
