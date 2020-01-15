@@ -141,7 +141,7 @@ if __name__ == "__main__":
         rcm_subfolder = sys.argv[1]
         file_name = sys.argv[2]
         export(rcm_subfolder, file_name)
-    if len(sys.argv) == 4:
+    elif len(sys.argv) == 4:
         rcm_subfolder = sys.argv[1]
         file_name = sys.argv[2]
         partition_name = sys.argv[3]
