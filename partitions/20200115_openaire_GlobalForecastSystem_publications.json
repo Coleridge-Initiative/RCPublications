@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Verification of Forecast Weather Surface Variables over Vietnam Using the National Numerical Weather Prediction System",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "authors": "Tien Du Duc, Lars Robert Hole, Duc Tran Anh, Cuong Hoang Duc, Thuy Nguyen Ba",
+      "search_term": "Global Forecast System",
+      "pdf": "http://downloads.hindawi.com/journals/amete/2016/8152413.pdf",
+      "url": "https://doaj.org/toc/1687-9309",
+      "doi": "10.1155/2016/8152413",
+      "journal": "Advances in Meteorology",
+      "date_added": "2020-01-16 16:47:45"
+    }
+  },
+  {
+    "title": "Strategies for coupling global and limited-area ensemble Kalman filter assimilation",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "authors": "D. Merkova, I. Szunyogh, E. Ott",
+      "search_term": "Global Forecast System",
+      "pdf": "doi.org/10.3402/tellusa.v67.25977",
+      "url": "https://www.nonlin-processes-geophys.net/18/415/2011/",
+      "doi": "10.5194/npg-18-415-2011",
+      "journal": "Nonlinear Processes in Geophysics",
+      "date_added": "2020-01-16 16:47:45"
+    }
+  },
+  {
+    "title": "Hydrological Early Warning System Based on a Deep Learning Runoff Model Coupled with a Meteorological Forecast",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "authors": "Fuente, Alberto de la, Meruane, Viviana, Meruane, Carolina",
+      "search_term": "Global Forecast System",
+      "pdf": "https://www.mdpi.com/2073-4441/11/9/1808/pdf",
+      "url": "http://dx.doi.org/10.3390/w11091808",
+      "doi": "10.3390/w11091808",
+      "journal": "Water",
+      "date_added": "2020-01-16 16:47:45"
+    }
+  },
+  {
+    "title": "Evaluation of the Earth Systems Research Laboratory's global Observing System Simulation Experiment system",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "authors": "Nikki C. Privé, Yuanfu Xie, John S. Woollen, Steven E. Koch, Robert Atlas, Robbie E. Hood",
+      "search_term": "Global Forecast System",
+      "pdf": "https://www.tandfonline.com/doi/pdf/10.3402/tellusa.v65i0.19011?needAccess=true",
+      "url": "https://doaj.org/toc/1600-0870",
+      "doi": "10.3402/tellusa.v65i0.19011",
+      "journal": "Tellus A: Dynamic Meteorology and Oceanography",
+      "date_added": "2020-01-16 16:47:45"
+    }
+  },
+  {
+    "title": "Recent Northern Hemisphere mid-latitude medium-range deterministic forecast skill",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "authors": "Rolf H. Langland, Ryan N. Maue",
+      "search_term": "Global Forecast System",
+      "pdf": "https://www.tandfonline.com/doi/pdf/10.3402/tellusa.v64i0.17531?needAccess=true",
+      "url": "https://doaj.org/toc/1600-0870",
+      "doi": "10.3402/tellusa.v64i0.17531",
+      "journal": "Tellus A: Dynamic Meteorology and Oceanography",
+      "date_added": "2020-01-16 16:47:45"
+    }
+  }
+]
