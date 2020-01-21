@@ -1,0 +1,173 @@
+[
+  {
+    "title": "A Radar Radial Velocity Dealiasing Algorithm for Radar Data Assimilation and its Evaluation with Observations from Multiple Radar Networks",
+    "datasets": [
+      "dataset-612"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "https://www.mdpi.com/2072-4292/11/20/2457/htm",
+      "authors": "He, Guangxin, Sun, Juanzhen, Ying, Zhuming, Zhang, Lejian",
+      "doi": "10.3390/rs11202457",
+      "journal": "Remote Sensing",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "Phased-Array Radar System Simulator (PASIM): Development and Simulation Result Assessment",
+    "datasets": [
+      "dataset-612"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "https://www.mdpi.com/2072-4292/11/4/422/htm",
+      "authors": "Zhe Li, Sudantha Perera, Yan Zhang, Guifu Zhang, Richard Doviak",
+      "doi": "10.3390/rs11040422",
+      "journal": "Remote Sensing",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "A SIMULATED REAL-TIME SEVERE WEATHER NOWCASTING",
+    "datasets": [
+      "dataset-612"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XXXVIII-6-W27/41/2011/isprsarchives-XXXVIII-6-W27-41-2011.pdf",
+      "authors": "C.-Y. Liu, S. A. Ackerman",
+      "doi": "10.5194/isprsarchives-XXXVIII-6-W27-41-2011",
+      "journal": "The International Archives of the Photogrammetry",
+      "pdf": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XXXVIII-6-W27/41/2011/isprsarchives-XXXVIII-6-W27-41-2011.pdf",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "The WSR-88D and the WSR-88D operational support facility",
+    "datasets": [
+      "dataset-612"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "https://journals.ametsoc.org/doi/pdf/10.1175/1520-0477%281993%29074%3C1669%3ATWATWO%3E2.0.CO%3B2",
+      "authors": "Crum, Timothy D., Alberty, Ron L.",
+      "doi": "10.1175/1520-0477(1993)074",
+      "pdf": "https://journals.ametsoc.org/doi/pdf/10.1175/1520-0477%281993%29074%3C1669%3ATWATWO%3E2.0.CO%3B2",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "Dual-polarization radar products for biological applications",
+    "datasets": [
+      "dataset-612"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "https://doi.org/10.1002/ecs2.1539",
+      "authors": "Phillip M. Stepanian, Kyle G. Horton, Valery M. Melnikov, Dušan S. Zrnić, Sidney A. Gauthreaux Jr.",
+      "doi": "10.1002/ecs2.1539",
+      "journal": "Ecosphere",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "Vertical air motion retrievals in deep convective clouds using the ARM scanning radar network in Oklahoma during MC3E",
+    "datasets": [
+      "dataset-612",
+      "dataset-665"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "https://www.atmos-meas-tech.net/10/2785/2017/amt-10-2785-2017.pdf",
+      "authors": "K. W. North, M. Oue, P. Kollias, P. Kollias, S. E. Giangrande, S. M. Collis, C. K. Potvin, C. K. Potvin",
+      "doi": "10.5194/amt-10-2785-2017",
+      "journal": "Atmospheric Measurement Techniques",
+      "pdf": "https://www.atmos-meas-tech.net/10/2785/2017/amt-10-2785-2017.pdf",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "Investigating rainfall estimation from radar measurements using neural networks",
+    "datasets": [
+      "dataset-612"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "https://www.nat-hazards-earth-syst-sci.net/13/535/2013/nhess-13-535-2013.pdf",
+      "authors": "A. Alqudah, V. Chandrasekar, M. Le",
+      "doi": "10.5194/nhess-13-535-2013",
+      "pdf": "https://www.nat-hazards-earth-syst-sci.net/13/535/2013/nhess-13-535-2013.pdf",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "Validation of the Hurricane Imaging Radiometer Forward Radiative Transfer Model for a Convective Rain Event",
+    "datasets": [
+      "dataset-612"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "https://www.mdpi.com/2072-4292/11/22/2650/htm",
+      "authors": "Alasgah, Abdusalam, Jacob, Maria, Jones, Linwood, Schneider, Larry",
+      "doi": "10.3390/rs11222650",
+      "journal": "Remote Sensing",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "Potential of high-resolution detection and retrieval of precipitation fields from X-band spaceborne synthetic aperture radar over land",
+    "datasets": [
+      "dataset-612"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "http://www.hydrol-earth-syst-sci.net/15/859/2011/hess-15-859-2011.pdf",
+      "authors": "F. S. Marzano, S. Mori, M. Chini, L. Pulvirenti, N. Pierdicca, M. Montopoli, J. A. Weinman",
+      "doi": "10.5194/hess-15-859-2011",
+      "journal": "Hydrology and Earth System Sciences",
+      "pdf": "https://www.hydrol-earth-syst-sci.net/15/859/2011/hess-15-859-2011.pdf",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "Wet scavenging of soluble gases in DC3 deep convective storms using WRF-Chem simulations and aircraft observations",
+    "datasets": [
+      "dataset-612"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JD024623",
+      "authors": "Bela, Megan M., Barth, Mary C., Toon, Owen B., Fried, Alan, Homeyer, Cameron R., Morrison, Hugh, Cummings, Kristin A., Li, Yunyao, Pickering, Kenneth E., Allen, Dale J., Yang, Qing, Wennberg, Paul O., Crounse, John D., St. Clair, Jason M., Teng, Alex P., O'Sullivan, Daniel, Huey, L. Gregory, Chen, Dexian, Liu, Xiaoxi, Blake, Donald R., Blake, Nicola J., Apel, Eric C., Hornbrook, Rebecca S., Flocke, Frank, Campos, Teresa, Diskin, Glenn",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "Land-surface controls on afternoon precipitation diagnosed from observatorial data: uncertainties and confounding factors",
+    "datasets": [
+      "dataset-612",
+      "dataset-664",
+      "dataset-722"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "https://www.atmos-chem-phys.net/14/8343/2014/acp-14-8343-2014.pdf",
+      "authors": "Guillod, B.P., Orlowsky, B., Miralles, D., Teuling, A.J., Blanken, P.D., Buchmann, N.",
+      "doi": "10.3390/rs10111773",
+      "pdf": "https://www.atmos-chem-phys.net/14/8343/2014/acp-14-8343-2014.pdf",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  },
+  {
+    "title": "Dual-polarized quantitative precipitation estimation as a function of range",
+    "datasets": [
+      "dataset-612"
+    ],
+    "original": {
+      "search_term": "Next Generation Weather Radar",
+      "url": "https://www.hydrol-earth-syst-sci.net/22/3375/2018/",
+      "authors": "M. J. Simpson, N. I. Fox",
+      "doi": "10.5194/hess-22-3375-2018",
+      "date_added": "2020-01-15 12:00:16"
+    }
+  }
+]
