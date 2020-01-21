@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Estimating tree canopy cover using harmonic regression coefficients derived from multitemporal Landsat data",
+    "datasets": [
+      "dataset-673"
+    ],
+    "original": {
+      "doi": "10.1016/j.jag.2019.101985",
+      "journal": "International Journal of Applied Earth Observation and Geoinformation",
+      "search_term": "National Land Cover Database",
+      "url": "https://doi.org/10.1016/j.jag.2019.101985",
+      "date_added": "2020-01-10 18:46:22"
+    }
+  },
+  {
+    "title": "Identifying candidate reference reaches to assess the physical and biological integrity of wadeable streams in different ecoregions and among stream sizes",
+    "datasets": [
+      "dataset-624",
+      "dataset-674"
+    ],
+    "original": {
+      "doi": "10.1016/j.ecolind.2019.105966",
+      "journal": "Ecological Indicators",
+      "search_term": "National Land Cover Database",
+      "url": "https://doi.org/10.1016/j.ecolind.2019.105966",
+      "date_added": "2020-01-10 18:46:22"
+    }
+  },
+  {
+    "title": "The greenspace-academic performance link varies by remote sensing measure and urbanicity around Maryland public schools",
+    "datasets": [
+      "dataset-624",
+      "dataset-675",
+      "dataset-676",
+      "dataset-207",
+      "dataset-046"
+    ],
+    "original": {
+      "doi": "10.1016/j.landurbplan.2019.103706",
+      "journal": "Landscape and Urban Planning",
+      "search_term": "National Land Cover Database",
+      "url": "https://doi.org/10.1016/j.landurbplan.2019.103706",
+      "date_added": "2020-01-10 18:46:22"
+    }
+  },
+  {
+    "title": "Contemporary forest carbon dynamics in the northern U.S. associated with land cover changes",
+    "datasets": [
+      "dataset-624",
+      "dataset-677",
+      "dataset-678",
+      "dataset-631",
+      "dataset-306"
+    ],
+    "original": {
+      "doi": "10.1016/j.ecolind.2019.105901",
+      "journal": "Ecological Indicators",
+      "search_term": "National Land Cover Database",
+      "url": "https://doi.org/10.1016/j.ecolind.2019.105901",
+      "date_added": "2020-01-10 18:46:22"
+    }
+  },
+  {
+    "title": "Planning for carnivore recolonization by mapping sex-specific landscape connectivity",
+    "datasets": [
+      "dataset-624",
+      "dataset-679",
+      "dataset-680"
+    ],
+    "original": {
+      "doi": "10.1016/j.gecco.2019.e00869",
+      "journal": "Global Ecology and Conservation",
+      "search_term": "National Land Cover Database",
+      "url": "https://doi.org/10.1016/j.gecco.2019.e00869",
+      "date_added": "2020-01-10 18:46:22"
+    }
+  },
+  {
+    "title": "Tree cover mapping based on Sentinel-2 images demonstrate high thematic accuracy in Europe",
+    "datasets": [
+      "dataset-624",
+      "dataset-678"
+    ],
+    "original": {
+      "doi": "10.1016/j.jag.2019.101947",
+      "journal": "International Journal of Applied Earth Observation and Geoinformation",
+      "search_term": "National Land Cover Database",
+      "url": "https://doi.org/10.1016/j.jag.2019.101947",
+      "date_added": "2020-01-10 18:46:22"
+    }
+  },
+  {
+    "title": "Effects of land-use change on eco-environmental quality in Hainan Island, China",
+    "datasets": [
+      "dataset-678"
+    ],
+    "original": {
+      "doi": "10.1016/j.ecolind.2019.105777",
+      "journal": "Ecological Indicators",
+      "search_term": "National Land Cover Database",
+      "url": "https://doi.org/10.1016/j.ecolind.2019.105777",
+      "date_added": "2020-01-10 18:46:22"
+    }
+  },
+  {
+    "title": "Spatiotemporal patterns and drivers of ecosystem service supply and demand across the conterminous United States: A multiscale analysis",
+    "datasets": [
+      "dataset-624",
+      "dataset-631",
+      "dataset-681",
+      "dataset-118",
+      "dataset-682",
+      "dataset-683",
+      "dataset-684",
+      "dataset-685",
+      "dataset-686"
+    ],
+    "original": {
+      "doi": "10.1016/j.scitotenv.2019.135005",
+      "journal": "The Science of The Total Environment",
+      "search_term": "National Land Cover Database",
+      "url": "https://doi.org/10.1016/j.scitotenv.2019.135005",
+      "date_added": "2020-01-10 18:46:22"
+    }
+  },
+  {
+    "title": "Environmental factors affecting ecological niche of Coccidioides species and spatial dynamics of valley fever in the western United States",
+    "datasets": [
+      "dataset-624",
+      "dataset-687",
+      "dataset-688",
+      "dataset-689"
+    ],
+    "original": {
+      "doi": "10.1016/j.sste.2019.100317",
+      "journal": "Spatial and Spatio-temporal Epidemiology",
+      "search_term": "National Land Cover Database",
+      "url": "https://doi.org/10.1016/j.sste.2019.100317",
+      "date_added": "2020-01-10 18:46:22"
+    }
+  }
+]

@@ -6,10 +6,11 @@
     ],
     "original": {
       "doi": "10.1016/j.econedurev.2019.04.007",
-      "journal": "Economics of Education Review",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1016/j.econedurev.2019.04.007",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": NaN,
+      "journal": "Economics of Education Review",
+      "date_added": "2020-01-10 18:42:12"
     }
   },
   {
@@ -20,10 +21,11 @@
     ],
     "original": {
       "doi": "10.1016/j.jedc.2019.103726",
-      "journal": "Journal of Economic Dynamics and Control",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1016/j.jedc.2019.103726",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": NaN,
+      "journal": "Journal of Economic Dynamics and Control",
+      "date_added": "2020-01-10 18:42:12"
     }
   },
   {
@@ -34,10 +36,25 @@
     ],
     "original": {
       "doi": "10.1017/s1474747218000422",
-      "journal": "Journal of Pension Economics and Finance",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1017/s1474747218000422",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": NaN,
+      "journal": "Journal of Pension Economics and Finance",
+      "date_added": "2020-01-10 18:42:12"
+    }
+  },
+  {
+    "title": "Effects of unconventional monetary policy across U.S. industries",
+    "datasets": [
+      "dataset-683"
+    ],
+    "original": {
+      "doi": "10.1111/infi.12357",
+      "search_term": "GDP by state",
+      "url": "https://doi.org/10.1111/infi.12357",
+      "Unnamed: 6": NaN,
+      "journal": "International Finance",
+      "date_added": "2020-01-10 18:42:12"
     }
   },
   {
@@ -48,10 +65,11 @@
     ],
     "original": {
       "doi": "10.1016/j.jebo.2019.04.012",
-      "journal": "Journal of Economic Behavior & Organization",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1016/j.jebo.2019.04.012",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": NaN,
+      "journal": "Journal of Economic Behavior & Organization",
+      "date_added": "2020-01-10 18:42:12"
     }
   },
   {
@@ -61,10 +79,11 @@
     ],
     "original": {
       "doi": "10.1007/s11205-018-1976-2",
-      "journal": "Social Indicators Research",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1007/s11205-018-1976-2",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": NaN,
+      "journal": "Social Indicators Research",
+      "date_added": "2020-01-10 18:42:12"
     }
   },
   {
@@ -75,10 +94,26 @@
     ],
     "original": {
       "doi": "10.1162/rest_a_00830",
-      "journal": "Review of Economics and Statistics",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1162/rest_a_00830",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": NaN,
+      "journal": "Review of Economics and Statistics",
+      "date_added": "2020-01-10 18:42:12"
+    }
+  },
+  {
+    "title": "Natural Disasters and Macroeconomic Performance",
+    "datasets": [
+      "dataset-683",
+      "dataset-224"
+    ],
+    "original": {
+      "doi": "10.1007/s10640-018-0239-7",
+      "search_term": "GDP by state",
+      "url": "https://doi.org/10.1007/s10640-018-0239-7",
+      "Unnamed: 6": "https://link.springer.com/content/pdf/10.1007%2Fs10640-018-0239-7.pdf",
+      "journal": "Environmental and Resource Economics",
+      "date_added": "2020-01-10 18:42:12"
     }
   },
   {
@@ -90,10 +125,11 @@
     ],
     "original": {
       "doi": "10.1111/jmcb.12574",
-      "journal": "Journal of money credit and banking",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1111/jmcb.12574",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/jmcb.12574",
+      "journal": "Journal of money credit and banking",
+      "date_added": "2020-01-10 18:42:12"
     }
   },
   {
@@ -105,10 +141,11 @@
     ],
     "original": {
       "doi": "10.1016/j.regsciurbeco.2018.11.008",
-      "journal": "Regional Science and Urban Economics",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1016/j.regsciurbeco.2018.11.008",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": NaN,
+      "journal": "Regional Science and Urban Economics",
+      "date_added": "2020-01-10 18:42:12"
     }
   },
   {
@@ -119,10 +156,11 @@
     ],
     "original": {
       "doi": "10.1016/j.econmod.2018.08.008",
-      "journal": "Economic Modelling",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1016/j.econmod.2018.08.008",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": NaN,
+      "journal": "Economic Modelling",
+      "date_added": "2020-01-10 18:42:12"
     }
   },
   {
@@ -132,16 +170,16 @@
       "dataset-661",
       "dataset-662",
       "dataset-663",
-      "dataset-118",
       "dataset-672",
       "dataset-619"
     ],
     "original": {
       "doi": "10.1016/j.jeoa.2018.03.006",
-      "journal": "The Journal of the Economics of Ageing",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1016/j.jeoa.2018.03.006",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": NaN,
+      "journal": "The Journal of the Economics of Ageing",
+      "date_added": "2020-01-10 18:42:12"
     }
   },
   {
@@ -151,10 +189,11 @@
     ],
     "original": {
       "doi": "10.1080/00213624.2018.1483151",
-      "journal": "Journal of Economic Issues",
       "search_term": "GDP by state",
       "url": "https://doi.org/10.1080/00213624.2018.1483151",
-      "date_added": "2020-01-08 11:18:42"
+      "Unnamed: 6": NaN,
+      "journal": "Journal of Economic Issues",
+      "date_added": "2020-01-10 18:42:12"
     }
   }
 ]
