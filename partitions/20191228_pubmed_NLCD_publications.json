@@ -1,0 +1,63 @@
+[
+  {
+    "title": "An extreme sea level indicator for the contiguous United States coastline.",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1038/s41597-019-0333-x",
+      "journal": "Scientific data",
+      "pdf": "https://www.nature.com/articles/s41597-019-0333-x.pdf",
+      "notes": "valid for different dataset",
+      "doi": "10.1038/s41597-019-0333-x",
+      "ISSN": "2052-4463",
+      "date_added": "2020-01-16 14:11:30"
+    }
+  },
+  {
+    "title": "Do the Adaptations of Venice and Miami to Sea Level Rise Offer Lessons for Other Vulnerable Coastal Cities?",
+    "datasets": [
+      "dataset-714"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1007/s00267-019-01198-z",
+      "journal": "Environmental management",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s00267-019-01198-z.pdf",
+      "notes": "valid for different dataset",
+      "doi": "10.1007/s00267-019-01198-z",
+      "ISSN": "1432-1009",
+      "date_added": "2020-01-16 14:11:30"
+    }
+  },
+  {
+    "title": "Insights into estuary habitat loss in the western United States using a new method for mapping maximum extent of tidal wetlands.",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1371/journal.pone.0218558",
+      "journal": "PloS one",
+      "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0218558&type=printable",
+      "notes": "valid for different dataset",
+      "doi": "10.1371/journal.pone.0218558",
+      "ISSN": "1932-6203",
+      "date_added": "2020-01-16 14:11:30"
+    }
+  },
+  {
+    "title": "Feedback of coastal marshes to climate change: Long-term phenological shifts.",
+    "datasets": [
+      "dataset-703",
+      "dataset-728"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1002/ece3.5215",
+      "journal": "Ecology and evolution",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.5215",
+      "notes": "valid for different dataset",
+      "doi": "10.1002/ece3.5215",
+      "ISSN": "2045-7758",
+      "date_added": "2020-01-16 14:11:30"
+    }
+  }
+]

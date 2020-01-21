@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Response of a vulnerable barrier island to multi-year storm impacts: LiDAR-data-inferred morphodynamic changes on Ship Island, Mississippi, USA.",
+    "datasets": [
+      "dataset-614",
+      "dataset-668",
+      "dataset-723"
+    ],
+    "original": {
+      "authors": "Eisemann, Eve R, Wallace, Davin J, Buijsman, Maarten C, Pierce, Troy",
+      "doi": "10.1016/j.geomorph.2018.04.001",
+      "search_term": "Coastal Topographic Lidar",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0169555X1830148X/pdfft?md5=ecc1c0eb4180bfd79904c914666251a2&pid=1-s2.0-S0169555X1830148X-main.pdf",
+      "notes": "dataset different than predicted",
+      "journal": "Geomorphology",
+      "date_added": "2020-01-15 16:39:54"
+    }
+  },
+  {
+    "title": "Inland and Near Shore Water Profiles Derived from the High Altitude Multiple Altimeter Beam Experimental Lidar (MABEL).",
+    "datasets": [
+      "dataset-725"
+    ],
+    "original": {
+      "authors": "Jasinski, Michael F, Stoll, Jeremy D, Cook, William B, Ondrusek, Michael, Stengel, Eric, Brunt, Kelly",
+      "doi": "10.2112/si76-005",
+      "search_term": "Coastal Topographic Lidar",
+      "pdf": "https://bioone.org/journalArticle/Download?fullDOI=10.2112%2FSI76-005",
+      "notes": "dataset different than predicted",
+      "journal": "Journal of coastal research",
+      "date_added": "2020-01-15 16:39:54"
+    }
+  }
+]

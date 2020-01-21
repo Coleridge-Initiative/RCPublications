@@ -1,0 +1,66 @@
+[
+  {
+    "title": "SMC-Flood database: a high-resolution press database on flood cases for the Spanish Mediterranean coast (1960-2015)",
+    "datasets": [
+      "dataset-691"
+    ],
+    "original": {
+      "journal": "Natural Hazards and Earth System Sciences",
+      "notes": "different dataset than intended",
+      "authors": "Gil-Guirado, Salvador, Pérez Morales, Alfredo, López Martínez, Francisco",
+      "pdf": "https://www.nat-hazards-earth-syst-sci.net/19/1955/2019/nhess-19-1955-2019.pdf",
+      "doi": "10.5194/nhess-19-1955-2019",
+      "url": "https://www.nat-hazards-earth-syst-sci.net/19/1955/2019/",
+      "search_term": "Coastal Flood Frequency",
+      "date_added": "2020-01-15 16:49:36"
+    }
+  },
+  {
+    "title": "Spatial Analysis of High-Resolution Radar Rainfall and Citizen-Reported Flash Flood Data in Ultra-Urban New York City",
+    "datasets": [
+      "dataset-691"
+    ],
+    "original": {
+      "journal": "Water",
+      "notes": "different dataset than intended",
+      "authors": "Brianne Smith, Stephanie Rodriguez",
+      "pdf": "https://www.mdpi.com/2073-4441/9/10/736/pdf",
+      "doi": "10.3390/w9100736",
+      "url": "https://www.mdpi.com/2073-4441/9/10/736",
+      "search_term": "Coastal Flood Frequency",
+      "date_added": "2020-01-15 16:49:36"
+    }
+  },
+  {
+    "title": "Nuisance Flooding and Relative Sea-Level Rise: the Importance of Present-Day Land Motion",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "journal": "Scientific Reports",
+      "notes": "different dataset than intended",
+      "authors": "Karegar, Makan A., Dixon, Timothy H., Malservisi, Rocco, Kusche, Jürgen, Engelhart, Simon E.",
+      "pdf": "https://www.nature.com/articles/s41598-017-11544-y.pdf",
+      "doi": "10.1038/s41598-017-11544-y",
+      "url": "http://europepmc.org/articles/PMC5593944",
+      "search_term": "Coastal Flood Frequency",
+      "date_added": "2020-01-15 16:49:36"
+    }
+  },
+  {
+    "title": "Increased nuisance flooding along the coasts of the United States due to sea level rise: Past and future",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "journal": "Geographical Research Letters",
+      "notes": "different dataset than intended",
+      "authors": "Moftakhari, HR, Aghakouchak, A, Sanders, BF, Feldman, DL, Sweet, W, Matthew, RA, Luke, A",
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2015GL066072",
+      "doi": "10.1002/2015GL066072",
+      "url": "http://www.escholarship.org/uc/item/6sk2w9t1",
+      "search_term": "Coastal Flood Frequency",
+      "date_added": "2020-01-15 16:49:36"
+    }
+  }
+]
