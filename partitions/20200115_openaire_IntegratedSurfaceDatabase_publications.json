@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Reconstruction of the seasonal cycle of air-sea CO2 fluxes in the Strait of Gibraltar",
+    "datasets": [
+      "dataset-728"
+    ],
+    "original": {
+      "notes": "different dataset than predicted",
+      "doi": "10.1016/j.marchem.2011.05.004",
+      "journal": "Marine Chemistry",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0304420311000582/pdfft?md5=6bc29c469752007e46f9ad6844120c71&pid=1-s2.0-S0304420311000582-main.pdf",
+      "authors": "Paz, M. de la, Huertas, I. Emma, Padín, X. A., González-Dávila, Melchor, Santana-Casiano, Magdalena, Forja, Jesús M., Orbi, A., Pérez, Fiz F., Ríos, Aida F.",
+      "url": "http://hdl.handle.net/10261/44931",
+      "search_term": "Integrated Surface Database",
+      "date_added": "2020-01-21 15:00:30"
+    }
+  },
+  {
+    "title": "A reduced estimate of the strength of the ocean's biological carbon pump",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "notes": "different dataset than predicted",
+      "doi": "10.1029/2011GL046735",
+      "journal": "Geophysical Research Letters",
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2011GL046735",
+      "authors": "Henson, Stephanie A., Sanders, Richard, Madsen, Esben, Morris, Paul J., Le Moigne, Frederic A. C., Quartly, Graham D.",
+      "url": "http://oceanrep.geomar.de/26326/",
+      "search_term": "Integrated Surface Database",
+      "date_added": "2020-01-21 15:00:30"
+    }
+  }
+]
