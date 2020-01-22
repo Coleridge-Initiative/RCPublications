@@ -1,0 +1,228 @@
+[
+  {
+    "title": "Assessment of cloud properties from the reanalysis with satellite observations over East Asia",
+    "datasets": [
+      "dataset-666"
+    ],
+    "original": {
+      "authors": "Yao, Bin, Liu, Chao, Yin, Yan, Liu, Zhiquan, Shi, Chunxiang, Iwabuchi, Hironobu, Weng, Fuzhong",
+      "doi": "10.5194/amt-2019-223",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Atmospheric Measurement Techniques",
+      "url": "https://www.atmos-meas-tech-discuss.net/amt-2019-223/amt-2019-223.pdf",
+      "pdf": "https://www.atmos-meas-tech-discuss.net/amt-2019-223/amt-2019-223.pdf",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "Evaluation of the ERA5 reanalysis as a potential reference dataset for hydrological modeling over North-America",
+    "datasets": [
+      "dataset-666"
+    ],
+    "original": {
+      "authors": "Tarek, Mostafa, Brissette, François P., Arsenault, Richard",
+      "doi": "10.5194/hess-2019-316",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Hydrology and Earth System Sciences",
+      "url": "https://www.hydrol-earth-syst-sci-discuss.net/hess-2019-316/hess-2019-316.pdf",
+      "pdf": "https://www.hydrol-earth-syst-sci-discuss.net/hess-2019-316/hess-2019-316.pdf",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "Brief communication: Interest of a regional climate model against ERA5 to simulate the near-surface climate of the Greenland ice sheet",
+    "datasets": [
+      "dataset-666",
+      "dataset-762"
+    ],
+    "original": {
+      "authors": "Delhasse, Alison, Kittel, Christoph, Amory, Charles, Hofer, Stefan, Fettweis, Xavier",
+      "doi": "10.5194/tc-2019-96",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "The Cryosphere",
+      "url": "https://www.the-cryosphere-discuss.net/tc-2019-96/tc-2019-96.pdf",
+      "pdf": "https://www.the-cryosphere-discuss.net/tc-2019-96/tc-2019-96.pdf",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "A Validation of ERA5 Reanalysis Data in the Southern Antarctic PeninsulaaEllsworth Land Region, and Its Implications for Ice Core Studies",
+    "datasets": [
+      "dataset-666"
+    ],
+    "original": {
+      "authors": "Tetzner, Dieter, Thomas, Liz, Allen, Claire",
+      "doi": "10.3390/geosciences9070289",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Geosciences",
+      "url": "https://www.mdpi.com/2076-3263/9/7/289/htm",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "Extreme variability in Irminger Sea winter heat loss Revealed by ocean observatories initiative mooring and the ERA5 Reanalysis",
+    "datasets": [
+      "dataset-666"
+    ],
+    "original": {
+      "authors": "Josey, S.A., de Jong, M.F., Oltmanns, M., Moore, G.K., Weller, R.A.",
+      "doi": "10.1029/2018GL080956",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Geophysical Research Letters",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL080956",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "From ERA-Interim to ERA5: the considerable impact of ECMWF's next-generation reanalysis on Lagrangian transport simulations",
+    "datasets": [
+      "dataset-666"
+    ],
+    "original": {
+      "authors": "Hoffmann, Lars, Günther, Gebhard, Wright, Jonathon S., Li, Dan, Stein, Olaf, Wu, Xue, Griessbach, Sabine, Heng, Yi, Konopka, Paul, Müller, Rolf, Vogel, Bärbel",
+      "doi": "10.5194/acp-19-3097-2019",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Atmospheric Chemistry and Physics",
+      "url": "https://www.atmos-chem-phys.net/19/3097/2019/acp-19-3097-2019.pdf",
+      "pdf": "https://www.atmos-chem-phys.net/19/3097/2019/acp-19-3097-2019.pdf",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "ERA5: The new champion of wind power modelling?",
+    "datasets": [
+      "dataset-666",
+      "dataset-761"
+    ],
+    "original": {
+      "authors": "Olauson, Jon",
+      "doi": "10.1016/j.renene.2018.03.056",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Renewable Energy",
+      "url": "http://kth.diva-portal.org/smash/get/diva2:1199383/FULLTEXT01.pdf",
+      "pdf": "http://kth.diva-portal.org/smash/get/diva2:1199383/FULLTEXT01.pdf",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "Evaluation of global horizontal irradiance estimates from ERA5 and COSMO-REA6 reanalyses using ground and satellite-based data",
+    "datasets": [
+      "dataset-666",
+      "dataset-760",
+      "dataset-761"
+    ],
+    "original": {
+      "authors": "Urraca, Ruben, Huld, Thomas, Gracia-Amillo, Ana, Martinez-de-Pison, Francisco Javier, Kaspar, Frank, Sanz-Garcia, Andres",
+      "doi": "10.1016/j.solener.2018.02.059",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Solar Energy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0038092X18301920",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "Advancing global storm surge modelling using the new ERA5 climate reanalysis",
+    "datasets": [
+      "dataset-666",
+      "dataset-763"
+    ],
+    "original": {
+      "authors": "Dullaart, Job C.M., Muis, Sanne, Bloemendaal, Nadia, Aerts, Jeroen C.J.H.",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Climate Dynamics",
+      "url": "https://link.springer.com/article/10.1007%2Fs00382-019-05044-0",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "Development and Evaluation of an EnsembleaBased Data Assimilation System for Regional Reanalysis Over the Tibetan Plateau and Surrounding Regions",
+    "datasets": [
+      "dataset-666"
+    ],
+    "original": {
+      "authors": "He, Jie, Zhang, Fuqing, Chen, Xingchao, Bao, Xinghua, Chen, Deliang, Kim, Hyun Mee, Lai, Hui Wen, Leung, L. Ruby, Ma, Xulin, Meng, Zhiyong, Ou, Tinghai, Xiao, Ziniu, Yang, Eun Gyeong, Yang, Kun",
+      "doi": "10.1029/2019MS001665",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001665",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "Evaluation of Satellite and Reanalysis Precipitable Water Vapor Data Sets Against Radiosonde Observations in Central Asia",
+    "datasets": [
+      "dataset-666",
+      "dataset-718",
+      "dataset-761",
+      "dataset-764"
+    ],
+    "original": {
+      "authors": "Jie Jiang, Tianjun Zhou, Wenxia Zhang",
+      "doi": "10.1029/2019EA000654",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Earth and Space Science",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EA000654",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "Spatio-temporal variability of cloud cover types in West Africa with satellite-based and reanalysis data",
+    "datasets": [
+      "dataset-666",
+      "dataset-765",
+      "dataset-763"
+    ],
+    "original": {
+      "authors": "Danso, D. K., Anquetin, S., Diedhiou, Arona, Lavaysse, Christophe, Kobea, A., Toure, N. E.",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Quarterly Journal of the Royal Meteorological Society",
+      "url": "https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3651",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "Precipitable Water Vapor Retrieval and Analysis by Multiple Data Sources: Ground-Based GNSS, Radio Occultation, Radiosonde, Microwave Satellite, and NWP Reanalysis Data",
+    "datasets": [
+      "dataset-666",
+      "dataset-766"
+    ],
+    "original": {
+      "authors": "Zhang, Qin, Ye, Junhua, Zhang, Shuangcheng, Han, Fei",
+      "doi": "10.1155/2018/3428303",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Journal of Sensors",
+      "url": "https://www.hindawi.com/journals/js/2018/3428303/",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "Evaluation of Synoptic Snowfall on the Antarctic Ice Sheet Based on CloudSat, In-Situ Observations and Atmospheric Reanalysis Datasets",
+    "datasets": [
+      "dataset-666",
+      "dataset-735"
+    ],
+    "original": {
+      "authors": "Yihui Liu, Fei Li, Weifeng Hao, Jean-Pierre Barriot, Yetang Wang",
+      "doi": "10.3390/rs11141686",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Remote Sensing",
+      "url": "https://www.mdpi.com/2072-4292/11/14/1686/htm",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  },
+  {
+    "title": "A Study on the Assessment of Multi-Source Satellite Soil Moisture Products and Reanalysis Data for the Tibetan Plateau",
+    "datasets": [
+      "dataset-666",
+      "dataset-768"
+    ],
+    "original": {
+      "authors": "Cheng, Meilin, Zhong, Lei, Ma, Yaoming, Zou, Mijun, Ge, Nan, Wang, Xian, Hu, Yuanyuan",
+      "doi": "10.3390/rs11101196",
+      "search_term": "ERA5 Reanalysis",
+      "journal": "Remote Sensing",
+      "url": "https://www.mdpi.com/2072-4292/11/10/1196/htm",
+      "date_added": "2020-01-22 16:00:33"
+    }
+  }
+]
