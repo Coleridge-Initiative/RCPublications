@@ -9,7 +9,7 @@
       "dataset-750"
     ],
     "original": {
-      "date_added": "2020-01-22 15:06:11"
+      "date_added": "2020-01-22 15:24:38"
     }
   },
   {
@@ -21,8 +21,8 @@
       "dataset-753"
     ],
     "original": {
-      "doi": "https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=6106&context=etd",
-      "date_added": "2020-01-22 15:06:11"
+      "pdf": "https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=6106&context=etd",
+      "date_added": "2020-01-22 15:24:38"
     }
   },
   {
@@ -33,8 +33,8 @@
       "dataset-071"
     ],
     "original": {
-      "doi": "https://www.census.gov/content/dam/Census/library/working-papers/2018/demo/SEHSD-WP2018-15.pdf",
-      "date_added": "2020-01-22 15:06:11"
+      "pdf": "https://www.census.gov/content/dam/Census/library/working-papers/2018/demo/SEHSD-WP2018-15.pdf",
+      "date_added": "2020-01-22 15:24:38"
     }
   },
   {
@@ -43,8 +43,8 @@
       "dataset-753"
     ],
     "original": {
-      "doi": "https://www.dss.virginia.gov/files/about/reports/financial_assistance/tanf/2012/VDSS_Research_Brief_TANF_LOS_05-18-2012.pdf",
-      "date_added": "2020-01-22 15:06:11"
+      "pdf": "https://www.dss.virginia.gov/files/about/reports/financial_assistance/tanf/2012/VDSS_Research_Brief_TANF_LOS_05-18-2012.pdf",
+      "date_added": "2020-01-22 15:24:38"
     }
   },
   {
@@ -53,8 +53,8 @@
       "dataset-753"
     ],
     "original": {
-      "doi": "https://www.dss.virginia.gov/files/about/reports/financial_assistance/tanf/2012/2009DAPolicyChangeImpact.pdf",
-      "date_added": "2020-01-22 15:06:11"
+      "pdf": "https://www.dss.virginia.gov/files/about/reports/financial_assistance/tanf/2012/2009DAPolicyChangeImpact.pdf",
+      "date_added": "2020-01-22 15:24:38"
     }
   }
 ]
