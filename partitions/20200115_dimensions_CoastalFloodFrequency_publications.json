@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The propagation of fluvial flood waves through a backwaterestuarine environment",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "notes": "valid for different dataset",
+      "journal": "Water Resources Research",
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019WR025743",
+      "authors": "Dykstra, S.L., Dzwonkowski, B.",
+      "doi": "10.1029/2019wr025743",
+      "search_term": "Coastal Flood Frequency",
+      "date_added": "2020-01-22 11:46:40"
+    }
+  },
+  {
+    "title": "A Coherent Statistical Model for Coastal Flood Frequency Analysis Under Nonstationary Sea Level Conditions",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "notes": "valid for different dataset",
+      "journal": "Earth's Future",
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018EF001089",
+      "authors": "Ghanbari, Mahshid, Arabi, Mazdak, Obeysekera, Jayantha, Sweet, William",
+      "doi": "10.1029/2018ef001089",
+      "search_term": "Coastal Flood Frequency",
+      "date_added": "2020-01-22 11:46:40"
+    }
+  }
+]
