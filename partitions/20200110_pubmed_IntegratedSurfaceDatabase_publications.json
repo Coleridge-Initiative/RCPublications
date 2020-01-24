@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Mapping Europe into local climate zones.",
+    "datasets": [
+      "dataset-621",
+      "dataset-678",
+      "dataset-801"
+    ],
+    "original": {
+      "journal": "PloS one",
+      "search_term": "Integrated Surface Database",
+      "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0214474&type=printable",
+      "authors": "Demuzere, Matthias, Bechtel, Benjamin, Middel, Ariane, Mills, Gerald",
+      "doi": "10.1371/journal.pone.0214474",
+      "date_added": "2020-01-24 15:18:23"
+    }
+  },
+  {
+    "title": "Calibration and evaluation of PUF-PAS sampling rates across the Global Atmospheric Passive Sampling (GAPS) network.",
+    "datasets": [
+      "dataset-621",
+      "dataset-800"
+    ],
+    "original": {
+      "journal": "Environmental science. Processes & impacts",
+      "search_term": "Integrated Surface Database",
+      "pdf": "https://pubs.rsc.org/en/content/articlepdf/2018/em/c7em00360a",
+      "authors": "Herkert, Nicholas J, Spak, Scott N, Smith, Austen, Schuster, Jasmin K, Harner, Tom, Martinez, Andres, Hornbuckle, Keri C",
+      "doi": "10.1039/c7em00360a",
+      "date_added": "2020-01-24 15:18:23"
+    }
+  },
+  {
+    "title": "A Model Using Local Weather Data to Determine the Effective Sampling Volume for PCB Congeners Collected on Passive Air Samplers.",
+    "datasets": [
+      "dataset-621"
+    ],
+    "original": {
+      "journal": "Environmental science & technology",
+      "search_term": "Integrated Surface Database",
+      "pdf": "https://pubs.acs.org/doi/pdf/10.1021/acs.est.6b00319",
+      "authors": "Herkert, Nicholas J, Martinez, Andres, Hornbuckle, Keri C",
+      "doi": "10.1021/acs.est.6b00319",
+      "date_added": "2020-01-24 15:18:23"
+    }
+  }
+]
