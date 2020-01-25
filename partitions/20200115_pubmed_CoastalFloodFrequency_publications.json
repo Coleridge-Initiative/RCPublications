@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Relationship between infiltration, sewer rehabilitation, and groundwater flooding in coastal urban areas.",
+    "datasets": [
+      "dataset-614",
+      "dataset-770"
+    ],
+    "original": {
+      "pdf": "https://link.springer.com/content/pdf/10.1007%2Fs11356-019-06513-z.pdf",
+      "journal": "Environmental science and pollution research international",
+      "doi": "10.1007/s11356-019-06513-z",
+      "authors": "Su, Xin, Liu, Ting, Beheshti, Maryam, Prigiobbe, Valentina",
+      "search_term": "Coastal Flood Frequency",
+      "notes": "Different dataset than predicted",
+      "date_added": "2020-01-23 17:04:30"
+    }
+  },
+  {
+    "title": "Flood protection ecosystem services in the coast of Puerto Rico: Associations between extreme weather, flood hazard mitigation and gastrointestinal illness.",
+    "datasets": [
+      "dataset-623"
+    ],
+    "original": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0048969719318224/pdfft?md5=fbbbe18ffe1e70ba5146ce84dc44934b&pid=1-s2.0-S0048969719318224-main.pdf",
+      "journal": "The Science of the total environment",
+      "doi": "10.1016/j.scitotenv.2019.04.287",
+      "authors": "De Jesus Crespo, R, Wu, J, Myer, M, Yee, S, Fulford, R",
+      "search_term": "Coastal Flood Frequency",
+      "notes": "Different dataset than predicted",
+      "date_added": "2020-01-23 17:04:30"
+    }
+  },
+  {
+    "title": "Projected evolution of California's San Francisco Bay-Delta-river system in a century of climate change.",
+    "datasets": [
+      "dataset-614",
+      "dataset-778"
+    ],
+    "original": {
+      "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0024465&type=printable",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0024465",
+      "authors": "Cloern, James E, Knowles, Noah, Brown, Larry R, Cayan, Daniel, Dettinger, Michael D, Morgan, Tara L, Schoellhamer, David H, Stacey, Mark T, van der Wegen, Mick, Wagner, R Wayne, Jassby, Alan D",
+      "search_term": "Coastal Flood Frequency",
+      "date_added": "2020-01-23 17:04:30"
+    }
+  },
+  {
+    "title": "Spatial patterns of natural hazards mortality in the United States.",
+    "datasets": [
+      "dataset-691"
+    ],
+    "original": {
+      "journal": "International journal of health geographics",
+      "doi": "10.1186/1476-072X-7-64",
+      "authors": "Borden, Kevin A, Cutter, Susan L",
+      "search_term": "Coastal Flood Frequency",
+      "notes": "Different dataset than predicted",
+      "date_added": "2020-01-23 17:04:30"
+    }
+  }
+]

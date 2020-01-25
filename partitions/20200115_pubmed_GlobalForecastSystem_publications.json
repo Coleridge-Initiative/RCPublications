@@ -1,0 +1,58 @@
+[
+  {
+    "title": "The Marine Boundary Layer Height over the Western North Pacific Based on GPS Radio Occultation, Island Soundings, and Numerical Models.",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "pdf": "https://www.mdpi.com/1424-8220/19/1/155/pdf",
+      "journal": "Sensors (Basel, Switzerland)",
+      "search_term": "Global Forecast System",
+      "authors": "Chien, Fang-Ching, Hong, Jing-Shan, Kuo, Ying-Hwa",
+      "doi": "10.3390/s19010155",
+      "date_added": "2020-01-22 12:12:11"
+    }
+  },
+  {
+    "title": "Increasing vertical resolution in US models to improve track forecasts of Hurricane Joaquin with HWRF as an example.",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "pdf": "https://www.pnas.org/content/pnas/113/42/11765.full.pdf",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "search_term": "Global Forecast System",
+      "authors": "Zhang, Banglin, Lindzen, Richard S, Tallapragada, Vijay, Weng, Fuzhong, Liu, Qingfu, Sippel, Jason A, Ma, Zaizhong, Bender, Morris A",
+      "doi": "10.1073/pnas.1613800113",
+      "date_added": "2020-01-22 12:12:11"
+    }
+  },
+  {
+    "title": "Human-model hybrid Korean air quality forecasting system.",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10962247.2016.1206995?needAccess=true",
+      "journal": "Journal of the Air & Waste Management Association (1995)",
+      "search_term": "Global Forecast System",
+      "authors": "Chang, Lim-Seok, Cho, Ara, Park, Hyunju, Nam, Kipyo, Kim, Deokrae, Hong, Ji-Hyoung, Song, Chang-Keun",
+      "doi": "10.1080/10962247.2016.1206995",
+      "date_added": "2020-01-22 12:12:11"
+    }
+  },
+  {
+    "title": "Modeling of long range transport pathways for radionuclides to Korea during the Fukushima Dai-ichi nuclear accident and their association with meteorological circulations.",
+    "datasets": [
+      "dataset-620"
+    ],
+    "original": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0265931X15300205/pdfft?md5=a1ad8ae055407c2a5780f3c63ada3146&pid=1-s2.0-S0265931X15300205-main.pdf",
+      "journal": "Journal of environmental radioactivity",
+      "search_term": "Global Forecast System",
+      "authors": "Lee, Kwan-Hee, Kim, Ki-Hyun, Lee, Jin-Hong, Yun, Ju-Yong, Kim, Cheol-Hee",
+      "doi": "10.1016/j.jenvrad.2015.06.007",
+      "date_added": "2020-01-22 12:12:11"
+    }
+  }
+]
