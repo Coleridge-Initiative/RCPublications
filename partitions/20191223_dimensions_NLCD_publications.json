@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Land use regression models for ultrafine particles, fine particles, and black carbon in Southern California",
+    "datasets": [
+      "dataset-817",
+      "dataset-818"
+    ],
+    "original": {
+      "doi": "10.1016/j.scitotenv.2019.134234",
+      "notes": "different datasets than predicted",
+      "search_term": "NLCD",
+      "journal": "The Science of The Total Environment",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0048969719342172/pdfft?md5=1f40c9208bc9934ac6d851b5a6630582&pid=1-s2.0-S0048969719342172-main.pdf",
+      "date_added": "2020-01-27 15:32:02"
+    }
+  },
+  {
+    "title": "Significant effects of ecological context on urban trees' cooling efficiency",
+    "datasets": [
+      "dataset-659"
+    ],
+    "original": {
+      "doi": "10.1016/j.isprsjprs.2019.11.001",
+      "notes": "different datasets than predicted",
+      "search_term": "NLCD",
+      "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0924271619302552/pdfft?md5=464282a2c14ba23cf6cbc5546205905a&pid=1-s2.0-S0924271619302552-main.pdf",
+      "date_added": "2020-01-27 15:32:02"
+    }
+  }
+]

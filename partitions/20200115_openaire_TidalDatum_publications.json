@@ -1,0 +1,127 @@
+[
+  {
+    "title": "Tidal Datum Changes Induced by Morphological Changes of North Carolina Coastal Inlets",
+    "datasets": [
+      "dataset-614",
+      "dataset-714"
+    ],
+    "original": {
+      "doi": "10.3390/jmse4040079",
+      "pdf": "https://www.mdpi.com/2077-1312/4/4/79/pdf",
+      "url": "http://www.mdpi.com/2077-1312/4/4/79",
+      "authors": "Jindong Wang, Edward Myers",
+      "search_term": "Tidal Datum",
+      "journal": "Journal of Marine Science and Engineering",
+      "date_added": "2020-01-27 13:58:21"
+    }
+  },
+  {
+    "title": "Tidal Datums with Spatially Varying Uncertainty in North-East Gulf of Mexico for VDatum Application",
+    "datasets": [
+      "dataset-614",
+      "dataset-813",
+      "dataset-814"
+    ],
+    "original": {
+      "doi": "10.3390/jmse6040114",
+      "pdf": "https://www.mdpi.com/2077-1312/6/4/114/pdf",
+      "url": "http://www.mdpi.com/2077-1312/6/4/114",
+      "authors": "Liujuan Tang, Edward Myers, Lei Shi, Kurt Hess, Alison Carisio, Michael Michalski, Stephen White, Cuong Hoang",
+      "search_term": "Tidal Datum",
+      "journal": "Journal of Marine Science and Engineering",
+      "date_added": "2020-01-27 13:58:21"
+    }
+  },
+  {
+    "title": "Modeling Tidal Datums and Spatially Varying Uncertainty in the Texas and Western Louisiana Coastal Waters",
+    "datasets": [
+      "dataset-614",
+      "dataset-631",
+      "dataset-815"
+    ],
+    "original": {
+      "doi": "10.3390/jmse7020044",
+      "pdf": "https://www.mdpi.com/2077-1312/7/2/44/pdf",
+      "url": "https://www.mdpi.com/2077-1312/7/2/44",
+      "authors": "Wei Wu, Edward Myers, Lei Shi, Kurt Hess, Michael Michalski, Stephen White",
+      "search_term": "Tidal Datum",
+      "journal": "Journal of Marine Science and Engineering",
+      "date_added": "2020-01-27 13:58:21"
+    }
+  },
+  {
+    "title": "A comparison of datums derived from CO-OPS verified data products and Tidal Analysis Datum Calculator.",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "doi": "10.7289/v5/tr-nos-coops-085",
+      "url": "http://dx.doi.org/10.7289/v5/tr-nos-coops-085",
+      "authors": "Licate, Louis A., Huang, Lijuan, Dusek, Greg",
+      "search_term": "Tidal Datum",
+      "date_added": "2020-01-27 13:58:21"
+    }
+  },
+  {
+    "title": "Development and Use of Tide Models in Alaska Supporting VDatum and Hydrographic Surveying",
+    "datasets": [
+      "dataset-614",
+      "dataset-631"
+    ],
+    "original": {
+      "doi": "10.3390/jmse2010171",
+      "pdf": "https://www.mdpi.com/2077-1312/2/1/171/pdf",
+      "url": "http://www.mdpi.com/2077-1312/2/1/171",
+      "authors": "Shi, Lei, Wang, Jindong, Myers, Edward, Huang, Lijuan",
+      "search_term": "Tidal Datum",
+      "journal": "Journal of Marine Science and Engineering",
+      "date_added": "2020-01-27 13:58:21"
+    }
+  },
+  {
+    "title": "Statistical Interpolation of Tidal Datums and Computation of Its Associated Spatially Varying Uncertainty",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "doi": "10.3390/jmse4040064",
+      "pdf": "https://www.mdpi.com/2077-1312/4/4/64/pdf",
+      "url": "http://www.mdpi.com/2077-1312/4/4/64",
+      "authors": "Lei Shi, Edward Myers",
+      "search_term": "Tidal Datum",
+      "journal": "Journal of Marine Science and Engineering",
+      "date_added": "2020-01-27 13:58:21"
+    }
+  },
+  {
+    "title": "Adding to the toolbox for tidal-inundation mapping in estuarine areas",
+    "datasets": [
+      "dataset-614",
+      "dataset-756"
+    ],
+    "original": {
+      "doi": "10.1007/s11852-018-0605-1",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s11852-018-0605-1.pdf",
+      "url": "https://europepmc.org/articles/PMC6416087/",
+      "authors": "Flitcroft, Rebecca, Clinton, Patrick, Christiansen, Kelly",
+      "search_term": "Tidal Datum",
+      "date_added": "2020-01-27 13:58:21"
+    }
+  },
+  {
+    "title": "Improvements for the Western North Atlantic, Caribbean and Gulf of Mexico ADCIRC Tidal Database (EC2015)",
+    "datasets": [
+      "dataset-614",
+      "dataset-816"
+    ],
+    "original": {
+      "doi": "10.3390/jmse4040072",
+      "pdf": "https://www.mdpi.com/2077-1312/4/4/72/pdf",
+      "url": "http://www.mdpi.com/2077-1312/4/4/72",
+      "authors": "Christine Szpilka, Kendra Dresback, Randall Kolar, Jesse Feyen, Jindong Wang",
+      "search_term": "Tidal Datum",
+      "journal": "Journal of Marine Science and Engineering",
+      "date_added": "2020-01-27 13:58:21"
+    }
+  }
+]
