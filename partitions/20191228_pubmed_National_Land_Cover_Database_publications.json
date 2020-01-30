@@ -8,12 +8,12 @@
       "dataset-614"
     ],
     "original": {
+      "url": "https://doi.org/10.1038/s41597-019-0333-x",
+      "doi": "10.1038/s41597-019-0333-x",
+      "journal": "Scientific data",
       "ISSN": "2052-4463",
       "pdf": "https://www.nature.com/articles/s41597-019-0333-x.pdf",
-      "url": "https://doi.org/10.1038/s41597-019-0333-x",
-      "journal": "Scientific data",
-      "doi": "10.1038/s41597-019-0333-x",
-      "date_added": "2020-01-27 12:18:29"
+      "date_added": "2020-01-30 12:10:26"
     }
   },
   {
@@ -24,12 +24,12 @@
       "dataset-759"
     ],
     "original": {
+      "url": "https://doi.org/10.1038/s41598-019-54239-2",
+      "doi": "10.1038/s41598-019-54239-2",
+      "journal": "Scientific reports",
       "ISSN": "2045-2322",
       "pdf": "https://www.nature.com/articles/s41598-019-54239-2.pdf",
-      "url": "https://doi.org/10.1038/s41598-019-54239-2",
-      "journal": "Scientific reports",
-      "doi": "10.1038/s41598-019-54239-2",
-      "date_added": "2020-01-27 12:18:29"
+      "date_added": "2020-01-30 12:10:26"
     }
   },
   {
@@ -38,12 +38,11 @@
       "dataset-768"
     ],
     "original": {
-      "ISSN": "1424-8220",
-      "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6864553/pdf/sensors-19-04770.pdf",
       "url": "https://doi.org/10.3390/s19214770",
-      "journal": "Sensors (Basel, Switzerland)",
       "doi": "10.3390/s19214770",
-      "date_added": "2020-01-27 12:18:29"
+      "journal": "Sensors (Basel, Switzerland)",
+      "ISSN": "1424-8220",
+      "date_added": "2020-01-30 12:10:26"
     }
   },
   {
@@ -52,11 +51,11 @@
       "dataset-767"
     ],
     "original": {
-      "ISSN": "2352-3409",
       "url": "https://doi.org/10.1016/j.dib.2019.104600",
-      "journal": "Data in brief",
       "doi": "10.1016/j.dib.2019.104600",
-      "date_added": "2020-01-27 12:18:29"
+      "journal": "Data in brief",
+      "ISSN": "2352-3409",
+      "date_added": "2020-01-30 12:10:26"
     }
   },
   {
@@ -65,11 +64,11 @@
       "dataset-786"
     ],
     "original": {
-      "ISSN": "2352-3409",
       "url": "https://doi.org/10.1016/j.dib.2019.104585",
-      "journal": "Data in brief",
       "doi": "10.1016/j.dib.2019.104585",
-      "date_added": "2020-01-27 12:18:29"
+      "journal": "Data in brief",
+      "ISSN": "2352-3409",
+      "date_added": "2020-01-30 12:10:26"
     }
   },
   {
@@ -78,12 +77,12 @@
       "dataset-618"
     ],
     "original": {
+      "url": "https://doi.org/10.1038/s41467-019-12808-z",
+      "doi": "10.1038/s41467-019-12808-z",
+      "journal": "Nature communications",
       "ISSN": "2041-1723",
       "pdf": "https://www.nature.com/articles/s41467-019-12808-z.pdf",
-      "url": "https://doi.org/10.1038/s41467-019-12808-z",
-      "journal": "Nature communications",
-      "doi": "10.1038/s41467-019-12808-z",
-      "date_added": "2020-01-27 12:18:29"
+      "date_added": "2020-01-30 12:10:26"
     }
   },
   {
@@ -92,12 +91,12 @@
       "dataset-787"
     ],
     "original": {
+      "url": "https://doi.org/10.1038/s41586-019-1550-3",
+      "doi": "10.1038/s41586-019-1550-3",
+      "journal": "Nature",
       "ISSN": "1476-4687",
       "pdf": "https://www.nature.com/articles/s41586-019-1550-3.pdf",
-      "url": "https://doi.org/10.1038/s41586-019-1550-3",
-      "journal": "Nature",
-      "doi": "10.1038/s41586-019-1550-3",
-      "date_added": "2020-01-27 12:18:29"
+      "date_added": "2020-01-30 12:10:26"
     }
   },
   {
@@ -106,12 +105,12 @@
       "dataset-789"
     ],
     "original": {
+      "url": "https://doi.org/10.1038/s41467-019-11602-1",
+      "doi": "10.1038/s41467-019-11602-1",
+      "journal": "Nature communications",
       "ISSN": "2041-1723",
       "pdf": "https://www.nature.com/articles/s41467-019-11602-1.pdf",
-      "url": "https://doi.org/10.1038/s41467-019-11602-1",
-      "journal": "Nature communications",
-      "doi": "10.1038/s41467-019-11602-1",
-      "date_added": "2020-01-27 12:18:29"
+      "date_added": "2020-01-30 12:10:26"
     }
   },
   {
@@ -130,12 +129,12 @@
       "dataset-813"
     ],
     "original": {
+      "url": "https://doi.org/10.1371/journal.pone.0218558",
+      "doi": "10.1371/journal.pone.0218558",
+      "journal": "PloS one",
       "ISSN": "1932-6203",
       "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0218558&type=printable",
-      "url": "https://doi.org/10.1371/journal.pone.0218558",
-      "journal": "PloS one",
-      "doi": "10.1371/journal.pone.0218558",
-      "date_added": "2020-01-27 12:18:29"
+      "date_added": "2020-01-30 12:10:26"
     }
   }
 ]
