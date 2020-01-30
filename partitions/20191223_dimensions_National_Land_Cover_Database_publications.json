@@ -9,13 +9,12 @@
       "doi": "10.1016/j.jag.2019.101985",
       "journal": "International Journal of Applied Earth Observation and Geoinformation",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 11:18:00"
+      "date_added": "2020-01-30 14:00:27"
     }
   },
   {
     "title": "Identifying candidate reference reaches to assess the physical and biological integrity of wadeable streams in different ecoregions and among stream sizes",
     "datasets": [
-      "dataset-624",
       "dataset-674"
     ],
     "original": {
@@ -23,7 +22,7 @@
       "doi": "10.1016/j.ecolind.2019.105966",
       "journal": "Ecological Indicators",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 11:18:00"
+      "date_added": "2020-01-30 14:00:27"
     }
   },
   {
@@ -40,7 +39,7 @@
       "doi": "10.1016/j.landurbplan.2019.103706",
       "journal": "Landscape and Urban Planning",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 11:18:00"
+      "date_added": "2020-01-30 14:00:27"
     }
   },
   {
@@ -49,7 +48,8 @@
       "dataset-624",
       "dataset-677",
       "dataset-678",
-      "dataset-631"
+      "dataset-631",
+      "dataset-306"
     ],
     "original": {
       "url": "https://www.fs.usda.gov/treesearch/pubs/59136",
@@ -57,7 +57,86 @@
       "journal": "Ecological Indicators",
       "search_term": "National Land Cover Database",
       "pdf": "https://www.fs.fed.us/nrs/pubs/jrnl/2019/nrs_2019_ma_002.pdf",
-      "date_added": "2020-01-30 11:18:00"
+      "date_added": "2020-01-30 14:00:27"
+    }
+  },
+  {
+    "title": "Planning for carnivore recolonization by mapping sex-specific landscape connectivity",
+    "datasets": [
+      "dataset-624",
+      "dataset-679",
+      "dataset-680"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2351989419304573",
+      "doi": "10.1016/j.gecco.2019.e00869",
+      "journal": "Global Ecology and Conservation",
+      "search_term": "National Land Cover Database",
+      "date_added": "2020-01-30 14:00:27"
+    }
+  },
+  {
+    "title": "Tree cover mapping based on Sentinel-2 images demonstrate high thematic accuracy in Europe",
+    "datasets": [
+      "dataset-624",
+      "dataset-678"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1016/j.jag.2019.101947",
+      "doi": "10.1016/j.jag.2019.101947",
+      "journal": "International Journal of Applied Earth Observation and Geoinformation",
+      "search_term": "National Land Cover Database",
+      "date_added": "2020-01-30 14:00:27"
+    }
+  },
+  {
+    "title": "Effects of land-use change on eco-environmental quality in Hainan Island, China",
+    "datasets": [
+      "dataset-678"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1016/j.ecolind.2019.105777",
+      "doi": "10.1016/j.ecolind.2019.105777",
+      "journal": "Ecological Indicators",
+      "search_term": "National Land Cover Database",
+      "date_added": "2020-01-30 14:00:27"
+    }
+  },
+  {
+    "title": "Spatiotemporal patterns and drivers of ecosystem service supply and demand across the conterminous United States: A multiscale analysis",
+    "datasets": [
+      "dataset-624",
+      "dataset-631",
+      "dataset-681",
+      "dataset-118",
+      "dataset-682",
+      "dataset-683",
+      "dataset-684",
+      "dataset-685",
+      "dataset-686"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1016/j.scitotenv.2019.135005",
+      "doi": "10.1016/j.scitotenv.2019.135005",
+      "journal": "The Science of The Total Environment",
+      "search_term": "National Land Cover Database",
+      "date_added": "2020-01-30 14:00:27"
+    }
+  },
+  {
+    "title": "Environmental factors affecting ecological niche of Coccidioides species and spatial dynamics of valley fever in the western United States",
+    "datasets": [
+      "dataset-624",
+      "dataset-687",
+      "dataset-688",
+      "dataset-689"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1016/j.sste.2019.100317",
+      "doi": "10.1016/j.sste.2019.100317",
+      "journal": "Spatial and Spatio-temporal Epidemiology",
+      "search_term": "National Land Cover Database",
+      "date_added": "2020-01-30 14:00:27"
     }
   }
 ]
