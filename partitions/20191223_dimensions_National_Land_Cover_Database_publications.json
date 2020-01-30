@@ -5,11 +5,11 @@
       "dataset-673"
     ],
     "original": {
-      "url": "https://www.sciencedirect.com/science/article/pii/S0303243419302119",
+      "url": "https://doi.org/10.1016/j.jag.2019.101985",
       "doi": "10.1016/j.jag.2019.101985",
       "journal": "International Journal of Applied Earth Observation and Geoinformation",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 14:00:27"
+      "date_added": "2020-01-30 14:03:46"
     }
   },
   {
@@ -18,11 +18,11 @@
       "dataset-674"
     ],
     "original": {
-      "url": "https://www.sciencedirect.com/science/article/pii/S1470160X19309616",
+      "url": "https://doi.org/10.1016/j.ecolind.2019.105966",
       "doi": "10.1016/j.ecolind.2019.105966",
       "journal": "Ecological Indicators",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 14:00:27"
+      "date_added": "2020-01-30 14:03:46"
     }
   },
   {
@@ -35,11 +35,11 @@
       "dataset-046"
     ],
     "original": {
-      "url": "https://www.sciencedirect.com/science/article/pii/S0169204619304621",
+      "url": "https://doi.org/10.1016/j.landurbplan.2019.103706",
       "doi": "10.1016/j.landurbplan.2019.103706",
       "journal": "Landscape and Urban Planning",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 14:00:27"
+      "date_added": "2020-01-30 14:03:46"
     }
   },
   {
@@ -52,12 +52,12 @@
       "dataset-306"
     ],
     "original": {
-      "url": "https://www.fs.usda.gov/treesearch/pubs/59136",
+      "url": "https://doi.org/10.1016/j.ecolind.2019.105901",
       "doi": "10.1016/j.ecolind.2019.105901",
       "journal": "Ecological Indicators",
       "search_term": "National Land Cover Database",
       "pdf": "https://www.fs.fed.us/nrs/pubs/jrnl/2019/nrs_2019_ma_002.pdf",
-      "date_added": "2020-01-30 14:00:27"
+      "date_added": "2020-01-30 14:03:46"
     }
   },
   {
@@ -68,11 +68,11 @@
       "dataset-680"
     ],
     "original": {
-      "url": "https://www.sciencedirect.com/science/article/pii/S2351989419304573",
+      "url": "https://doi.org/10.1016/j.gecco.2019.e00869",
       "doi": "10.1016/j.gecco.2019.e00869",
       "journal": "Global Ecology and Conservation",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 14:00:27"
+      "date_added": "2020-01-30 14:03:46"
     }
   },
   {
@@ -86,7 +86,7 @@
       "doi": "10.1016/j.jag.2019.101947",
       "journal": "International Journal of Applied Earth Observation and Geoinformation",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 14:00:27"
+      "date_added": "2020-01-30 14:03:46"
     }
   },
   {
@@ -99,7 +99,7 @@
       "doi": "10.1016/j.ecolind.2019.105777",
       "journal": "Ecological Indicators",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 14:00:27"
+      "date_added": "2020-01-30 14:03:46"
     }
   },
   {
@@ -120,7 +120,7 @@
       "doi": "10.1016/j.scitotenv.2019.135005",
       "journal": "The Science of The Total Environment",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 14:00:27"
+      "date_added": "2020-01-30 14:03:46"
     }
   },
   {
@@ -136,7 +136,7 @@
       "doi": "10.1016/j.sste.2019.100317",
       "journal": "Spatial and Spatio-temporal Epidemiology",
       "search_term": "National Land Cover Database",
-      "date_added": "2020-01-30 14:00:27"
+      "date_added": "2020-01-30 14:03:46"
     }
   }
 ]
