@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Validation of Sentinel-3A/3B Satellite Altimetry Wave Heights with Buoy and Jason-3 Data",
+    "datasets": [
+      "dataset-668",
+      "dataset-727",
+      "dataset-729"
+    ],
+    "original": {
+      "journal": "Sensors",
+      "doi": "10.3390/s19132914",
+      "url": "https://www.mdpi.com/1424-8220/19/13/2914",
+      "pdf": "https://www.mdpi.com/1424-8220/19/13/2914/pdf",
+      "authors": "Jungang Yang, Jie Zhang",
+      "search_term": "National Data Buoy Center",
+      "date_added": "2020-01-27 16:48:41"
+    }
+  },
+  {
+    "title": "Ideal Buoy Location Data (Southern California)",
+    "datasets": [
+      "dataset-668"
+    ],
+    "original": {
+      "doi": "10.6084/m9.figshare.5051860.v1",
+      "url": "https://figshare.com/articles/Ideal_Buoy_Location_Data_Southern_California_/5051860",
+      "authors": "Ma, Vincent, Nguyen, Pauline, Famiglietti, Caroline, Martin, Vanesa",
+      "search_term": "National Data Buoy Center",
+      "date_added": "2020-01-27 16:48:41"
+    }
+  },
+  {
+    "title": "33 years of globally calibrated wave height and wind speed data based on altimeter observations",
+    "datasets": [
+      "dataset-668",
+      "dataset-736"
+    ],
+    "original": {
+      "journal": "Scientific Data",
+      "doi": "10.1038/s41597-019-0083-9",
+      "url": "http://europepmc.org/articles/PMC6541622",
+      "pdf": "https://www.nature.com/articles/s41597-019-0083-9.pdf",
+      "authors": "Ribal, Agustinus, Young, Ian R.",
+      "search_term": "National Data Buoy Center",
+      "date_added": "2020-01-27 16:48:41"
+    }
+  },
+  {
+    "title": "Resonant inertial oscillations in moored buoy ocean surface winds",
+    "datasets": [
+      "dataset-668"
+    ],
+    "original": {
+      "journal": "Tellus A",
+      "doi": "10.3402/tellusa.v56i5.14478",
+      "url": "http://www.tellusa.net/index.php/tellusa/article/view/14478",
+      "pdf": "https://www.tandfonline.com/doi/pdf/10.3402/tellusa.v56i5.14478?needAccess=true",
+      "authors": "Stockwell, R. G., Large, W. G., Milliff, R. F.",
+      "search_term": "National Data Buoy Center",
+      "date_added": "2020-01-27 16:48:41"
+    }
+  },
+  {
+    "title": "Changing Trends in Wave Heights in the U.S. Mid-Atlantic Region",
+    "datasets": [
+      "dataset-668"
+    ],
+    "original": {
+      "doi": "10.25777/8cx1-0v89",
+      "url": "http://dx.doi.org/10.25777/8cx1-0v89",
+      "pdf": "https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1032&context=cee_etds",
+      "authors": "Lane, Hillary",
+      "search_term": "National Data Buoy Center",
+      "date_added": "2020-01-27 16:48:41"
+    }
+  },
+  {
+    "title": "Assessment and Analysis of QuikSCAT Vector Wind Products for the Gulf of Mexico: A Long-Term and Hurricane Analysis",
+    "datasets": [
+      "dataset-668",
+      "dataset-737"
+    ],
+    "original": {
+      "journal": "Sensors",
+      "doi": "10.3390/s8031927",
+      "url": "http://www.mdpi.com/1424-8220/8/3/1927/",
+      "pdf": "https://www.mdpi.com/1424-8220/8/3/1927/pdf",
+      "authors": "Sharma, Neha, D'Sa, Eurico",
+      "search_term": "National Data Buoy Center",
+      "date_added": "2020-01-27 16:48:41"
+    }
+  }
+]
