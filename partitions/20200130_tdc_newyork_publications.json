@@ -1,0 +1,131 @@
+[
+  {
+    "title": "Implementation and Relative Impacts of Two Job Search Assistance Programs in New York City",
+    "datasets": [
+      "dataset-104"
+    ],
+    "original": {
+      "pdf": "https://www.acf.hhs.gov/sites/default/files/opre/jsa_nyc_report_final_to_acf_3_5_19_508.pdf",
+      "date_added": "2020-01-30 15:45:58"
+    }
+  },
+  {
+    "title": "Pilot Project to Assess Validation of EITC Eligibility with State Data",
+    "datasets": [
+      "dataset-065",
+      "dataset-084",
+      "dataset-133",
+      "dataset-573"
+    ],
+    "original": {
+      "pdf": "https://www.taxpolicycenter.org/sites/default/files/publication/157095/2000244-pilot-project-to-assess-validation-of-eitc-eligibility-with-state-data.pdf",
+      "date_added": "2020-01-30 15:45:58"
+    }
+  },
+  {
+    "title": "Connections Between TANF and SSI: Lessons from the TANF/SSI Disability Transition Project",
+    "datasets": [
+      "dataset-071",
+      "dataset-064",
+      "dataset-084",
+      "dataset-086",
+      "dataset-104",
+      "dataset-107",
+      "dataset-747"
+    ],
+    "original": {
+      "pdf": "https://www.acf.hhs.gov/sites/default/files/opre/tanf_ssi_project_summ_4_full_report.pdf",
+      "date_added": "2020-01-30 15:45:58"
+    }
+  },
+  {
+    "title": "Using Linked Survey and Administrative Data to Better Measure Income: Implications for Poverty, Program Effectiveness and Holes in the Safety Net",
+    "datasets": [
+      "dataset-062",
+      "dataset-104",
+      "dataset-831",
+      "dataset-047",
+      "dataset-832",
+      "dataset-073",
+      "dataset-080",
+      "dataset-200"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w21676",
+      "doi": "10.17848/wp15-242 ",
+      "pdf": "https://www.nber.org/papers/w21676.pdf",
+      "date_added": "2020-01-30 15:45:58"
+    }
+  },
+  {
+    "title": "Working Toward Self-Sufficiency: Early Findings from a Program for Housing Voucher Recipients in New York City",
+    "datasets": [
+      "dataset-104",
+      "dataset-192",
+      "dataset-834",
+      "dataset-835"
+    ],
+    "original": {
+      "pdf": "https://www.mdrc.org/sites/default/files/working-toward-self-sufficiency.pdf",
+      "date_added": "2020-01-30 15:45:58"
+    }
+  },
+  {
+    "title": "Toward Reduced Poverty Across Generations: Early Findings from New York City's Conditional Cash Transfer Program",
+    "datasets": [
+      "dataset-104",
+      "dataset-192",
+      "dataset-836",
+      "dataset-837",
+      "dataset-838"
+    ],
+    "original": {
+      "pdf": "https://www.mdrc.org/sites/default/files/FamRewards2010ONYC%20FULL%20Report%20REd%202-18-16.pdf",
+      "date_added": "2020-01-30 15:45:58"
+    }
+  },
+  {
+    "title": "ALCOHOL CONSUMPTION, DETERRENCE AND CRIME IN NEW YORK CITY",
+    "datasets": [
+      "dataset-839",
+      "dataset-840",
+      "dataset-104",
+      "dataset-436",
+      "dataset-841"
+    ],
+    "original": {
+      "pdf": "https://www.nber.org/papers/w18731.pdf",
+      "date_added": "2020-01-30 15:45:58"
+    }
+  },
+  {
+    "title": "Conditional Cash Transfers in New York City",
+    "datasets": [
+      "dataset-842",
+      "dataset-244",
+      "dataset-832",
+      "dataset-104",
+      "dataset-838"
+    ],
+    "original": {
+      "pdf": "https://www.mdrc.org/sites/default/files/Conditional_Cash_Transfers_FR%202-18-16.pdf",
+      "date_added": "2020-01-30 15:45:58"
+    }
+  },
+  {
+    "title": "Patterns of child care subsidy use and stability of subsidized care arrangements: Evidence from Illinois and New York",
+    "datasets": [
+      "dataset-845",
+      "dataset-223",
+      "dataset-751",
+      "dataset-181",
+      "dataset-182",
+      "dataset-104"
+    ],
+    "original": {
+      "doi": "10.1016/j.childyouth.2016.04.011",
+      "pdf": "http://www.sciencedirect.com/science/article/pii/S0190740916301232",
+      "date_added": "2020-01-30 15:45:58"
+    }
+  }
+]
