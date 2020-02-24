@@ -1,0 +1,505 @@
+[
+  {
+    "title": "Sediment accumulation, elevation change, and the vulnerability of tidal marshes in the Delaware Estuary and Barnegat Bay to accelerated sea level rise",
+    "datasets": [
+      "dataset-703"
+    ],
+    "original": {
+      "pdf": "https://www.biorxiv.org/content/10.1101/821827v1.full.pdf",
+      "notes": "different dataset than predicted",
+      "journal": "bioRxiv",
+      "search_term": "Tidal Datum",
+      "doi": "10.1101/821827",
+      "authors": "Haaf, LeeAnn, Watson, Elizabeth Burke, Elsey-Quirk, Tracy, Raper, Kirk, Padeletti, Angela, Maxwell-Doyle, Martha, Kreeger, Danielle, Velinsky, David",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Adjusting Emergent Herbaceous Wetland Elevation with Object-Based Image Analysis, Random Forest and the 2016 NLCD",
+    "datasets": [
+      "dataset-614",
+      "dataset-678",
+      "dataset-631"
+    ],
+    "original": {
+      "pdf": "https://www.mdpi.com/2072-4292/11/20/2346/pdf",
+      "journal": "Remote Sensing",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/rs11202346",
+      "authors": "Muñoz, David F., Cissell, Jordan R., Moftakhari, Hamed",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Tidal Distortions Related to Extreme Atmospheric Forcing Over the Inner Shelf",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019JC015021",
+      "journal": "Journal of Geophysical Research Oceans",
+      "search_term": "Tidal Datum",
+      "doi": "10.1029/2019jc015021",
+      "authors": "Paniagua‐Arroyave, Juan F., Valle‐Levinson, Arnoldo, Parra, Sabrina M., Adams, Peter N.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Insights into estuary habitat loss in the western United States using a new method for mapping maximum extent of tidal wetlands",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0218558&type=printable",
+      "journal": "PLoS ONE",
+      "search_term": "Tidal Datum",
+      "doi": "10.1371/journal.pone.0218558",
+      "authors": "Brophy, Laura S, Greene, Correigh M, Hare, Van C, Holycross, Brett, Lanier, Andy, Heady, Walter N, O'Connor, Kevin, Imaki, Hiroo, Haddad, Tanya, Dana, Randy",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Advancing barrier island habitat mapping using landscape position information",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/0309133319839922",
+      "journal": "Progress in Physical Geography Earth and Environment",
+      "search_term": "Tidal Datum",
+      "doi": "10.1177/0309133319839922",
+      "authors": "Enwright, Nicholas M, Wang, Lei, Borchert, Sinéad M, Day, Richard H, Feher, Laura C, Osland, Michael J",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Feedback of coastal marshes to climate change: Longterm phenological shifts",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.5215",
+      "journal": "Ecology and Evolution",
+      "search_term": "Tidal Datum",
+      "doi": "10.1002/ece3.5215",
+      "authors": "Mo, Yu, Kearney, Michael S., Turner, R. Eugene",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Evidence for frequent, large tsunamis spanning locked and creeping parts of the Aleutian megathrust",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://pubs.geoscienceworld.org/gsabulletin/article-pdf/131/5-6/707/4682836/707.pdf",
+      "journal": "Geological Society of America Bulletin",
+      "search_term": "Tidal Datum",
+      "doi": "10.1130/b32031.1",
+      "authors": "Witter, Rob, Briggs, Rich, Engelhart, Simon E., Gelfenbaum, Guy, Koehler, Rich D., Nelson, Alan, La Selle, SeanPaul, Corbett, Reide, Wallace, Kristi",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Examining Coastal Dynamics and Archaeological Site Evidence at a Drowned Cirque Basin Influenced by Earthquakes and Little Ice Age Glaciation",
+    "datasets": [
+      "dataset-614",
+      "dataset-703"
+    ],
+    "original": {
+      "pdf": "https://bioone.org/journalArticle/Download?fullDOI=10.2112%2FJCOASTRES-D-18-00074.1",
+      "journal": "Journal of Coastal Research",
+      "search_term": "Tidal Datum",
+      "doi": "10.2112/jcoastres-d-18-00074.1",
+      "authors": "Maio, Christopher V., Crowell, Aron L., Sullivan, Richard M., Buzard, Richard M., Whitley, Matthew A., Bogardus, Reyce C., de Wit, Cary W.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Modeling Barrier Island Habitats Using Landscape Position Information",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://www.mdpi.com/2072-4292/11/8/976/pdf",
+      "journal": "Remote Sensing",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/rs11080976",
+      "authors": "Enwright, Nicholas M., Wang, Lei, Wang, Hongqing, Osland, Michael J., Feher, Laura C., Borchert, Sinéad M., Day, Richard H.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "A Statistical Model for Frequency of Coastal Flooding in Honolulu, Hawaii, During the 21st Century",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JC014741",
+      "journal": "Journal of Geophysical Research Oceans",
+      "search_term": "Tidal Datum",
+      "doi": "10.1029/2018jc014741",
+      "authors": "Thompson, Philip R., Widlansky, Matthew J., Merrifield, Mark A., Becker, Janet M., Marra, John J.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Rising Sea Levels: Helping Decision-Makers Confront the Inevitable",
+    "datasets": [
+      "dataset-698"
+    ],
+    "original": {
+      "notes": "different dataset than predicted",
+      "journal": "Coastal Management",
+      "search_term": "Tidal Datum",
+      "doi": "10.1080/08920753.2019.1551012",
+      "authors": "Hall, John A., Weaver, Christopher P., Obeysekera, Jayantha, Crowell, Mark, Horton, Radley M., Kopp, Robert E., Marburger, John, Marcy, Douglas C., Parris, Adam, Sweet, William V., Veatch, William C., White, Kathleen D.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Modeling Tidal Datums and Spatially Varying Uncertainty in the Texas and Western Louisiana Coastal Waters",
+    "datasets": [
+      "dataset-614",
+      "dataset-714"
+    ],
+    "original": {
+      "pdf": "https://www.mdpi.com/2077-1312/7/2/44/pdf",
+      "journal": "Journal of Marine Science and Engineering",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/jmse7020044",
+      "authors": "Wu, Wei, Myers, Edward, Shi, Lei, Hess, Kurt, Michalski, Michael, White, Stephen",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "A Coherent Statistical Model for Coastal Flood Frequency Analysis Under Nonstationary Sea Level Conditions",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/products/pericles/releasedAssets/images/pdf-icon.png",
+      "journal": "Earth's Future",
+      "search_term": "Tidal Datum",
+      "doi": "10.1029/2018ef001089",
+      "authors": "Ghanbari, Mahshid, Arabi, Mazdak, Obeysekera, Jayantha, Sweet, William",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Salt marsh ecosystem restructuring enhances elevation resilience and carbon storage during accelerating relative sea-level rise",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0272771418306851/pdfft?md5=79a2adfceb2ebf1367e5c5d6bc96aeaf&pid=1-s2.0-S0272771418306851-main.pdf",
+      "journal": "Estuarine Coastal and Shelf Science",
+      "search_term": "Tidal Datum",
+      "doi": "10.1016/j.ecss.2018.11.003",
+      "authors": "Gonneea, Meagan Eagle, Maio, Christopher V., Kroeger, Kevin D., Hawkes, Andrea, Mora, Jordan, Sullivan, Richard, Madsen, Stephanie, Buzard, Richard M., Cahill, Niamh, Donnelly, Jeffrey P.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "The Spatial Variability of Organic Matter and Decomposition Processes at the Marsh Scale",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2017JG004211",
+      "journal": "Journal of Geophysical Research Biogeosciences",
+      "search_term": "Tidal Datum",
+      "doi": "10.1029/2017jg004211",
+      "authors": "Lalimi, F. Yousefi, Silvestri, S., D'Alpaos, A., Roner, M., Marani, M.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Timeintegrated habitat availability is a resource attribute that informs patterns of use in intertidal areas",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecm.1305",
+      "journal": "Ecological Monographs",
+      "search_term": "Tidal Datum",
+      "doi": "10.1002/ecm.1305",
+      "authors": "Calle, Leonardo, Green, Lauri, Strong, Allan, Gawlik, Dale E.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Tidal Datums with Spatially Varying Uncertainty in North-East Gulf of Mexico for VDatum Application",
+    "datasets": [
+      "dataset-614",
+      "dataset-714"
+    ],
+    "original": {
+      "pdf": "https://www.mdpi.com/2077-1312/6/4/114/pdf",
+      "journal": "Journal of Marine Science and Engineering",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/jmse6040114",
+      "authors": "Tang, Liujuan, Myers, Edward, Shi, Lei, Hess, Kurt, Carisio, Alison, Michalski, Michael, White, Stephen, Hoang, Cuong",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Adding to the toolbox for tidal-inundation mapping in estuarine areas",
+    "datasets": [
+      "dataset-614",
+      "dataset-756"
+    ],
+    "original": {
+      "pdf": "https://link.springer.com/content/pdf/10.1007%2Fs11852-018-0605-1.pdf",
+      "journal": "Journal of Coastal Conservation",
+      "search_term": "Tidal Datum",
+      "doi": "10.1007/s11852-018-0605-1",
+      "authors": "Flitcroft, Rebecca, Clinton, Patrick, Christiansen, Kelly",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "An Automated Model to Classify Barrier Island Geomorphology Using Lidar Data and Change Analysis (1998-2014)",
+    "datasets": [
+      "dataset-614",
+      "dataset-618"
+    ],
+    "original": {
+      "journal": "Remote Sensing",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/rs10071109",
+      "authors": "Halls, Joanne N., Frishman, Maria A., Hawkes, Andrea D.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Top-down and bottom-up controls on southern New England salt marsh crab populations",
+    "datasets": [
+      "dataset-614",
+      "dataset-726"
+    ],
+    "original": {
+      "journal": "PeerJ",
+      "search_term": "Tidal Datum",
+      "doi": "10.7717/peerj.4876",
+      "authors": "Raposa, Kenneth B., McKinney, Richard A., Wigand, Cathleen, Hollister, Jeffrey W., Lovall, Cassie, Szura, Katelyn, Gurak, John A., McNamee, Jason, Raithel, Christopher, Watson, Elizabeth B.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "The Impact of Lidar Elevation Uncertainty on Mapping Intertidal Habitats on Barrier Islands",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://www.mdpi.com/2072-4292/10/1/5/pdf",
+      "journal": "Remote Sensing",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/rs10010005",
+      "authors": "Enwright, Nicholas M., Wang, Lei, Borchert, Sinéad M., Day, Richard H., Feher, Laura C., Osland, Michael J.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "The intertidal zones of the South Atlantic Bight and their local and regional influence on astronomical tides",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S1463500317301294/pdfft?md5=985c3c44609d131cb4b3c9c65bf5aa0b&pid=1-s2.0-S1463500317301294-main.pdf",
+      "journal": "Ocean Modelling",
+      "search_term": "Tidal Datum",
+      "doi": "10.1016/j.ocemod.2017.09.002",
+      "authors": "Bacopoulos, Peter, Hagen, Scott C.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Sea Level Change and Coastal Climate Services: The Way Forward",
+    "datasets": [
+      "dataset-610"
+    ],
+    "original": {
+      "pdf": "https://www.mdpi.com/2077-1312/5/4/49/pdf",
+      "journal": "Journal of Marine Science and Engineering",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/jmse5040049",
+      "authors": "Le Cozannet, Gonéri, Nicholls, Robert J., Hinkel, Jochen, Sweet, William V., McInnes, Kathleen L., Van de Wal, Roderik S. W., Slangen, Aimée B. A., Lowe, Jason A., White, Kathleen D.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "South Florida's Encroachment of the Sea and Environmental Transformation over the 21st Century",
+    "datasets": [
+      "dataset-728"
+    ],
+    "original": {
+      "journal": "Journal of Marine Science and Engineering",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/jmse5030031",
+      "authors": "Park, Joseph, Stabenau, Erik, Redwine, Jed, Kotun, Kevin",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Effective inundation of continental United States communities with 21<sup>st</sup> century sea level rise",
+    "datasets": [
+      "dataset-703",
+      "dataset-696"
+    ],
+    "original": {
+      "pdf": "https://www.elementascience.org/articles/10.1525/elementa.234/galley/898/download/",
+      "journal": "Elementa: Science of the Anthropocene",
+      "search_term": "Tidal Datum",
+      "doi": "10.1525/elementa.234",
+      "authors": "Dahl, Kristina A., Spanger-Siegfried, Erika, Caldas, Astrid, Udvardy, Shana",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Applying a Bayesian network based on Gaussian copulas to model the hydraulic boundary conditions for hurricane flood risk analysis in a coastal watershed",
+    "datasets": [
+      "dataset-703"
+    ],
+    "original": {
+      "notes": "different dataset than predicted",
+      "journal": "Coastal Engineering",
+      "search_term": "Tidal Datum",
+      "doi": "10.1016/j.coastaleng.2017.03.008",
+      "authors": "Sebastian, A., Dupuits, E.J.C., Morales-Nápoles, O.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Winter storm intensity, hazards, and property losses in the New York tristate area",
+    "datasets": [
+      "dataset-614",
+      "dataset-621"
+    ],
+    "original": {
+      "pdf": "https://nyaspubs.onlinelibrary.wiley.com/doi/epdf/10.1111/nyas.13396",
+      "journal": "Annals of the New York Academy of Sciences",
+      "search_term": "Tidal Datum",
+      "doi": "10.1111/nyas.13396",
+      "authors": "Shimkus, Cari E., Ting, Mingfang, Booth, James F., Adamo, Susana B., Madajewicz, Malgosia, Kushnir, Yochanan, Rieder, Harald E.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Rapid escalation of coastal flood exposure in US municipalities from sea level rise",
+    "datasets": [
+      "dataset-618"
+    ],
+    "original": {
+      "pdf": "https://link.springer.com/content/pdf/10.1007%2Fs10584-017-1963-7.pdf",
+      "notes": "different dataset than predicted",
+      "journal": "Climatic Change",
+      "search_term": "Tidal Datum",
+      "doi": "10.1007/s10584-017-1963-7",
+      "authors": "Kulp, Scott, Strauss, Benjamin H.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Sea-level rise and coastal groundwater inundation and shoaling at select sites in California, USA",
+    "datasets": [
+      "dataset-614",
+      "dataset-631"
+    ],
+    "original": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S2214581815002050/pdfft?md5=cc6b2ad5c366df4a9d80dc1dbc7636ae&pid=1-s2.0-S2214581815002050-main.pdf",
+      "journal": "Journal of Hydrology Regional Studies",
+      "search_term": "Tidal Datum",
+      "doi": "10.1016/j.ejrh.2015.12.055",
+      "authors": "Hoover, Daniel J., Odigie, Kingsley O., Swarzenski, Peter W., Barnard, Patrick",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Sea level rise drives increased tidal flooding frequency at tide gauges along the U.S. East and Gulf Coasts: Projections for 2030 and 2045",
+    "datasets": [
+      "dataset-614",
+      "dataset-696"
+    ],
+    "original": {
+      "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0170949&type=printable",
+      "journal": "PLoS ONE",
+      "search_term": "Tidal Datum",
+      "doi": "10.1371/journal.pone.0170949",
+      "authors": "Dahl, Kristina A., Fitzpatrick, Melanie F., Spanger-Siegfried, Erika",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Tidal Datum Changes Induced by Morphological Changes of North Carolina Coastal Inlets",
+    "datasets": [
+      "dataset-614",
+      "dataset-714"
+    ],
+    "original": {
+      "pdf": "https://www.mdpi.com/2077-1312/4/4/79/pdf",
+      "journal": "Journal of Marine Science and Engineering",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/jmse4040079",
+      "authors": "Wang, Jindong, Myers, Edward",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Improvements for the Western North Atlantic, Caribbean and Gulf of Mexico ADCIRC Tidal Database (EC2015)",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "journal": "Journal of Marine Science and Engineering",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/jmse4040072",
+      "authors": "Szpilka, Christine, Dresback, Kendra, Kolar, Randall, Feyen, Jesse, Wang, Jindong",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Contributions of recent barometric pressure trends to rates of sea level rise in southeastern Massachusetts (USA)",
+    "datasets": [
+      "dataset-614",
+      "dataset-668",
+      "dataset-779"
+    ],
+    "original": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S2352485516301888/pdfft?md5=f150c493dcb34d4d94cc1285348db7ac&pid=1-s2.0-S2352485516301888-main.pdf",
+      "journal": "Regional Studies in Marine Science",
+      "search_term": "Tidal Datum",
+      "doi": "10.1016/j.rsma.2016.09.005",
+      "authors": "Smith, Stephen M.",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "Statistical Interpolation of Tidal Datums and Computation of Its Associated Spatially Varying Uncertainty",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://www.mdpi.com/2077-1312/4/4/64/pdf",
+      "journal": "Journal of Marine Science and Engineering",
+      "search_term": "Tidal Datum",
+      "doi": "10.3390/jmse4040064",
+      "authors": "Shi, Lei, Myers, Edward",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  },
+  {
+    "title": "The Impacts of Sea-Level Rise on Tidal Flooding in Boston, Massachusetts",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "pdf": "https://bioone.org/journalArticle/Download?fullDOI=10.2112%2FJCOASTRES-D-15-00100.1",
+      "journal": "Journal of Coastal Research",
+      "search_term": "Tidal Datum",
+      "doi": "10.2112/jcoastres-d-15-00100.1",
+      "authors": "Kruel, Stephanie",
+      "date_added": "2020-01-23 17:04:22"
+    }
+  }
+]

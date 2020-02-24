@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Adding to the toolbox for tidal-inundation mapping in estuarine areas.",
+    "datasets": [
+      "dataset-610",
+      "dataset-614"
+    ],
+    "original": {
+      "journal": "Journal of coastal conservation",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s11852-018-0605-1.pdf",
+      "authors": "Flitcroft, Rebecca, Clinton, Patrick, Christiansen, Kelly",
+      "doi": "10.1007/s11852-018-0605-1",
+      "search_term": "Tidal Datum",
+      "date_added": "2020-01-22 12:16:54"
+    }
+  },
+  {
+    "title": "High temporal resolution modeling of the impact of rain, tides, and sea level rise on water table flooding in the Arch Creek basin, Miami-Dade County Florida USA.",
+    "datasets": [
+      "dataset-703"
+    ],
+    "original": {
+      "notes": "matched different dataset",
+      "journal": "The Science of the total environment",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0048969717328814/pdfft?md5=73e5ac0c6974e7899049ecc0b84013bf&pid=1-s2.0-S0048969717328814-main.pdf",
+      "authors": "Sukop, Michael C, Rogers, Martina, Guannel, Greg, Infanti, Johnna M, Hagemann, Katherine",
+      "doi": "10.1016/j.scitotenv.2017.10.170",
+      "search_term": "Tidal Datum",
+      "date_added": "2020-01-22 12:16:54"
+    }
+  },
+  {
+    "title": "Upslope development of a tidal marsh as a function of upland land use.",
+    "datasets": [
+      "dataset-614"
+    ],
+    "original": {
+      "journal": "Global change biology",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.13398",
+      "authors": "Anisfeld, Shimon C, Cooper, Katharine R, Kemp, Andrew C",
+      "doi": "10.1111/gcb.13398",
+      "search_term": "Tidal Datum",
+      "date_added": "2020-01-22 12:16:54"
+    }
+  }
+]

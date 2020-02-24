@@ -1,0 +1,36 @@
+[
+  {
+    "title": "HOW MARGINAL TAX RATES AFFECT FAMILIES AT VARIOUS LEVELS OF POVERTY",
+    "datasets": [
+      "dataset-071",
+      "dataset-026",
+      "dataset-672"
+    ],
+    "original": {
+      "pdf": "https://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/412722-How-Marginal-Tax-Rates-Affect-Families-at-Various-Levels-of-Poverty.PDF",
+      "date_added": "2020-01-24 14:10:40"
+    }
+  },
+  {
+    "title": "The Dynamics of Women Disconnected from Employment and Welfare",
+    "datasets": [
+      "dataset-109"
+    ],
+    "original": {
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/665735",
+      "doi": "10.1086/665735",
+      "date_added": "2020-01-24 14:10:40"
+    }
+  },
+  {
+    "title": "Improving 24-Month Abstinence and Employment Outcomes for Substance-Dependent Women Receiving Temporary Assistance for Needy Families With Intensive Case Management",
+    "datasets": [
+      "dataset-109"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2622781/",
+      "doi": "10.2105/AJPH.2007.133553",
+      "date_added": "2020-01-24 14:10:40"
+    }
+  }
+]
