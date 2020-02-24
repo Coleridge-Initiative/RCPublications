@@ -700,5 +700,32 @@
       "notes": "manually collected",
       "date_added": "2019-12-13 09:24:51"
     }
+  },
+  {
+    "title": "Who’s teaching the teachers? Evidence from the national survey of postsecondary faculty and the survey of earned doctorates",
+    "datasets": [
+      "dataset-370",
+	  "dataset-207"
+    ],
+    "original": {
+      "journal": "American Journal of Education",
+      "dataset_title": "Survey of Earned Doctorates",
+      "doi": "10.1086/498997",
+      "notes": "manually collected",
+      "date_added": "2020-02-24 15:51:51"
+    }
+  },
+  {
+    "title": "Exploring the Faculty Pipeline in Educational Administration: Evidence from the Survey of Earned Doctorates, 1999 to 2000",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "journal": "SAGE Journal",
+      "dataset_title": "Survey of Earned Doctorates",
+      "doi": "10.1177/0013161X06293716",
+      "notes": "manually collected",
+      "date_added": "2020-02-24 15:51:51"
+    }
   }
 ]
