@@ -1,0 +1,369 @@
+[
+  {
+    "title": "Diversification and determinants of international credit portfolios: Evidence from German banks",
+    "datasets": [
+      "dataset-868"
+    ],
+    "original": {
+      "isbn": "978-3-86558-856-2",
+      "url": "http://hdl.handle.net/10419/65861",
+      "pdf": "https://www.econstor.eu/bitstream/10419/65861/1/729177734.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Unconventional Monetary Policy, Bank Lending, and Security Holdings: The Yield-Induced Portfolio Rebalancing Channel",
+    "datasets": [
+      "dataset-013",
+      "dataset-010"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/180675",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "The cross-section of firms over the business cycle: new facts and a DSGE exploration",
+    "datasets": [
+      "dataset-869"
+    ],
+    "original": {
+      "url": "https://ideas.repec.org/p/zbw/bubdp1/200917.html",
+      "repec": "RePEc:zbw:bubdp1:200917",
+      "pdf": "http://www.cesifo-group.de/DocDL/cesifo1_wp2810.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Consumer cash usage: A cross-country comparison with payment diary survey data",
+    "datasets": [
+      "dataset-004"
+    ],
+    "original": {
+      "isbn": "978-3-95729-037-3",
+      "url": "http://hdl.handle.net/10419/100037",
+      "pdf": "https://www.econstor.eu/bitstream/10419/100037/1/791673510.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Dynamic Q-investment functions for Germany using panel balance sheet data and a new algorithm for the capital stock at replacement values",
+    "datasets": [
+      "dataset-869"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19580",
+      "repec": "RePEc:zbw:bubdp1:4188",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19580/1/200223dkp.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Cyclicality of SME lending and government involvement in banks",
+    "datasets": [
+      "dataset-013",
+      "dataset-010"
+    ],
+    "original": {
+      "isbn": "978-3-95729-206-3",
+      "url": "http://hdl.handle.net/10419/123697",
+      "pdf": "https://www.econstor.eu/bitstream/10419/123697/1/841217971.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Does lowering dividend tax rates increase dividends repatriated?: evidence of intra-firm cross-border dividend repatriation policies by German Multinational Enterprises",
+    "datasets": [
+      "dataset-015",
+      "dataset-008"
+    ],
+    "original": {
+      "isbn": "978-3-86558-537-0",
+      "url": "http://hdl.handle.net/10419/27745",
+      "pdf": "https://www.econstor.eu/bitstream/10419/27745/1/607702656.PDF",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Determinants for using visible reserves in German banks: an empirical study",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "isbn": "978-3-86558-563-9",
+      "url": "http://hdl.handle.net/10419/28393",
+      "pdf": "https://www.econstor.eu/bitstream/10419/28393/1/610028421.PDF",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Earnings baths by bank CEOs during turnovers",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "isbn": "978-3-95729-015-1",
+      "url": "http://hdl.handle.net/10419/93086",
+      "pdf": "https://www.econstor.eu/bitstream/10419/93086/1/779710983.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "A Vectorautoregressive Investment Model (VIM) and Monetary Policy Transmission: Panel Evidence from German Firms",
+    "datasets": [
+      "dataset-869"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19592",
+      "repec": "RePEc:zbw:bubdp1:4201",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19592/1/200306dkp.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Great moderation at the firm level? Unconditional versus conditional output volatility",
+    "datasets": [
+      "dataset-869"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19724",
+      "repec": "RePEc:ces:ceswps:_2324",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19724/1/200813dkp.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Determinants of German FDI: New Evidence from Micro-Data",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19597",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19597/1/200309dkp.pdf",
+      "doi": "10.2139/ssrn.392681",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Quantifying the components of the banks' net interest margin",
+    "datasets": [
+      "dataset-006",
+      "dataset-013",
+      "dataset-010"
+    ],
+    "original": {
+      "isbn": "978-3-95729-041-0",
+      "url": "http://hdl.handle.net/10419/100036",
+      "pdf": "https://www.econstor.eu/bitstream/10419/100036/1/791674517.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Analyzing the interest rate risk of banks using time series of accounting-based data: evidence from Germany",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "isbn": "978-3-86558-388-8",
+      "url": "http://hdl.handle.net/10419/19778",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19778/1/200801dkp_b_.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "The credit quality channel: Modeling contagion in the interbank market",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "isbn": "978-3-95729-202-5",
+      "url": "http://hdl.handle.net/10419/122192",
+      "pdf": "https://www.econstor.eu/bitstream/10419/122192/1/83979701X.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Does capital regulation matter for bank behaviour? Evidence for German savings banks",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19730",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19730/1/200403dkp_b.pdf",
+      "doi": "10.2139/ssrn.493723",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Trade balances of the central and east European EU member states and the role of foreign direct investment",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19626",
+      "repec": "RePEc:zbw:bubdp1:4235",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19626/1/200541dkp.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Why do savings banks transform sight deposits into illiquid assets less intensively than the regulation allows?",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "isbn": "978-3-86558-503-5",
+      "url": "http://hdl.handle.net/10419/27688",
+      "pdf": "https://www.econstor.eu/bitstream/10419/27688/1/593866134.PDF",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Do all new brooms sweep clean? Evidence for outside bank appointments",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "isbn": "978-3-95729-393-0",
+      "url": "http://hdl.handle.net/10419/168589",
+      "pdf": "https://www.econstor.eu/bitstream/10419/168589/1/898458471.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Measurement matters: Input price proxies and bank efficiency in Germany",
+    "datasets": [
+      "dataset-013",
+      "dataset-010"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19734",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19734/1/200501dkp_b.pdf",
+      "doi": "10.2139/ssrn.700751",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Real estate markets and bank distress",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/27670",
+      "repec": "RePEc:zbw:bubdp2:7449",
+      "pdf": "https://www.econstor.eu/bitstream/10419/27670/1/200818dkp_b_.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Efficient, profitable and safe banking: an oxymoron? Evidence from a panel VAR approach",
+    "datasets": [
+      "dataset-013",
+      "dataset-010"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19761",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19761/1/200702dkp_b_.pdf",
+      "doi": "10.2139/ssrn.958509",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "How will Basel II affect bank lending to emerging markets? An analysis based on German bank level data",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19732",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19732/1/200405dkp_b.pdf",
+      "doi": "10.2139/ssrn.627842",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Stress testing of real credit portfolios",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/27669\"",
+      "repec": "RePEc:zbw:bubdp2:7448",
+      "pdf": "https://www.econstor.eu/bitstream/10419/27669/1/200817dkp_b_.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Relationship lending: empirical evidence for Germany",
+    "datasets": [
+      "dataset-006",
+      "dataset-005",
+      "dataset-869"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/45281",
+      "repec": "RePEc:ris:eibefr:2008_001",
+      "pdf": "https://www.econstor.eu/bitstream/10419/45281/1/65664401X.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "German bank lending to industrial and non-industrial countries: driven by fundamentals or different treatment?",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19741",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19741/1/200508dkp_b.pdf",
+      "doi": "10.2139/ssrn.791444",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Enterprises' financing structure and their response to monetary policy stimuli: An analysis based on the Deutsche Bundesbank's corporate balance sheet statistics",
+    "datasets": [
+      "dataset-869"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/107169",
+      "repec": "RePEc:zbw:bubdp1:199609e",
+      "pdf": "https://www.econstor.eu/bitstream/10419/107169/1/816593701.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Does co-financing by multilateral development banks increase \"risky\" direct investment in emerging markets",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19469",
+      "repec": "RePEc:zbw:bubdp1:1543",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19469/1/200402dkp.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Foreign Bank Entry into Emerging Economies: An Empirical Assessment of the Determinants and Risks Predicated on German FDI Data",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19468",
+      "repec": "RePEc:zbw:bubdp1:1542",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19468/1/200401dkp.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  },
+  {
+    "title": "Determinants of German Foreign Direct Investment in Latin American and Asian Emerging Markets in the 1990s",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10419/19599",
+      "repec": "RePEc:zbw:bubdp1:4208",
+      "pdf": "https://www.econstor.eu/bitstream/10419/19599/1/200311dkp.pdf",
+      "date_added": "2020-02-26 11:13:05"
+    }
+  }
+]
