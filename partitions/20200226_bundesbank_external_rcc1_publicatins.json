@@ -1,0 +1,508 @@
+[
+  {
+    "title": "Industries and the bank lending effects of bank credit demand and monetary policy in Germany",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19677/1/200648dkp.pdf",
+      "repec": "RePEc:zbw:bubdp1:5197",
+      "publisher": "METEOR, Maastricht University School of Business and Economics",
+      "rcc_pub_id": 2823,
+      "url": "https://ideas.repec.org/p/zbw/bubdp1/5197.html",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "The role of interbank relationships and liquidity needs",
+    "datasets": [
+      "dataset-013",
+      "dataset-005"
+    ],
+    "original": {
+      "pdf": "https://www.clevelandfed.org/~/media/content/newsroom%20and%20events/publications/working%20papers/2014/wp%201421%20the%20role%20of%20relationships%20and%20liquidity%20needs%20pdf.pdf",
+      "doi": "10.2139/ssrn.2023843",
+      "publisher": "Journal of Banking and Finance",
+      "rcc_pub_id": 2871,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2023843",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "The price of liquidity: bank characteristics and market conditions",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/26621/1/595167675.PDF",
+      "repec": "RePEc:zbw:bubdp1:7569",
+      "publisher": "Center for Economic Studies and Ifo Institute",
+      "rcc_pub_id": 2880,
+      "url": "http://hdl.handle.net/10419/26621",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Slippery slopes of stress: ordered failure events in German banking",
+    "datasets": [
+      "dataset-013",
+      "dataset-010"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19762/1/200703dkp_b_.pdf",
+      "doi": "10.1016/j.jfs.2007.04.003",
+      "publisher": "Journal of Financial Stability",
+      "rcc_pub_id": 2909,
+      "url": "http://hdl.handle.net/10419/19762",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Bank risk taking and competition: Evidence from regional banking markets",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/82625/1/768057302.pdf",
+      "doi": "10.1093/rof/rfu019",
+      "publisher": "Review of Finance",
+      "rcc_pub_id": 2911,
+      "url": "http://hdl.handle.net/10419/82625",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Accounting for distress in bank mergers",
+    "datasets": [
+      "dataset-013",
+      "dataset-010"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19742/1/200509dkp_b.pdf",
+      "doi": "10.1016/j.jbankfin.2006.12.009",
+      "publisher": "Journal of Banking & Finance",
+      "rcc_pub_id": 2913,
+      "url": "http://hdl.handle.net/10419/19742",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Evaluating the German bank merger wave",
+    "datasets": [
+      "dataset-013",
+      "dataset-010"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19745/1/200512dkp_b.pdf",
+      "doi": "10.2139/ssrn.726408",
+      "publisher": "Utrecht School of Economics",
+      "rcc_pub_id": 2914,
+      "url": "http://hdl.handle.net/10419/19745",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Export-Supporting FDI",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/27746/1/607703962.PDF",
+      "doi": "10.1111/caje.12061",
+      "publisher": "European University Institute",
+      "rcc_pub_id": 2922,
+      "url": "http://hdl.handle.net/1814/7164",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Banks' exposure to interest rate risk, their earnings from term transformation, and the dynamics of the term structure",
+    "datasets": [
+      "dataset-006",
+      "dataset-013"
+    ],
+    "original": {
+      "pdf": "ttps://www.econstor.eu/bitstream/10419/40693/1/635916479.pdf",
+      "doi": "10.1016/j.jbankfin.2010.08.003",
+      "publisher": "Journal of Banking & Finance",
+      "rcc_pub_id": 2926,
+      "url": "http://hdl.handle.net/10419/40693",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Which interest rate scenario is the worst one for a bank? Evidence from a tracking bank approach for German savings and cooperative banks",
+    "datasets": [
+      "dataset-013"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19784/1/200807dkp_b_.pdf",
+      "doi": "10.1504/IJBAAF.2008.020243",
+      "publisher": "International Journal of Banking Accounting and Finance",
+      "rcc_pub_id": 2927,
+      "url": "http://hdl.handle.net/10419/19784",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Banks' Interest Rate Risk and Search for Yield: A Theoretical Rationale and Some Empirical Evidence",
+    "datasets": [
+      "dataset-006",
+      "dataset-013",
+      "dataset-010"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/142700/1/862557410.pdf",
+      "doi": "10.1111/geer.12131",
+      "publisher": "German Economic Review",
+      "rcc_pub_id": 2931,
+      "url": "http://hdl.handle.net/10419/142700",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Do exposures to sagging real estate, subprime or conduits abroad lead to contraction and flight to quality in bank lending at home?",
+    "datasets": [
+      "dataset-006",
+      "dataset-013",
+      "dataset-005"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/110959/1/827483279.pdf",
+      "doi": "10.1093/rof/rfy011",
+      "publisher": "Review of Finance",
+      "rcc_pub_id": 2938,
+      "url": "http://hdl.handle.net/10419/110959",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Investment dispersion and the business cycle",
+    "datasets": [
+      "dataset-869"
+    ],
+    "original": {
+      "pdf": "https://www.nber.org/papers/w16861.pdf",
+      "doi": "10.3386/w16861",
+      "publisher": "National Bureau of Economic Research",
+      "rcc_pub_id": 2826,
+      "url": "https://www.nber.org/papers/w16861",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Margins of multinational labor substitution",
+    "datasets": [
+      "dataset-869",
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://escholarship.org/content/qt6b2236xm/qt6b2236xm.pdf?t=li5b08",
+      "doi": "10.1257/aer.100.5.1999",
+      "publisher": "American Economic Review",
+      "rcc_pub_id": 2834,
+      "url": "http://www.escholarship.org/uc/item/6b2236xm",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "he within-distribution business cycle dynamics of German firms",
+    "datasets": [
+      "dataset-869"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19658/1/200629dkp.pdf",
+      "doi": "10.1080/00036840802360120",
+      "publisher": "Applied Economics",
+      "rcc_pub_id": 2874,
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/00036840802360120",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Extra Credit: Bank Finance and Firm Export Status in Germany",
+    "datasets": [
+      "dataset-869",
+      "dataset-005"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/107657/1/776411764.pdf",
+      "doi": "10.1111/twec.12133",
+      "publisher": "The World Economy",
+      "rcc_pub_id": 2888,
+      "url": "http://hdl.handle.net/10419/107657",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Going multinational: What are the effects on home market performance?",
+    "datasets": [
+      "dataset-869",
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19631/1/200603dkp.pdf",
+      "doi": "10.1111/j.1468-0475.2009.00472.x",
+      "publisher": "German Economic Review",
+      "rcc_pub_id": 2903,
+      "url": "http://hdl.handle.net/10419/19631",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Creditor concentration: an empirical investigation",
+    "datasets": [
+      "dataset-006",
+      "dataset-005",
+      "dataset-869"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19774/1/200715dkp_b_.pdf",
+      "doi": "10.1016/j.euroecorev.2012.02.001",
+      "publisher": "European Economic Review",
+      "rcc_pub_id": 2939,
+      "url": "http://hdl.handle.net/10419/19774",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Transfer pricing as tax avoidance under different legislative schemes",
+    "datasets": [
+      "dataset-008",
+      "dataset-015"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/145929/1/VfS_2016_pid_7072.pdf",
+      "doi": "0.2139/ssrn.3164103",
+      "publisher": "Verein für Socialpolitik",
+      "rcc_pub_id": 2902,
+      "url": "http://hdl.handle.net/10419/145929",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "FDI and Domestic Investment: An Industry-Level View",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/94017/1/sfb-tr15-dp212.pdf",
+      "doi": "10.5282/ubm/epub.13340",
+      "publisher": "Sonderforschungsbereich/Transregio 15 Governance and the Efficiency of Economic Systems",
+      "rcc_pub_id": 2821,
+      "url": "http://hdl.handle.net/10419/94017",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Intercompany Loans and Profit Shifting 2013 Evidence from Company-Level Data",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/26004/1/538093242.PDF",
+      "repec": "RePEc:ces:ceswps:_1959",
+      "publisher": "Center for Economic Studies and Ifo Institute",
+      "rcc_pub_id": 2864,
+      "url": "http://hdl.handle.net/10419/26004",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "The impact of thin-capitalization rules on multinationals' financing and investment decisions",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19715/1/200803dkp.pdf",
+      "publisher": "Center for Economic Studies and Ifo Institute",
+      "rcc_pub_id": 2868,
+      "isbn": "978-3-86558-378-9",
+      "url": "http://hdl.handle.net/10419/19715",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Tax incentives and the location of FDI: evidence from a panel of German multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/24083/1/dp0476.pdf",
+      "doi": "10.1007/s10797-006-8721-5",
+      "publisher": "International Tax and Public Finance",
+      "rcc_pub_id": 2869,
+      "url": "https://doi.org/10.1007/s10797-006-8721-5",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "The organization of knowledge in multinational firms",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/121462/1/837897491.pdf",
+      "doi": "10.1093/jeea/jvx054",
+      "publisher": "Journal of the European Economic Association",
+      "rcc_pub_id": 2890,
+      "url": "https://academic.oup.com/jeea/article-abstract/16/6/1929/4904295",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "At Your Service! The Role of Tax Havens in International Trade with Services",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/113740/1/cesifo_wp5414.pdf",
+      "repec": "RePEc:ces:ceswps:_5414",
+      "publisher": "Center for Economic Studies and Ifo Institute",
+      "rcc_pub_id": 2894,
+      "url": "http://hdl.handle.net/10419/113740",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Who is afraid of political risk? Multinational firms and their choice of capital structure",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/94181/1/sfb-tr15-dp213.pdf",
+      "doi": "10.5282/ubm/epub.13339",
+      "publisher": "Sonderforschungsbereich/Transregio 15 Governance and the Efficiency of Economic Systems",
+      "rcc_pub_id": 2908,
+      "url": "http://hdl.handle.net/10419/94181",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Export-Supporting FDI",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/27746/1/607703962.PDF",
+      "doi": "10.1111/caje.12061",
+      "publisher": "European University Institute",
+      "rcc_pub_id": 2920,
+      "url": "http://hdl.handle.net/1814/7164",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Location Choice and Employment Decisions: A Comparison of German and Swedish Multinationals",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19516/1/200508dkp.pdf",
+      "doi": "10.1007/s10290-005-0052-6",
+      "publisher": "Review of World Economics",
+      "rcc_pub_id": 2936,
+      "url": "http://hdl.handle.net/10419/19516",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Taxes and the financial structure of German inward FDI",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/17807/1/kap1252.pdf",
+      "doi": "10.1007/s10290-005-0051-7",
+      "publisher": "Review of World Economics",
+      "rcc_pub_id": 2944,
+      "url": "http://hdl.handle.net/10419/17807",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Foreign (in)direct investment and corporate taxation",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/27640/1/200815dkp.pdf",
+      "doi": "10.1111/j.1540-5982.2011.01682.x",
+      "publisher": "Canadian Journal of Economics/Revue Canadienne d`Economique",
+      "rcc_pub_id": 2955,
+      "url": "https://ideas.repec.org/p/zbw/bubdp1/7555.html",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Profit shifting in the EU: Evidence from Germany",
+    "datasets": [
+      "dataset-008"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/26088/1/53834122X.PDF",
+      "doi": "10.1007/s10797-008-9068-x",
+      "publisher": "International Tax and Public Finance",
+      "rcc_pub_id": 2956,
+      "url": "http://hdl.handle.net/10419/26088",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Does diversification improve the performance of German banks? Evidence from individual bank loan portfolios",
+    "datasets": [
+      "dataset-006",
+      "dataset-005"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19752/1/200605dkp_b.pdf",
+      "doi": "10.1007/s10693-007-0017-0",
+      "publisher": "Journal of Financial Services Research",
+      "rcc_pub_id": 2893,
+      "url": "http://hdl.handle.net/10419/19752",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "How do banks adjust their capital ratios? Evidence from Germany",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/19765/1/200706dkp_b_.pdf",
+      "doi": "10.1016/j.jfi.2009.10.002",
+      "publisher": "Journal of Financial Intermediation",
+      "rcc_pub_id": 2928,
+      "url": "http://hdl.handle.net/10419/19765",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Banks' regulatory buffers, liquidity networks and monetary policy transmission",
+    "datasets": [
+      "dataset-006"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/3871/1/200606dkp_b.pdf",
+      "doi": "10.1080/00036840802360245",
+      "publisher": "Applied Economics",
+      "rcc_pub_id": 2932,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2793911",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  },
+  {
+    "title": "Sector concentration in loan portfolios and economic capital",
+    "datasets": [
+      "dataset-005"
+    ],
+    "original": {
+      "pdf": "https://www.econstor.eu/bitstream/10419/144318/1/wp105.pdf",
+      "doi": "10.2139/ssrn.1687615",
+      "publisher": "National Bank of Belgium",
+      "rcc_pub_id": 2876,
+      "url": "http://hdl.handle.net/10419/144318",
+      "date_added": "2020-02-26 11:18:14"
+    }
+  }
+]
