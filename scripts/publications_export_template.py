@@ -133,6 +133,7 @@ if __name__ == "__main__":
     is then published to RCPublications
     :1st param: CSV directory name  
     :2nd param: CSV file name
+    :3rd param: (optional) Partition name
     :return: None
     Example python publications_export_template.py csv_file_path csv_file_name
     """
