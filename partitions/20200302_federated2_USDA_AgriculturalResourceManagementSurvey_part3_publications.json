@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Agricultural Resource Management Survey and National Animal Health Monitoring System Data Analysis: Cow-Calf Case Study",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.22004/ag.econ.124577",
+      "search_term": "Agricultural Resource Management Survey",
+      "pdf": "https://ageconsearch.umn.edu/record/124577/files/poster%20323%20KJohnson.pdf",
+      "url": "http://dx.doi.org/10.22004/ag.econ.124577",
+      "api": "openaire",
+      "date_added": "2020-03-03 15:31:53"
+    }
+  },
+  {
+    "title": "Agricultural Resources and Environmental Indicators, 2012 Edition",
+    "datasets": [
+      "dataset-870",
+      "dataset-911",
+      "dataset-912",
+      "dataset-913",
+      "dataset-914",
+      "dataset-915",
+      "dataset-872",
+      "dataset-916",
+      "dataset-917"
+    ],
+    "original": {
+      "doi": "10.2139/ssrn.2141408",
+      "search_term": "Agricultural Resource Management Survey",
+      "pdf": "https://www.ers.usda.gov/webdocs/publications/44690/30351_eib98.pdf?v=0",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Agricultural%20Resources%20and%20Environmental%20Indicators%2C%202012%20Edition",
+      "api": "dimensions",
+      "date_added": "2020-03-03 15:31:53"
+    }
+  },
+  {
+    "title": "Agriculture's Supply and Demand for Energy and Energy Products",
+    "datasets": [
+      "dataset-870",
+      "dataset-918",
+      "dataset-919",
+      "dataset-913",
+      "dataset-894",
+      "dataset-920"
+    ],
+    "original": {
+      "doi": "10.2139/ssrn.2267323",
+      "search_term": "Agricultural Resource Management Survey",
+      "pdf": "https://pdfs.semanticscholar.org/bee7/6d3cec413a280c84170f2ad67491ecb67b6e.pdf",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Agriculture%27s%20Supply%20and%20Demand%20for%20Energy%20and%20Energy%20Products",
+      "api": "dimensions",
+      "date_added": "2020-03-03 15:31:53"
+    }
+  },
+  {
+    "title": "Agritourism and off-farm work: survival strategies for small farms",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.1111/agec.12130",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/agec.12130",
+      "api": "dimensions",
+      "date_added": "2020-03-03 15:31:53"
+    }
+  },
+  {
+    "title": "Agronomic and Economic Performance of Maize, Soybean, and Wheat in Different Rotations during the Transition to an Organic Cropping System",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.3390/agronomy8090192",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://www.mdpi.com/2073-4395/8/9/192/htm",
+      "api": "dimensions",
+      "date_added": "2020-03-03 15:31:53"
+    }
+  },
+  {
+    "title": "Agronomic Comparisons of Conventional and Organic Maize during the Transition to an Organic Cropping System",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.3390/agronomy8070113",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://www.mdpi.com/2073-4395/8/7/113/htm",
+      "api": "dimensions",
+      "date_added": "2020-03-03 15:31:53"
+    }
+  },
+  {
+    "title": "Air-quality-related health damages of maize",
+    "datasets": [
+      "dataset-870",
+      "dataset-784",
+      "dataset-898",
+      "dataset-872",
+      "dataset-910"
+    ],
+    "original": {
+      "doi": "10.1038/s41893-019-0261-y",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://www.nature.com/articles/s41893-019-0261-y",
+      "api": "dimensions",
+      "date_added": "2020-03-03 15:31:53"
+    }
+  },
+  {
+    "title": "AN ANALYSIS OF TAX-DEFERRED RETIREMENT SAVINGS OF FARM HOUSEHOLDS",
+    "datasets": [
+      "dataset-870",
+      "dataset-507"
+    ],
+    "original": {
+      "doi": "10.22004/ag.econ.22234",
+      "search_term": "Agricultural Resource Management Survey",
+      "pdf": "https://ageconsearch.umn.edu/record/22234/files/sp03mi01.pdf",
+      "url": "http://dx.doi.org/10.22004/ag.econ.22234",
+      "api": "openaire",
+      "date_added": "2020-03-03 15:31:53"
+    }
+  }
+]
