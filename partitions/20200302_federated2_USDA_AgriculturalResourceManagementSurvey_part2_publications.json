@@ -1,0 +1,103 @@
+[
+  {
+    "title": "A STOCHASTIC FRONTIER ANALYSIS TO EXAMINE RESEARCH PRIORITIES FOR GENETICALLY ENGINEERED PEANUTS",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.1017/aae.2015.10",
+      "url": "https://doi.org/10.1017/aae.2015.10",
+      "valid": "Yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A713AA6C1EBC2D228BA2B0E9B24C3287/S1074070815000103a.pdf/stochastic_frontier_analysis_to_examine_research_priorities_for_genetically_engineered_peanuts.pdf",
+      "date_added": "2020-03-03 15:40:50"
+    }
+  },
+  {
+    "title": "A Structural Model of US Corn Farmers' Pest Control Decisions: Rootworm Resistance in US Corn Fields",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.22004/ag.econ.205348",
+      "url": "http://dx.doi.org/10.22004/ag.econ.205348",
+      "valid": "Yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "openaire",
+      "date_added": "2020-03-03 15:40:50"
+    }
+  },
+  {
+    "title": "A Typology of Socioeconomic Disadvantage among Farm Operator Households: Assessment of Contributing Factors Using Evidence from a National Survey",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.1007/s11482-013-9214-1",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=A%20Typology%20of%20Socioeconomic%20Disadvantage%20among%20Farm%20Operator%20Households%3A%20Assessment%20of%20Contributing%20Factors%20Using%20Evidence%20from%20a%20National%20Survey",
+      "valid": "Yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s11482-013-9214-1.pdf",
+      "date_added": "2020-03-03 15:40:50"
+    }
+  },
+  {
+    "title": "Abstracts",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.1177/0885412219863199",
+      "url": "https://doi.org/10.1177/0885412219863199",
+      "valid": "Yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "date_added": "2020-03-03 15:40:50"
+    }
+  },
+  {
+    "title": "Accounting for complex entities: implications for ARMS",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.1108/00021461211250438",
+      "url": "https://doi.org/10.1108/00021461211250438",
+      "valid": "Yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "date_added": "2020-03-03 15:40:50"
+    }
+  },
+  {
+    "title": "Accumulating through food crisis? Farmers, commodity traders and the distributional politics of financialization",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.1080/09692290.2017.1304434",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Accumulating%20through%20food%20crisis%3F%20Farmers%2C%20commodity%20traders%20and%20the%20distributional%20politics%20of%20financialization",
+      "valid": "Yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/09692290.2017.1304434?needAccess=true",
+      "date_added": "2020-03-03 15:40:50"
+    }
+  },
+  {
+    "title": "Additionality in U.S. Agricultural Conservation and Regulatory Offset Programs",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.2139/ssrn.2502846",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Additionality%20in%20U.S.%20Agricultural%20Conservation%20and%20Regulatory%20Offset%20Programs",
+      "valid": "Yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "date_added": "2020-03-03 15:40:50"
+    }
+  }
+]
