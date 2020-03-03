@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Assessing the Effect of Calibration on Nonresponse Bias in the 2005 ARMS Phase III Sample Using 2002 Census of Agriculture Data",
+    "datasets": [
+      "dataset-870",
+      "dataset-881"
+    ],
+    "original": {
+      "valid": 1,
+      "doi": "10.22004/ag.econ.234306",
+      "pdf": "https://ageconsearch.umn.edu/record/234306/files/assessing%20the%20effect%20of%20calibration%20on%20nonresponse%20bias%20in%20the%202005%20arms%20phase%20iii%20sample%20using%202002%20census.pdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.234306",
+      "api": "openaire",
+      "date_added": "2020-03-03 17:14:49"
+    }
+  },
+  {
+    "title": "Assessing the Effect of Calibration on Nonresponse Bias in the 2006 ARMS Phase III Sample Using Census 2002 Data",
+    "datasets": [
+      "dataset-870",
+      "dataset-881"
+    ],
+    "original": {
+      "valid": 1,
+      "doi": "10.22004/ag.econ.234357",
+      "pdf": "https://ageconsearch.umn.edu/record/234357/files/assessing%20the%20effect%20of%20calibration%20on%20nonresponse%20bias%20in%20the%202006%20arms%20phase%20iii%20sample%20using%20census%202002%20data.pdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.234357",
+      "api": "openaire",
+      "date_added": "2020-03-03 17:14:49"
+    }
+  },
+  {
+    "title": "Assessing the Impact of Health Insurance and Other Socioeconomic Factors on Inequality in Health Care Expenditures among Farm Households",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "valid": 1,
+      "doi": "10.22004/ag.econ.200995",
+      "pdf": "https://ageconsearch.umn.edu/record/200995/files/ARER2015%2004%20ElOsta.pdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.200995",
+      "api": "openaire",
+      "date_added": "2020-03-03 17:14:49"
+    }
+  },
+  {
+    "title": "Assessing the Value of Grazed Corn Residue for Crop and Cattle Producers",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "valid": 1,
+      "doi": "10.2134/ael2018.12.0066",
+      "pdf": "https://acsess.onlinelibrary.wiley.com/doi/pdf/10.2134/ael2018.12.0066",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Assessing%20the%20Value%20of%20Grazed%20Corn%20Residue%20for%20Crop%20and%20Cattle%20Producers",
+      "api": "dimensions",
+      "date_added": "2020-03-03 17:14:49"
+    }
+  },
+  {
+    "title": "Beginning Farmers and Ranchers at a Glance",
+    "datasets": [
+      "dataset-870",
+      "dataset-881"
+    ],
+    "original": {
+      "valid": 1,
+      "doi": "10.2139/ssrn.2266443",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2266443&download=yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Beginning%20Farmers%20and%20Ranchers%20at%20a%20Glance",
+      "api": "dimensions",
+      "date_added": "2020-03-03 17:14:49"
+    }
+  },
+  {
+    "title": "Broiler Farms' Organization, Management, and Performance",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "valid": 1,
+      "doi": "10.22004/ag.econ.33739",
+      "pdf": "https://ageconsearch.umn.edu/record/33739/files/ai990748.pdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.33739",
+      "api": "openaire",
+      "date_added": "2020-03-03 17:14:49"
+    }
+  },
+  {
+    "title": "Can Education Be a Barrier to Technology Adoption?",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "valid": 1,
+      "doi": "10.22004/ag.econ.61630",
+      "pdf": "https://ageconsearch.umn.edu/record/61630/files/11158%20AAEA%20Education%20Paper.pdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.61630",
+      "api": "openaire",
+      "date_added": "2020-03-03 17:14:49"
+    }
+  },
+  {
+    "title": "Can machine learning improve prediction - an application with farm survey data",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "valid": 1,
+      "doi": "10.22004/ag.econ.284919",
+      "pdf": "https://ageconsearch.umn.edu/record/284919/files/Jennifer%20Ifft.pdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.284919",
+      "api": "openaire",
+      "date_added": "2020-03-03 17:14:49"
+    }
+  }
+]
