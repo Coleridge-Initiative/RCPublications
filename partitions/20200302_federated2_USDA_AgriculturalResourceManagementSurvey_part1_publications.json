@@ -1,0 +1,102 @@
+[
+  {
+    "title": "A Binary Logit Analysis of Factors Impacting Adoption of Genetically Modified Cotton",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.37140",
+      "doi": "10.22004/ag.econ.37140",
+      "api": "openaire",
+      "valid": "yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-03 14:00:58"
+    }
+  },
+  {
+    "title": "A Categorical Data Analysis on Risks in Agriculture",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.98839",
+      "doi": "10.22004/ag.econ.98839",
+      "api": "openaire",
+      "valid": "yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-03 14:00:58"
+    }
+  },
+  {
+    "title": "A Comparison of Farm and Nonfarm Households",
+    "datasets": [
+      "dataset-870",
+      "dataset-507"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.132757",
+      "doi": "10.22004/ag.econ.132757",
+      "api": "openaire",
+      "valid": "yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-03 14:00:58"
+    }
+  },
+  {
+    "title": "A Comparison of the Economic Well-Being of Farm and Nonfarm Households",
+    "datasets": [
+      "dataset-870",
+      "dataset-507"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10.1111/j.1467-8276.2007.01128.x",
+      "doi": "10.1111/j.1467-8276.2007.01128.x",
+      "api": "openaire",
+      "valid": "yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-03 14:00:58"
+    }
+  },
+  {
+    "title": "A New U.S. Farm Household Typology: Implications for Agricultural Subsidies",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.21175",
+      "doi": "10.22004/ag.econ.21175",
+      "api": "openaire",
+      "valid": "yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-03 14:00:58"
+    }
+  },
+  {
+    "title": "A Re-Examination of Multistage Economies in Hog Farming",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=A%20Re-Examination%20of%20Multistage%20Economies%20in%20Hog%20Farming",
+      "doi": "10.1515/jafio-2017-0033",
+      "api": "dimensions",
+      "valid": "yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-03 14:00:58"
+    }
+  },
+  {
+    "title": "A real options model to assess the role of flexibility in forestry and agroforestry adoption and disadoption in the Lower Mississippi Alluvial Valley",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=A%20real%20options%20model%20to%20assess%20the%20role%20of%20flexibility%20in%20forestry%20and%20agroforestry%20adoption%20and%20disadoption%20in%20the%20Lower%20Mississippi%20Alluvial%20Valley",
+      "doi": "10.1111/j.1574-0862.2012.00633.x",
+      "api": "dimensions",
+      "valid": "yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-03 14:00:58"
+    }
+  }
+]
