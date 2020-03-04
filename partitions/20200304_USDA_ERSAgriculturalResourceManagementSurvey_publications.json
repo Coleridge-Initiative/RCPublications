@@ -1,0 +1,248 @@
+[
+  {
+    "title": "Impact of Program Payments on Time Allocation and Farm Household Income",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.6296",
+      "doi": "10.22004/ag.econ.6296",
+      "pdf": "http://ageconsearch.umn.edu/record/6296/files/39030489.pdf",
+      "category": "overlap between APIs",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Measures of Farm Household Well-Being Tell Different Stories",
+    "datasets": [
+      "dataset-870",
+      "dataset-024"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.122157",
+      "doi": "10.22004/ag.econ.122157",
+      "category": "overlap between APIs",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "\"No-Till\" Farming Is a Growing Practice",
+    "datasets": [
+      "dataset-870",
+      "dataset-899"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.96636",
+      "doi": "10.22004/ag.econ.96636",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "A Predictive Analytics Understanding of Cooperative Membership Heterogeneity and Sustainability",
+    "datasets": [
+      "dataset-870",
+      "dataset-900"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.3390/su10062048",
+      "doi": "10.3390/su10062048",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Assessing nitrous oxide and nitrate leaching mitigation potential in US corn crop systems using the DNDC model",
+    "datasets": [
+      "dataset-640",
+      "dataset-901",
+      "dataset-680",
+      "dataset-881",
+      "dataset-902",
+      "dataset-870",
+      "dataset-903"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Assessing%20nitrous%20oxide%20and%20nitrate%20leaching%20mitigation%20potential%20in%20US%20corn%20crop%20systems%20using%20the%20DNDC%20model",
+      "doi": "10.1016/j.agsy.2019.05.005",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Carbon Dioxide Offsets from Anaerobic Digestion of Dairy Waste",
+    "datasets": [
+      "dataset-904",
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.126750",
+      "doi": "10.22004/ag.econ.126750",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Characteristics and Production Costs of U.S. Corn Farms, Including Organic, 2010",
+    "datasets": [
+      "dataset-905",
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.186730",
+      "doi": "10.22004/ag.econ.186730",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Characteristics and Production Costs of U.S. Cotton Farms, 2007",
+    "datasets": [
+      "dataset-905",
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.142358",
+      "doi": "10.22004/ag.econ.142358",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Estimating the uncertainty of modeled carbon sequestration: The GreenCertTM system",
+    "datasets": [
+      "dataset-881",
+      "dataset-901",
+      "dataset-694",
+      "dataset-902",
+      "dataset-894",
+      "dataset-903",
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Estimating%20the%20uncertainty%20of%20modeled%20carbon%20sequestration%3A%20The%20GreenCert%E2%84%A2%20system",
+      "doi": "10.1016/j.envsoft.2010.05.009",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Farm Household Income Volatility: An Analysis Using Panel Data From a National Survey",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.256710",
+      "doi": "10.22004/ag.econ.256710",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Farm Household Well-Being: Comparing Consumption- and Income-Based Measures",
+    "datasets": [
+      "dataset-870",
+      "dataset-062"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.58299",
+      "doi": "10.22004/ag.econ.58299",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Imputing for Missing Data in the ARMS Household Section: A Multivariate Imputation Approach",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.205291",
+      "doi": "10.22004/ag.econ.205291",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Measuring and Analyzing Farm Financial Stress",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.61528",
+      "doi": "10.22004/ag.econ.61528",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Milk Cost of Production Estimates for April, May, and June 2012",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.153394",
+      "doi": "10.22004/ag.econ.153394",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "Milk Cost of Production Estimates for January, February, and March 2012",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.153392",
+      "doi": "10.22004/ag.econ.153392",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  },
+  {
+    "title": "The Diverse Structure and Organization of U.S. Beef Cow-Calf Farms",
+    "datasets": [
+      "dataset-891",
+      "dataset-870",
+      "dataset-881"
+    ],
+    "original": {
+      "search_term": "ERS Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.102764",
+      "doi": "10.22004/ag.econ.102764",
+      "category": "unique hits",
+      "date_added": "2020-03-04 10:35:31"
+    }
+  }
+]
