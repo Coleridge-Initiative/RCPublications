@@ -1,0 +1,221 @@
+[
+  {
+    "title": "A Comparison of Data Collected through Farm Management Associations and the Agricultural Resource Management Survey",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.184680",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "unique hits",
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.184680",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "A Note on the Reliability Tests of Estimates from ARMS Data",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.31267",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "overlap between APIs",
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.31267",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "A Predictive Analytics Understanding of Cooperative Membership Heterogeneity and Sustainability",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.3390/su10062048",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "overlap between APIs",
+      "api": "openaire",
+      "doi": "10.3390/su10062048",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "Adoption of Cover Crops by U.S. Soybean Producers",
+    "datasets": [
+      "dataset-870",
+      "dataset-885",
+      "dataset-681"
+    ],
+    "original": {
+      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C21F7AD1428DA9BDE15410267DECEB7E/S1074070819000208a.pdf/adoption_of_cover_crops_by_us_soybean_producers.pdf",
+      "url": "https://doi.org/10.1017/aae.2019.20",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "unique hits",
+      "api": "dimensions",
+      "doi": "10.1017/aae.2019.20",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "Adoption of Cover Crops in Soybean Production",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.266576",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "unique hits",
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.266576",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "Adoption of nitrogen-efficient technologies by u.s. Corn farmers.",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "pdf": "https://acsess.onlinelibrary.wiley.com/doi/epdf/10.2134/jeq2014.02.0089",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/26023958",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "overlap between APIs",
+      "api": "pubmed",
+      "doi": "10.2134/jeq2014.02.0089",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "Adoption of Technology, Management Practices, and Production Systems by U.S. Beef Cow-Calf Producers",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CF89691FE6FBE5C289B83C155FE42C0F/S1074070800000274a.pdf/adoption_of_technology_management_practices_and_production_systems_by_us_beef_cowcalf_producers.pdf",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Adoption%20of%20Technology%2C%20Management%20Practices%2C%20and%20Production%20Systems%20by%20U.S.%20Beef%20Cow-Calf%20Producers",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "unique hits",
+      "api": "dimensions",
+      "doi": "10.1017/s1074070800000274",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "Anaerobic Digester Production and Cost Functions",
+    "datasets": [
+      "dataset-870",
+      "dataset-886"
+    ],
+    "original": {
+      "pdf": "https://reader.elsevier.com/reader/sd/pii/S0921800918305500?token=0C32846ABBBFFEFAFDD47862B1962C05DCCD6BE57456ABD099DC54F5218388283A47F9E3C6FF97AE20630893FD0CDFFD",
+      "url": "https://doi.org/10.1016/j.ecolecon.2018.06.013",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "unique hits",
+      "api": "dimensions",
+      "doi": "10.1016/j.ecolecon.2018.06.013",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "ARMS Respondent Errors: A Case of Farm Service Agency Loans",
+    "datasets": [
+      "dataset-870",
+      "dataset-898"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.235908",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "unique hits",
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.235908",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "Carbon Dioxide Offsets from Anaerobic Digestion of Dairy Waste",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.126750",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "unique hits",
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.126750",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "Computerized Technology Adoption Among Farms in the U.S. Dairy Industry",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.189866",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "overlap between APIs",
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.189866",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "Corn Residue Use by Livestock in the United States",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://doi.org/10.2134/ael2016.10.0043",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "unique hits",
+      "api": "dimensions",
+      "doi": "10.2134/ael2016.10.0043",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "Decomposition of Total Factor Productivity Change in the U.S. Hog Industry",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C6DC2CD4924936360D73106D76FA008C/S1074070800028029a.pdf/decomposition_of_total_factor_productivity_change_in_the_us_hog_industry.pdf",
+      "url": "https://doi.org/10.1017/s1074070800028029",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "unique hits",
+      "api": "dimensions",
+      "doi": "10.1017/s1074070800028029",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  },
+  {
+    "title": "Did the Federal Crop Insurance Reform Act Alter Farm Enterprise Diversification?",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Did%20the%20Federal%20Crop%20Insurance%20Reform%20Act%20Alter%20Farm%20Enterprise%20Diversification%3F",
+      "part": "part_1",
+      "search_term": "USDA Agricultural Resource Management Survey",
+      "category": "unique hits",
+      "api": "dimensions",
+      "doi": "10.1111/j.1477-9552.2008.00166.x",
+      "date_added": "2020-03-02 15:12:49"
+    }
+  }
+]

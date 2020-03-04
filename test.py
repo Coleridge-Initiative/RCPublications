@@ -81,6 +81,16 @@ class TestVerifyPublications (unittest.TestCase):
                     raise Exception("{}:\n missing required fields\n{}".format(pub["title"], partition))
 
 
+    def test_dataset_keys (self):
+        for partition, publications in self.publications.items():
+            for pub in publications:
+                for dataset_key in pub["datasets"]:
+                    prefix, number = dataset_key.split("-")
+
+                    if prefix != "dataset" or not number.isnumeric():
+                        raise Exception("{}:\n bad dataset key |{}|\n{}".format(pub["title"], dataset_key, partition))
+
+
     def test_has_valid_url (self):
         for partition, publications in self.publications.items():
             for pub in publications:
