@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Dairy Resource Management: A Comparison of Conventional and Pasture-Based Systems",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.22004/ag.econ.34814",
+      "url": "http://dx.doi.org/10.22004/ag.econ.34814",
+      "api": "openaire",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  },
+  {
+    "title": "Debt Use by U.S Farm Businesses, 1992-2011",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.2139/ssrn.2503453",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Debt%20Use%20by%20U.S%20Farm%20Businesses%2C%201992-2011",
+      "api": "dimensions",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  },
+  {
+    "title": "DECOMPOSITION OF VARIABILITY IN ASSETS AND DEBT OF FARM HOUSEHOLDS IN THE U.S.",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.22004/ag.econ.20608",
+      "url": "http://dx.doi.org/10.22004/ag.econ.20608",
+      "api": "openaire",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  },
+  {
+    "title": "Decomposition of Variability in Farm Household Assets and Debt",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.22004/ag.econ.59682",
+      "url": "http://dx.doi.org/10.22004/ag.econ.59682",
+      "api": "openaire",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  },
+  {
+    "title": "Decoupled Direct Payments under Base Acreage and Yield Updating Uncertainty: An Investigation of Agricultural Chemical Use",
+    "datasets": [
+      "dataset-870",
+      "dataset-894"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.1017/s1068280500003324",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Decoupled%20Direct%20Payments%20under%20Base%20Acreage%20and%20Yield%20Updating%20Uncertainty%3A%20An%20Investigation%20of%20Agricultural%20Chemical%20Use",
+      "api": "dimensions",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  },
+  {
+    "title": "DECOUPLED PAYMENTS IN A CHANGING POLICY SETTING",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.22004/ag.econ.33981",
+      "url": "http://dx.doi.org/10.22004/ag.econ.33981",
+      "api": "openaire",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  },
+  {
+    "title": "Decoupling direct payments: potential impacts of the 2014 farm bill on farm debt",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.1108/afr-05-2015-0023",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Decoupling%20direct%20payments%3A%20potential%20impacts%20of%20the%202014%20farm%20bill%20on%20farm%20debt",
+      "api": "dimensions",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  },
+  {
+    "title": "Determinants of dairy farmers' participation in the Milk Income Loss Contract program",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.3168/jds.2011-4542",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Determinants%20of%20dairy%20farmers%E2%80%99%20participation%20in%20the%20Milk%20Income%20Loss%20Contract%20program",
+      "api": "dimensions",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  },
+  {
+    "title": "DETERMINANTS OF DECISIONS TO ENTER THE U.S. FARMING SECTOR",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.1017/aae.2015.25",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=DETERMINANTS%20OF%20DECISIONS%20TO%20ENTER%20THE%20U.S.%20FARMING%20SECTOR",
+      "api": "dimensions",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  },
+  {
+    "title": "Determinants of Farm Household Income Diversification in the United States: Evidence from Farm-Level Data",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.22004/ag.econ.61632",
+      "url": "http://dx.doi.org/10.22004/ag.econ.61632",
+      "api": "openaire",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  },
+  {
+    "title": "Determinants of Poverty among U.S. Farm Households",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "doi": "10.22004/ag.econ.45037",
+      "url": "http://purl.umn.edu/45037",
+      "api": "openaire",
+      "date_added": "2020-03-04 15:24:47"
+    }
+  }
+]
