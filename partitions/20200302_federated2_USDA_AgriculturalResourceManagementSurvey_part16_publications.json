@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Impact of farm programs on farm households in the US",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "url": "https://doi.org/10.1016/j.jpolmod.2017.04.001",
+      "doi": "10.1016/j.jpolmod.2017.04.001",
+      "valid": "Yes",
+      "date_added": "2020-03-05 13:59:03"
+    }
+  },
+  {
+    "title": "Impact of taxation in agriculture: Literature review",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "pdf": "https://www.oecd-ilibrary.org/docserver/073bdf99-en.pdf?expires=1583431525&id=id&accname=ocid177380&checksum=FF89DD660E838AB9914B87232C4D15E8",
+      "url": "https://doi.org/10.1787/0001121d-en",
+      "doi": "10.1787/0001121d-en",
+      "valid": "Yes",
+      "date_added": "2020-03-05 13:59:03"
+    }
+  },
+  {
+    "title": "Impacts of Microbial Inoculants as Integrated Pest Management Tools in Apple Production",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F51D0D67D39D4790107BC5A29AE42D5C/S1074070800005186a.pdf/impacts_of_microbial_inoculants_as_integrated_pest_management_tools_in_apple_production.pdf",
+      "url": "https://doi.org/10.1017/s1074070800005186",
+      "doi": "10.1017/s1074070800005186",
+      "valid": "Yes",
+      "date_added": "2020-03-05 13:59:03"
+    }
+  },
+  {
+    "title": "Implications of Health Care Reform for Farm Businesses and Families",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "url": "https://doi.org/10.1093/aepp/ppu030",
+      "doi": "10.1093/aepp/ppu030",
+      "valid": "Yes",
+      "date_added": "2020-03-05 13:59:03"
+    }
+  },
+  {
+    "title": "Improvements in on-farm resource stewardship with profitable information technologies in rice production",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/21606544.2018.1561329?needAccess=true",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Improvements%20in%20on-farm%20resource%20stewardship%20with%20profitable%20information%20technologies%20in%20rice%20production",
+      "doi": "10.1080/21606544.2018.1561329",
+      "valid": "Yes",
+      "date_added": "2020-03-05 13:59:03"
+    }
+  },
+  {
+    "title": "Imputation in High-Dimensional Economic Data as Applied to the Agricultural Resource Management Survey",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.2012.734158?needAccess=true",
+      "url": "https://doi.org/10.1080/01621459.2012.734158",
+      "doi": "10.1080/01621459.2012.734158",
+      "valid": "Yes",
+      "date_added": "2020-03-05 13:59:03"
+    }
+  },
+  {
+    "title": "Including Ecosystem Services in Life Cycle Assessment: Methodology and Application to Urban Farms",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "url": "https://doi.org/10.1016/j.procir.2018.12.004",
+      "doi": "10.1016/j.procir.2018.12.004",
+      "valid": "Yes",
+      "date_added": "2020-03-05 13:59:03"
+    }
+  },
+  {
+    "title": "Income Stabilization Through Government Payments: How Is Farm Household Consumption Affected?",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.49863",
+      "doi": "10.22004/ag.econ.49863",
+      "valid": "Yes",
+      "date_added": "2020-03-05 13:59:03"
+    }
+  },
+  {
+    "title": "Indirect Monetary Incentives for the 2004 ARMS Phase III Core",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.234265",
+      "doi": "10.22004/ag.econ.234265",
+      "valid": "Yes",
+      "date_added": "2020-03-05 13:59:03"
+    }
+  }
+]
