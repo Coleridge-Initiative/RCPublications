@@ -1,0 +1,73 @@
+[
+  {
+    "title": "AN IDENTIFICATION APPROACH OF TECHNICALLY EFFICIENT CATEGORY FOR CONTROLLABLE, CATEGORICAL FACTORS IN PRODUCTION AND AN APPLICATION TO A PRODUCTION PROCESS",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://www.worldscinet.com/cgi-bin/details.cgi?type=pdf&id=pii:S0217595913500127",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "openaire",
+      "doi": "10.1142/S0217595913500127",
+      "valid": "yes",
+      "date_added": "2020-03-04 13:40:18"
+    }
+  },
+  {
+    "title": "Analysis of Market Segmentation in Farm Credit Markets",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.132407",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.132407",
+      "valid": "yes",
+      "date_added": "2020-03-04 13:40:18"
+    }
+  },
+  {
+    "title": "Analysis of Participation in Multifunctional Agriculture: U.S. Rice Farms",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.119768",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.119768",
+      "valid": "yes",
+      "date_added": "2020-03-04 13:40:18"
+    }
+  },
+  {
+    "title": "Assessing participation in the Milk Income Loss Contract program and its impact on milk production",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Assessing%20participation%20in%20the%20Milk%20Income%20Loss%20Contract%20program%20and%20its%20impact%20on%20milk%20production",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "dimensions",
+      "doi": "10.1016/j.jpolmod.2012.04.004",
+      "valid": "yes",
+      "date_added": "2020-03-04 13:40:18"
+    }
+  },
+  {
+    "title": "Assessing structural change in agriculture with a parametric Markov chain model. Illustrative applications to EU-15 and the USA",
+    "datasets": [
+      "dataset-870",
+      "dataset-922"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.114668",
+      "search_term": "Agricultural Resource Management Survey",
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.114668",
+      "valid": "yes",
+      "date_added": "2020-03-04 13:40:18"
+    }
+  }
+]
