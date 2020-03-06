@@ -1,0 +1,90 @@
+[
+  {
+    "title": "How do financially vulnerable farms finance debt in periods of falling prices?",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "pdf": "https://www.emerald.com/insight/content/doi/10.1108/AFR-08-2017-0066/full/pdf?title=how-do-financially-vulnerable-farms-finance-debt-in-periods-of-falling-prices",
+      "doi": "10.1108/afr-08-2017-0066",
+      "valid": 1,
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=How%20do%20financially%20vulnerable%20farms%20finance%20debt%20in%20periods%20of%20falling%20prices%3F",
+      "date_added": "2020-03-05 11:05:34"
+    }
+  },
+  {
+    "title": "How much Do Decoupled Payments Affect Production? An Instrumental Variable Approach with Panel Data",
+    "datasets": [
+      "dataset-871"
+    ],
+    "original": {
+      "api": "dimensions",
+      "doi": "10.1093/ajae/aar134",
+      "valid": 1,
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=How%20much%20Do%20Decoupled%20Payments%20Affect%20Production%3F%20An%20Instrumental%20Variable%20Approach%20with%20Panel%20Data",
+      "date_added": "2020-03-05 11:05:34"
+    }
+  },
+  {
+    "title": "Do Direct Payments Distort Producers' Decisions? An Examination of the Farm Security and Rural Investment Act of 2002",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "cited by a publication",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1093/aepp/ppp005",
+      "doi": "10.1093/aepp/ppp005",
+      "valid": 1,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1093/aepp/ppp005",
+      "date_added": "2020-03-05 11:05:34"
+    }
+  },
+  {
+    "title": "Immigration Policy and its Possible Effects on U.S. Agriculture and the Market for Hired Farm Labor: A Simulation Analysis",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1093/ajae/aar082",
+      "doi": "10.1093/ajae/aar082",
+      "valid": 1,
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Immigration%20Policy%20and%20its%20Possible%20Effects%20on%20U.S.%20Agriculture%20and%20the%20Market%20for%20Hired%20Farm%20Labor%3A%20A%20Simulation%20Analysis",
+      "date_added": "2020-03-05 11:05:34"
+    }
+  },
+  {
+    "title": "Impact of atrazine prohibition on the sustainability of weed management in Wisconsin maize production",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/ps.4298",
+      "doi": "10.1002/ps.4298",
+      "valid": 1,
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Impact%20of%20atrazine%20prohibition%20on%20the%20sustainability%20of%20weed%20management%20in%20Wisconsin%20maize%20production",
+      "date_added": "2020-03-05 11:05:34"
+    }
+  },
+  {
+    "title": "Impact of environmental policies on the adoption of manure management practices in the Chesapeake Bay watershed",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0301479713004428/pdfft?md5=c9132a227c30605564fa767b94632fd4&pid=1-s2.0-S0301479713004428-main.pdf",
+      "doi": "10.1016/j.jenvman.2013.06.039",
+      "valid": 1,
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Impact%20of%20environmental%20policies%20on%20the%20adoption%20of%20manure%20management%20practices%20in%20the%20Chesapeake%20Bay%20watershed",
+      "date_added": "2020-03-05 11:05:34"
+    }
+  }
+]

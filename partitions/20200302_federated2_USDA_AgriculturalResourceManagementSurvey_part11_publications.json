@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Effects of Manure Use and Use Restrictions on Variable Production Costs and Net Incomes for United States Corn Producers",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.1017/s1074070800000183",
+      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7E3E96003615877912229FE6863D57A4/S1074070800000183a.pdf/effects_of_manure_use_and_use_restrictions_on_variable_production_costs_and_net_incomes_for_united_states_corn_producers.pdf",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Effects%20of%20Manure%20Use%20and%20Use%20Restrictions%20on%20Variable%20Production%20Costs%20and%20Net%20Incomes%20for%20United%20States%20Corn%20Producers",
+      "api": "dimensions",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": 1,
+      "date_added": "2020-03-05 16:23:02"
+    }
+  },
+  {
+    "title": "Evaluating financial stress and performance of beginning farmers during the agricultural downturn",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "notes": "this article inks to others using dataset-870",
+      "doi": "10.1108/afr-08-2017-0074",
+      "pdf": "https://www.emerald.com/insight/content/doi/10.1108/AFR-08-2017-0074/full/pdf?title=evaluating-financial-stress-and-performance-of-beginning-farmers-during-the-agricultural-downturn",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Evaluating%20financial%20stress%20and%20performance%20of%20beginning%20farmers%20during%20the%20agricultural%20downturn",
+      "api": "dimensions",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": 1,
+      "date_added": "2020-03-05 16:23:02"
+    }
+  }
+]
