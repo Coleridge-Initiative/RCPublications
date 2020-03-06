@@ -4,3 +4,4 @@
 .RHistory
 *~
 __pycache__
+/venv/
