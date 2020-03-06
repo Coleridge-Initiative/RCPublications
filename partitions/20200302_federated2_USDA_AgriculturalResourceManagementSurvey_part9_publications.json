@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Development of a Cropland Management Dataset to Support U.S. Swat Assessments",
+    "datasets": [
+      "dataset-870",
+      "dataset-903",
+      "dataset-694",
+      "dataset-306",
+      "dataset-680",
+      "dataset-631"
+    ],
+    "original": {
+      "api": "dimensions",
+      "doi": "10.1111/1752-1688.12384",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Development%20of%20a%20Cropland%20Management%20Dataset%20to%20Support%20U.S.%20Swat%20Assessments",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Differences across farm typologies in capital investment during 1996-2013",
+    "datasets": [
+      "dataset-870",
+      "dataset-058"
+    ],
+    "original": {
+      "api": "dimensions",
+      "doi": "10.1108/afr-01-2017-0002",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Differences%20across%20farm%20typologies%20in%20capital%20investment%20during%201996-2013",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Dimensions of Wealth Dispersion Among Farm Operator Households: An Assessment of the Impact of Farm Subsidies",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.43733",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.43733",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Direct Payments, Cash Rents, Land Values, and the Effects of Imputation in U.S. Farm-level Data",
+    "datasets": [
+      "dataset-870",
+      "dataset-881"
+    ],
+    "original": {
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.188002, 10.1017/s1068280500005542",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.190997",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Disadoption of conservation practices: cases of injecting manure and soil testing",
+    "datasets": [
+      "dataset-870",
+      "dataset-881"
+    ],
+    "original": {
+      "api": "dimensions",
+      "doi": "10.1080/09640568.2019.1661832",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Disadoption%20of%20conservation%20practices%3A%20cases%20of%20injecting%20manure%20and%20soil%20testing",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Distribution of Support and Income in Agriculture",
+    "datasets": [
+      "dataset-870",
+      "dataset-922",
+      "dataset-906"
+    ],
+    "original": {
+      "api": "dimensions",
+      "doi": "10.1787/5kgch21wkmbx-en",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Distribution%20of%20Support%20and%20Income%20in%20Agriculture",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Distributional Impacts of the Tax Cuts and Jobs Act Using Farm Household Microdata",
+    "datasets": [
+      "dataset-870",
+      "dataset-058"
+    ],
+    "original": {
+      "api": "dimensions",
+      "doi": "10.1093/aepp/ppz012",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Distributional%20Impacts%20of%20the%20Tax%20Cuts%20and%20Jobs%20Act%20Using%20Farm%20Household%20Microdata",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Do Campaign Contributions from Farmers Influence Agricultural Policy? Evidence from a 2008 Farm Bill Amendment Vote to Curtail Cotton Subsidies",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "doi": "10.1017/aae.2019.9",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Do%20Campaign%20Contributions%20from%20Farmers%20Influence%20Agricultural%20Policy%3F%20Evidence%20from%20a%202008%20Farm%20Bill%20Amendment%20Vote%20to%20Curtail%20Cotton%20Subsidies",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Do farm operators benefit from direct to consumer marketing strategies?",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "doi": "10.1111/agec.12042",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Do%20farm%20operators%20benefit%20from%20direct%20to%20consumer%20marketing%20strategies%3F",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Do farmers manage weeds on owned and rented land differently? Evidence from U.S. corn and soybean farms",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "doi": "10.1002/ps.5737",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Do%20farmers%20manage%20weeds%20on%20owned%20and%20rented%20land%20differently%3F%20Evidence%20from%20U.S.%20corn%20and%20soybean%20farms",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Do Most U.S. Farms Really Lose Money? Taxation and Farm Income Underreporting",
+    "datasets": [
+      "dataset-870",
+      "dataset-573"
+    ],
+    "original": {
+      "api": "dimensions",
+      "doi": "10.1017/aae.2019.26",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Do%20Most%20U.S.%20Farms%20Really%20Lose%20Money%3F%20Taxation%20and%20Farm%20Income%20Underreporting",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  },
+  {
+    "title": "Do nutrient management plans actually manage nutrients? Evidence from a nationally-representative survey of hog producers",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "openaire",
+      "doi": "10.22004/ag.econ.235681",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.235681",
+      "date_added": "2020-03-06 14:01:43"
+    }
+  }
+]
