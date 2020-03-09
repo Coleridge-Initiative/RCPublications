@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Targeted Data Collection Efforts for the 2012 ARMS III",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.234303",
+      "doi": "10.22004/ag.econ.234303",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "api": "openaire",
+      "date_added": "2020-03-09 16:31:09"
+    }
+  },
+  {
+    "title": "Targeted Data Collection Efforts for the 2013 ARMS III",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.234304",
+      "doi": "10.22004/ag.econ.234304",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "api": "openaire",
+      "date_added": "2020-03-09 16:31:09"
+    }
+  },
+  {
+    "title": "Tax policy and farm capital investment: Section 179 expensing and bonus depreciation",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Tax%20policy%20and%20farm%20capital%20investment%3A%20Section%20179%20expensing%20and%20bonus%20depreciation",
+      "doi": "10.1108/afr-07-2015-0031",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "api": "dimensions",
+      "date_added": "2020-03-09 16:31:09"
+    }
+  },
+  {
+    "title": "Tax Reform and Farm Households",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.266294",
+      "doi": "10.22004/ag.econ.266294",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "api": "openaire",
+      "date_added": "2020-03-09 16:31:09"
+    }
+  },
+  {
+    "title": "Tax-Deferred Retirement Savings of Farm Households: An Empirical Investigation",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.105545",
+      "doi": "10.22004/ag.econ.105545",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "api": "openaire",
+      "date_added": "2020-03-09 16:31:09"
+    }
+  },
+  {
+    "title": "Technology Adoption and Technical Efficiency: Organic and Conventional Dairy Farms in the United States",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10.1093/ajae/aap018",
+      "doi": "10.1093/ajae/aap018",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "api": "openaire",
+      "date_added": "2020-03-09 16:31:09"
+    }
+  },
+  {
+    "title": "Technology Adoption, Management Practices, and Financial Performance of New and Beginning Farmers: Evidence from a National Survey",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.9982",
+      "doi": "10.22004/ag.econ.9982",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": "yes",
+      "api": "openaire",
+      "date_added": "2020-03-09 16:31:09"
+    }
+  }
+]

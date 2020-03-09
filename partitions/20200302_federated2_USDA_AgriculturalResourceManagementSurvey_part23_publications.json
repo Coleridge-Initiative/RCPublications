@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Quantifying the benefits associated with the use of alternative marketing arrangements by US farmers",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.1108/caer-10-2011-0147",
+      "api": "dimensions",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Quantifying%20the%20benefits%20associated%20with%20the%20use%20of%20alternative%20marketing%20arrangements%20by%20US%20farmers",
+      "valid": "yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-09 16:30:19"
+    }
+  },
+  {
+    "title": "Reporting and usability of ARMS income and balance sheet data",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "doi": "10.1108/00021461211250519",
+      "api": "dimensions",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Reporting%20and%20usability%20of%20ARMS%20income%20and%20balance%20sheet%20data",
+      "valid": "yes",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-09 16:30:19"
+    }
+  }
+]
