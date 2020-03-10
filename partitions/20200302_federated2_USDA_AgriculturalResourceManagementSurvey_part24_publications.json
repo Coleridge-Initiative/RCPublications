@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Revisiting the Impact of Bt Corn Adoption by U.S. Farmers",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "valid": "Yes",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Revisiting%20the%20Impact%20of%20Bt%20Corn%20Adoption%20by%20U.S.%20Farmers",
+      "doi": "10.1017/s1068280500001337",
+      "pdf": "https://app.dimensions.ai/details/publication/pub.1054921671?search_text=Revisiting%20the%20Impact%20of%20Bt%20Corn%20Adoption%20by%20U.S.%20Farmers&search_type=kws&search_field=full_search#readcube-epdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-10 11:55:53"
+    }
+  },
+  {
+    "title": "Risk attitudes and premiums of U.S. corn and soybean producers: an empirical investigation",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "valid": "Yes",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Risk%20attitudes%20and%20premiums%20of%20U.S.%20corn%20and%20soybean%20producers%3A%20an%20empirical%20investigation",
+      "doi": "10.1007/s00181-012-0580-6",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s00181-012-0580-6.pdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-10 11:55:53"
+    }
+  },
+  {
+    "title": "Rural Wealth Creation and Emerging Energy Industries: Lease and Royalty Payments to Farm Households and Businesses",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "valid": "Yes",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Rural%20Wealth%20Creation%20and%20Emerging%20Energy%20Industries%3A%20Lease%20and%20Royalty%20Payments%20to%20Farm%20Households%20and%20Businesses",
+      "doi": "10.2139/ssrn.2307667",
+      "pdf": "http://pdfs.semanticscholar.org/4732/f5d79776a9277ede963dc56d97f311696dd0.pdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-10 11:55:53"
+    }
+  },
+  {
+    "title": "Sampling error in US field crop unit process data for life cycle assessment",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "dimensions",
+      "valid": "Yes",
+      "url": "https://doi.org/10.1007/s11367-012-0454-3",
+      "doi": "10.1007/s11367-012-0454-3",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-10 11:55:53"
+    }
+  },
+  {
+    "title": "Scale Economies and Inefficiency of U.S. Dairy Farms",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "api": "openaire",
+      "valid": "Yes",
+      "url": "http://hdl.handle.net/10.1111/j.1467-8276.2009.01269.x",
+      "doi": "10.1111/j.1467-8276.2009.01269.x",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1467-8276.2009.01269.x",
+      "search_term": "Agricultural Resource Management Survey",
+      "date_added": "2020-03-10 11:55:53"
+    }
+  }
+]
