@@ -1,0 +1,141 @@
+[
+  {
+    "title": "The Adoption of Genetically Engineered Alfalfa, Canola and Sugarbeets in the United States",
+    "datasets": [
+      "dataset-870",
+      "dataset-881"
+    ],
+    "original": {
+      "pdf": "https://ageconsearch.umn.edu/record/262136/files/eib-163.pdf",
+      "url": "http://dx.doi.org/10.22004/ag.econ.262136",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.262136",
+      "api": "openaire",
+      "valid": 1,
+      "date_added": "2020-03-09 18:08:24"
+    }
+  },
+  {
+    "title": "The Disadoption of rbST and Its Economic Impact: A Switching Regression Approach",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1093/aepp/ppt016",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=The%20Disadoption%20of%20rbST%20and%20Its%20Economic%20Impact%3A%20A%20Switching%20Regression%20Approach",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.1093/aepp/ppt016",
+      "api": "dimensions",
+      "valid": 1,
+      "date_added": "2020-03-09 18:08:24"
+    }
+  },
+  {
+    "title": "The Dynamics of Wealth Concentration Among Farm Operator Households",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "pdf": "https://ageconsearch.umn.edu/record/31487/files/31010084.pdf",
+      "url": "http://dx.doi.org/10.22004/ag.econ.31487",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.31487",
+      "api": "openaire",
+      "valid": 1,
+      "date_added": "2020-03-09 18:08:24"
+    }
+  },
+  {
+    "title": "The economic impact of farmers' markets and a state level locally grown campaign",
+    "datasets": [
+      "dataset-870",
+      "dataset-069",
+      "dataset-881"
+    ],
+    "original": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0306919215000482/pdfft?md5=ef01ecc924d077613cca546f055779c9&pid=1-s2.0-S0306919215000482-main.pdf",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=The%20economic%20impact%20of%20farmers%E2%80%99%20markets%20and%20a%20state%20level%20locally%20grown%20campaign",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.1016/j.foodpol.2015.05.001",
+      "api": "dimensions",
+      "valid": 1,
+      "date_added": "2020-03-09 18:08:24"
+    }
+  },
+  {
+    "title": "The Economic Well-Being of Farm and Nonfarm Households: Evidence from Two National Surveys",
+    "datasets": [
+      "dataset-870",
+      "dataset-507"
+    ],
+    "original": {
+      "pdf": "https://ageconsearch.umn.edu/record/21401/files/sp06ka02.pdf",
+      "url": "http://dx.doi.org/10.22004/ag.econ.21401",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.21401",
+      "api": "openaire",
+      "valid": 1,
+      "date_added": "2020-03-09 18:08:24"
+    }
+  },
+  {
+    "title": "The Economics of Glyphosate Resistance Management in Corn and Soybean Production",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "pdf": "https://ageconsearch.umn.edu/record/205083/files/ERR184.pdf",
+      "url": "http://dx.doi.org/10.22004/ag.econ.205083",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.205083",
+      "api": "openaire",
+      "valid": 1,
+      "date_added": "2020-03-09 18:08:24"
+    }
+  },
+  {
+    "title": "The greenhouse gas benefits of corn ethanol - assessing recent evidence",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/17597269.2018.1546488?needAccess=true",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=The%20greenhouse%20gas%20benefits%20of%20corn%20ethanol%20%E2%80%93%20assessing%20recent%20evidence",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.1080/17597269.2018.1546488",
+      "api": "dimensions",
+      "valid": 1,
+      "date_added": "2020-03-09 18:08:24"
+    }
+  },
+  {
+    "title": "The Impact of Adoption of Genetically Modified Corn on the Off-Farm Labor Supply in the United States",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "pdf": "https://ageconsearch.umn.edu/record/46832/files/SAEA_Finalsubmission.pdf",
+      "url": "http://dx.doi.org/10.22004/ag.econ.46832",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.46832",
+      "api": "openaire",
+      "valid": 1,
+      "date_added": "2020-03-09 18:08:24"
+    }
+  },
+  {
+    "title": "The Impact of Decoupled Payments on the Cost of Operating Capital",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "pdf": "https://ageconsearch.umn.edu/record/49311/files/609480_Kropp_Whitaker_The%20Impact%20of%20Decoupled%20Payments%20on%20the%20Cost%20of%20Operating%20Capital.pdf",
+      "url": "http://dx.doi.org/10.22004/ag.econ.49311",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.49311",
+      "api": "openaire",
+      "valid": 1,
+      "date_added": "2020-03-09 18:08:24"
+    }
+  }
+]
