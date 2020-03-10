@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Sequential Adoption and Cost Savings from Precision Agriculture",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "valid": "yes",
+      "doi": "10.22004/ag.econ.230776",
+      "api": "openaire",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.230776",
+      "date_added": "2020-03-09 16:30:50"
+    }
+  },
+  {
+    "title": "Small U.S. Dairy Farms: Can They Compete?",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "valid": "yes",
+      "doi": "10.22004/ag.econ.52869",
+      "api": "openaire",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.52869",
+      "date_added": "2020-03-09 16:30:50"
+    }
+  },
+  {
+    "title": "Small U.S. Dairy Farms: Can They Compete? A Revisit",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "valid": "yes",
+      "doi": "10.22004/ag.econ.266535",
+      "api": "openaire",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.266535",
+      "date_added": "2020-03-09 16:30:50"
+    }
+  },
+  {
+    "title": "SOIL, NUTRIENT, AND WATER MANAGEMENT SYSTEMS USED IN U.S. CORN PRODUCTION",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "valid": "yes",
+      "doi": "10.22004/ag.econ.33618",
+      "api": "openaire",
+      "search_term": "Agricultural Resource Management Survey",
+      "url": "http://dx.doi.org/10.22004/ag.econ.33618",
+      "date_added": "2020-03-09 16:30:50"
+    }
+  }
+]
