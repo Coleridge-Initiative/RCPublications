@@ -1,0 +1,116 @@
+[
+  {
+    "title": "The profit impacts of risk management tool adoption",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.1108/00021461211222178",
+      "pdf": "https://www.emerald.com/insight/content/doi/10.1108/00021461211222178/full/pdf?title=the-profit-impacts-of-risk-management-tool-adoption",
+      "api": "dimensions",
+      "url": "https://www.emerald.com/insight/content/doi/10.1108/00021461211222178/full/html",
+      "date_added": "2020-03-10 12:39:40"
+    }
+  },
+  {
+    "title": "The Role of Goal Structure in Enterprise Selection in U.S. Agriculture",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.34965",
+      "pdf": "http://ageconsearch.umn.edu/record/34965/files/sp07mi04.pdf",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.34965",
+      "date_added": "2020-03-10 12:39:40"
+    }
+  },
+  {
+    "title": "The Role of Information and Prices in the Nitrogen Fertilizer Management Decision: New Evidence from the Agricultural Resource Management Survey",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.119180",
+      "pdf": "http://ageconsearch.umn.edu/record/119180/files/JARE_Dec2011__8_%20Williamson.pdf",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.119180",
+      "date_added": "2020-03-10 12:39:40"
+    }
+  },
+  {
+    "title": "The Role of Risk and Risk-Aversion in Adoption of Alternative Marketing Arrangements by the U.S. Farmers",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.168930",
+      "pdf": "https://ageconsearch.umn.edu/record/168930/files/AE_20131212.pdf",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.168930",
+      "date_added": "2020-03-10 12:39:40"
+    }
+  },
+  {
+    "title": "The Roles of Adoption and Behavior Change in Agricultural Policy",
+    "datasets": [
+      "dataset-870",
+      "dataset-879",
+      "dataset-881"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.1002/aepp.13009",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aepp.13009",
+      "api": "dimensions",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=The%20Roles%20of%20Adoption%20and%20Behavior%20Change%20in%20Agricultural%20Policy",
+      "date_added": "2020-03-10 12:39:40"
+    }
+  },
+  {
+    "title": "The U.S. Farm Lease-Debt Relationship: Evidence from a National Survey",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.170495",
+      "pdf": "https://ageconsearch.umn.edu/record/170495/files/Final%20Poster%20draft.pdf",
+      "api": "openaire",
+      "url": "http://dx.doi.org/10.22004/ag.econ.170495",
+      "date_added": "2020-03-10 12:39:40"
+    }
+  },
+  {
+    "title": "The Utility of Nonparametric Transformations for Imputation of Survey Data",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.2478/jos-2014-0043",
+      "pdf": "https://content.sciendo.com/downloadpdf/journals/jos/30/4/article-p675.xml",
+      "api": "openaire",
+      "url": "http://www.degruyter.com/view/j/jos.2014.30.issue-4/jos-2014-0043/jos-2014-0043.xml?format=INT",
+      "date_added": "2020-03-10 12:39:40"
+    }
+  },
+  {
+    "title": "The Varying Impacts of Agricultural Support Programs on U.S. Farm Household Consumption",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.1111/j.1467-8276.2009.01257.x",
+      "pdf": "https://academic.oup.com/ajae/article-pdf/91/3/569/204395/91-3-569.pdf",
+      "api": "openaire",
+      "url": "http://hdl.handle.net/10.1111/j.1467-8276.2009.01257.x",
+      "date_added": "2020-03-10 12:39:40"
+    }
+  }
+]

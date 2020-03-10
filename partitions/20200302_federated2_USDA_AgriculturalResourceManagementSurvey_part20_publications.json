@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Multiple Generation Farm Households: What Determines Primacy in Management?",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.56513",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.56513",
+      "api": "openaire",
+      "date_added": "2020-03-10 11:04:43"
+    }
+  },
+  {
+    "title": "Nature of the Farm: Revisited",
+    "datasets": [
+      "dataset-870",
+      "dataset-881"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Nature%20of%20the%20Farm%3A%20Revisited",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.1017/age.2016.32",
+      "api": "dimensions",
+      "date_added": "2020-03-10 11:04:43"
+    }
+  },
+  {
+    "title": "Net Effect of Education on Technology Adoption by U.S. Farmers",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.56450",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.56450",
+      "api": "openaire",
+      "date_added": "2020-03-10 11:04:43"
+    }
+  },
+  {
+    "title": "New versus old broiler housing technology: Which leads to greater profit?",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=New%20versus%20old%20broiler%20housing%20technology%3A%20Which%20leads%20to%20greater%20profit%3F",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.3382/japr/pfw047",
+      "api": "dimensions",
+      "date_added": "2020-03-10 11:04:43"
+    }
+  },
+  {
+    "title": "Nitrogen balance in Iowa and the implications of corn-stover harvesting",
+    "datasets": [
+      "dataset-870",
+      "dataset-907",
+      "dataset-902",
+      "dataset-680"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Nitrogen%20balance%20in%20Iowa%20and%20the%20implications%20of%20corn-stover%20harvesting",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.1016/j.agee.2013.10.013",
+      "api": "dimensions",
+      "date_added": "2020-03-10 11:04:43"
+    }
+  },
+  {
+    "title": "Nonresponse in Phase III of the Agricultural Resource Management Survey in Louisiana",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.234376",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.22004/ag.econ.234376",
+      "api": "openaire",
+      "date_added": "2020-03-10 11:04:43"
+    }
+  },
+  {
+    "title": "Off-Farm Labor Participation Decisions of Married Farm Couples and the Role of Government Payments",
+    "datasets": [
+      "dataset-870",
+      "dataset-657",
+      "dataset-750"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10.1111/j.1467-9353.2008.00406.x",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.1111/j.1467-9353.2008.00406.x",
+      "api": "openaire",
+      "date_added": "2020-03-10 11:04:43"
+    }
+  },
+  {
+    "title": "Offfarm employment and reasons for entering farming as determinants of production enterprise selection in US agriculture",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Off%E2%80%90farm%20employment%20and%20reasons%20for%20entering%20farming%20as%20determinants%20of%20production%20enterprise%20selection%20in%20US%20agriculture",
+      "search_term": "Agricultural Resource Management Survey",
+      "doi": "10.1111/j.1467-8489.2011.00542.x",
+      "api": "dimensions",
+      "date_added": "2020-03-10 11:04:43"
+    }
+  }
+]
