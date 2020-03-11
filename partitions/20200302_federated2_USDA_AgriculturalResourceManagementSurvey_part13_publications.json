@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Farm Commodity Payments and Imputation in the Agricultural Resource Management Survey",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/10.1093/ajae/aaq166",
+      "api": "openaire",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1093/ajae/aaq166",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": 1,
+      "doi": "10.1093/ajae/aaq166",
+      "date_added": "2020-03-11 16:03:51"
+    }
+  },
+  {
+    "title": "Farm Profits and Adoption of Precision Agriculture",
+    "datasets": [
+      "dataset-870",
+      "dataset-901"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.249773",
+      "api": "openaire",
+      "pdf": "https://www.ers.usda.gov/webdocs/publications/80326/err-217.pdf?v=0",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": 1,
+      "doi": "10.22004/ag.econ.249773",
+      "date_added": "2020-03-11 16:03:51"
+    }
+  },
+  {
+    "title": "Farm size and productivity growth in the United States Corn Belt",
+    "datasets": [
+      "dataset-870",
+      "dataset-881",
+      "dataset-345"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0306919218302471?via%3Dihub",
+      "api": "dimensions",
+      "pdf": "https://www.researchgate.net/publication/324069688_Farm_size_and_productivity_growth_in_the_United_States_Corn_Belt",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": 1,
+      "doi": "10.1016/j.foodpol.2018.03.017",
+      "date_added": "2020-03-11 16:03:51"
+    }
+  },
+  {
+    "title": "Farmer-Entrepreneurs, Agricultural Innovation, and Explosive Research and Development Cycles",
+    "datasets": [
+      "dataset-596"
+    ],
+    "original": {
+      "url": "https://www.mdpi.com/2076-3387/6/4/13",
+      "api": "dimensions",
+      "pdf": "https://pdfs.semanticscholar.org/d919/394c45ce06855f68aee9d692893fd4f60018.pdf?_ga=2.43956199.333436686.1583854786-1988941201.1583854786",
+      "search_term": "Agricultural Resource Management Survey",
+      "notes": "not use in ARMS",
+      "valid": 1,
+      "doi": "10.3390/admsci6040013",
+      "date_added": "2020-03-11 16:03:51"
+    }
+  },
+  {
+    "title": "Farmers' Participation in Agritourism: Does It Affect the Bottom Line?",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://www.cambridge.org/core/journals/agricultural-and-resource-economics-review/article/farmers-participation-in-agritourism-does-it-affect-the-bottom-line/1AD727A0B5A28AAE3CED6865A7845330",
+      "api": "dimensions",
+      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1AD727A0B5A28AAE3CED6865A7845330/S1068280500004949a.pdf/farmers_participation_in_agritourism_does_it_affect_the_bottom_line.pdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": 1,
+      "doi": "10.1017/s1068280500004949",
+      "date_added": "2020-03-11 16:03:51"
+    }
+  },
+  {
+    "title": "Farming and the Internet: Reasons for Non-Use",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.97008",
+      "api": "openaire",
+      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E3CCB0D7C7551F868371AA5B27531BA2/S1068280500007528a.pdf/farming_and_the_internet_reasons_for_nonuse.pdf",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": 1,
+      "doi": "10.22004/ag.econ.97008",
+      "date_added": "2020-03-11 16:03:51"
+    }
+  },
+  {
+    "title": "Financial Management and Portfolio Analysis for U.S. Farm and Nonfarm Households",
+    "datasets": [
+      "dataset-870",
+      "dataset-507"
+    ],
+    "original": {
+      "url": "http://dx.doi.org/10.22004/ag.econ.48143",
+      "api": "openaire",
+      "search_term": "Agricultural Resource Management Survey",
+      "notes": "no open link for pdf",
+      "valid": 1,
+      "doi": "10.22004/ag.econ.48143",
+      "date_added": "2020-03-11 16:03:51"
+    }
+  },
+  {
+    "title": "Financial performance of small farm business households: the role of internet",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://www.emerald.com/insight/content/doi/10.1108/CAER-12-2014-0147/full/html",
+      "api": "dimensions",
+      "pdf": "https://www.emerald.com/insight/content/doi/10.1108/CAER-12-2014-0147/full/pdf?title=financial-performance-of-small-farm-business-households-the-role-of-internet",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": 1,
+      "doi": "10.1108/caer-12-2014-0147",
+      "date_added": "2020-03-11 16:03:51"
+    }
+  },
+  {
+    "title": "Financial ratio analysis using ARMS data",
+    "datasets": [
+      "dataset-870"
+    ],
+    "original": {
+      "url": "https://www.emerald.com/insight/content/doi/10.1108/00021461211250492/full/html",
+      "api": "dimensions",
+      "pdf": "https://www.emerald.com/insight/content/doi/10.1108/00021461211250492/full/pdf?title=financial-ratio-analysis-using-arms-data",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": 1,
+      "doi": "10.1108/00021461211250492",
+      "date_added": "2020-03-11 16:03:51"
+    }
+  },
+  {
+    "title": "Financial stress and farm bankruptcies in US agriculture",
+    "datasets": [
+      "dataset-870",
+      "dataset-932",
+      "dataset-933",
+      "dataset-934",
+      "dataset-750",
+      "dataset-576"
+    ],
+    "original": {
+      "url": "https://www.emerald.com/insight/content/doi/10.1108/AFR-05-2017-0030/full/html",
+      "api": "dimensions",
+      "pdf": "https://www.emerald.com/insight/content/doi/10.1108/AFR-05-2017-0030/full/pdf?title=financial-stress-and-farm-bankruptcies-in-us-agriculture",
+      "search_term": "Agricultural Resource Management Survey",
+      "valid": 1,
+      "doi": "10.1108/afr-05-2017-0030",
+      "date_added": "2020-03-11 16:03:51"
+    }
+  }
+]
