@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Latinos in Science",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://journals.sagepub.com/doi/10.1177/1538192707306552",
+      "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/1538192707306552",
+      "doi": "10.1177/1538192707306552",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  },
+  {
+    "title": "More Than a Pipeline Problem: Labor Supply Constraints and Gender Stratification Across Academic Science Disciplines",
+    "datasets": [
+      "dataset-370",
+      "dataset-371"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://link.springer.com/article/10.1023%2FA%3A1020988531713",
+      "pdf": "https://link.springer.com/content/pdf/10.1023/A:1020988531713.pdf",
+      "doi": "10.1023/a:1020988531713",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  },
+  {
+    "title": "Naturalization and the productivity of foreign-born doctorates",
+    "datasets": [
+      "dataset-370",
+      "dataset-371"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://link.springer.com/article/10.1007%2Fs10109-019-00301-6#Sec5",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s10109-019-00301-6.pdf",
+      "doi": "10.1007/s10109-019-00301-6",
+      "search_term": "NSF Survey of Doctorate Recipients",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  },
+  {
+    "title": "NIH Behavioral and Social Sciences Research Support: 1980-2016",
+    "datasets": [
+      "dataset-370",
+      "dataset-957"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://psycnet.apa.org/fulltext/2017-51706-008.html",
+      "pdf": "https://psycnet.apa.org/fulltext/2017-51706-008.pdf",
+      "doi": "10.1037/amp0000222",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  },
+  {
+    "title": "No progress on diversity in 40 years",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://www.nature.com/articles/s41561-018-0116-6",
+      "pdf": "https://www.nature.com/articles/s41561-018-0116-6.pdf",
+      "doi": "10.1038/s41561-018-0116-6",
+      "search_term": "NSF Survey of Doctorate Recipients",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  },
+  {
+    "title": "Not Equal for All: Gender and Race Differences in Salary for Doctoral Degree Recipients",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://link.springer.com/article/10.1007%2Fs11162-015-9369-8#Sec6",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s11162-015-9369-8.pdf",
+      "doi": "10.1007/s11162-015-9369-8",
+      "search_term": "NSF Survey of Doctorate Recipients",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  },
+  {
+    "title": "On the future of anthropology: Fundraising, the job market and the corporate turn",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/1463499613492089#_i16",
+      "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/1463499613492089",
+      "doi": "10.1177/1463499613492089",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  },
+  {
+    "title": "Onto, Up, Off the Academic Faculty Ladder: The Gendered Effects of Family on Career Transitions for a Cohort of Social Science Ph.D.s",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://muse.jhu.edu/article/439956",
+      "pdf": "https://muse.jhu.edu/article/439956/pdf",
+      "doi": "10.1353/rhe.2011.0017",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  },
+  {
+    "title": "ORGANIZATIONAL VARIATIONS IN WOMEN SCIENTISTS' REPRESENTATION IN ACADEMIA",
+    "datasets": [
+      "dataset-370",
+      "dataset-371",
+      "dataset-493",
+      "dataset-960"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=ORGANIZATIONAL%20VARIATIONS%20IN%20WOMEN%20SCIENTISTS%27%20REPRESENTATION%20IN%20ACADEMIA",
+      "pdf": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.496.1856&rep=rep1&type=pdf",
+      "doi": "10.1615/jwomenminorscieneng.v4.i1.40",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  },
+  {
+    "title": "Outcome Evaluation of the National Cancer Institute Career Development Awards Program",
+    "datasets": [
+      "dataset-963",
+      "dataset-370",
+      "dataset-935",
+      "dataset-965",
+      "dataset-966"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://link.springer.com/article/10.1007%2Fs13187-012-0444-y#rightslink",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s13187-012-0444-y.pdf",
+      "doi": "10.1007/s13187-012-0444-y",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  },
+  {
+    "title": "Permanent Visas and Temporary Jobs: Evidence from Postdoctoral Participation of Foreign PhDs in the United States",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "valid": 1,
+      "api": "dimensions",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/pam.21639",
+      "pdf": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pam.21639",
+      "doi": "10.1002/pam.21639",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "date_added": "2020-03-13 16:16:26"
+    }
+  }
+]
