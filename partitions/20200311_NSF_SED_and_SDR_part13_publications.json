@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Trouble in Paradise: Problems in Academic Research Co-authoring",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "search_term": "NSF Survey of Earned Doctorates",
+      "url": "https://link.springer.com/article/10.1007/s11948-015-9722-5",
+      "api": "dimensions",
+      "doi": "10.1007/s11948-015-9722-5",
+      "date_added": "2020-03-13 13:50:40"
+    }
+  },
+  {
+    "title": "Understanding the (Sub)Baccalaureate Origins of Latina/o Doctorates in Education, Humanities, and Social Science Fields",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "search_term": "NSF Survey of Earned Doctorates",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/0739986318765639",
+      "api": "dimensions",
+      "doi": "10.1177/0739986318765639",
+      "date_added": "2020-03-13 13:50:40"
+    }
+  },
+  {
+    "title": "Wait time for permanent residency and the retention of immigrant doctoral recipients in the U.S.",
+    "datasets": [
+      "dataset-370",
+      "dataset-371"
+    ],
+    "original": {
+      "search_term": "NSF Survey of Doctorate Recipients",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0313592617301182",
+      "api": "dimensions",
+      "doi": "10.1016/j.eap.2017.11.002",
+      "date_added": "2020-03-13 13:50:40"
+    }
+  },
+  {
+    "title": "What's Money Got to Do with It? An Examination of the Relationships between Sources of Financial Support and the Post-Graduation Career Plans of Latina and Latino Doctoral Students in the Social Sciences",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "search_term": "NSF Survey of Earned Doctorates",
+      "url": "https://muse.jhu.edu/article/733638",
+      "api": "dimensions",
+      "doi": "10.1353/rhe.2019.0093",
+      "date_added": "2020-03-13 13:50:40"
+    }
+  },
+  {
+    "title": "Where Do All the Postdocs Go?",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "search_term": "NSF Survey of Earned Doctorates",
+      "url": "https://www.liebertpub.com/doi/full/10.1089/dna.2011.2506",
+      "api": "dimensions",
+      "doi": "10.1089/dna.2011.2506",
+      "date_added": "2020-03-13 13:50:40"
+    }
+  },
+  {
+    "title": "Who Climbs the Academic Ladder? Race and Gender Stratification in a World of Whiteness",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "search_term": "NSF Survey of Earned Doctorates",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/0034644618813667",
+      "api": "dimensions",
+      "doi": "10.1177/0034644618813667",
+      "date_added": "2020-03-13 13:50:40"
+    }
+  },
+  {
+    "title": "Why are some foreign-born workers more entrepreneurial than others?",
+    "datasets": [
+      "dataset-371",
+      "dataset-454",
+      "dataset-951"
+    ],
+    "original": {
+      "search_term": "NSF Survey of Doctorate Recipients",
+      "url": "https://link.springer.com/article/10.1007/s10961-015-9438-3",
+      "api": "dimensions",
+      "doi": "10.1007/s10961-015-9438-3",
+      "date_added": "2020-03-13 13:50:40"
+    }
+  },
+  {
+    "title": "Women in Academic Science: Experimental Findings From Hiring Studies",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "search_term": "NSF Survey of Doctorate Recipients",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00461520.2017.1396462",
+      "api": "dimensions",
+      "doi": "10.1080/00461520.2017.1396462",
+      "date_added": "2020-03-13 13:50:40"
+    }
+  }
+]

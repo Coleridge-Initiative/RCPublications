@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Prominent but Less Productive: The Impact of Interdisciplinarity on Scientists' Research",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/0001839216665364",
+      "doi": "10.1177/0001839216665364",
+      "search_term": "NSF Survey of Doctorate Recipients",
+      "api": "dimensions",
+      "date_added": "2020-03-13 11:43:26"
+    }
+  },
+  {
+    "title": "Recent reports on Earth and space science doctorates",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2003EO030003",
+      "doi": "10.1029/2003eo030003",
+      "pdf": "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2003EO030003",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "api": "dimensions",
+      "date_added": "2020-03-13 11:43:26"
+    }
+  },
+  {
+    "title": "Recent trends in the U.S. Behavioral and Social Sciences Research (BSSR) workforce",
+    "datasets": [
+      "dataset-371"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5293198/",
+      "doi": "10.1371/journal.pone.0170887",
+      "search_term": "NSF Survey of Doctorate Recipients",
+      "api": "dimensions",
+      "date_added": "2020-03-13 11:43:26"
+    }
+  },
+  {
+    "title": "Restructuring Research: Communication Costs and the Democratization of University Innovation",
+    "datasets": [
+      "dataset-370",
+      "dataset-943",
+      "dataset-955",
+      "dataset-956"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Restructuring%20Research%3A%20Communication%20Costs%20and%20the%20Democratization%20of%20University%20Innovation",
+      "doi": "10.2139/ssrn.877926",
+      "pdf": "https://www.nber.org/papers/w12812.pdf",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "api": "dimensions",
+      "date_added": "2020-03-13 11:43:26"
+    }
+  },
+  {
+    "title": "REVISITING GLADWELL'S HOCKEY PLAYERS: INFLUENCE OF RELATIVE AGE EFFECTS UPON EARNING THE PHD",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=REVISITING%20GLADWELL%27S%20HOCKEY%20PLAYERS%3A%20INFLUENCE%20OF%20RELATIVE%20AGE%20EFFECTS%20UPON%20EARNING%20THE%20PHD",
+      "doi": "10.1111/coep.12114",
+      "pdf": "https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1231&context=workingpapers",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "api": "dimensions",
+      "date_added": "2020-03-13 11:43:26"
+    }
+  },
+  {
+    "title": "Skilled Immigration and Innovation: Evidence from Enrolment Fluctuations in US Doctoral Programmes*",
+    "datasets": [
+      "dataset-370",
+      "dataset-955"
+    ],
+    "original": {
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0297.2012.02543.x",
+      "doi": "10.1111/j.1468-0297.2012.02543.x",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "api": "dimensions",
+      "date_added": "2020-03-13 11:43:26"
+    }
+  },
+  {
+    "title": "Social dynamics of research collaboration: norms, practices, and ethical issues in determining co-authorship rights",
+    "datasets": [
+      "dataset-370",
+      "dataset-371"
+    ],
+    "original": {
+      "url": "https://link.springer.com/article/10.1007/s11192-014-1391-7",
+      "doi": "10.1007/s11192-014-1391-7",
+      "search_term": "NSF Survey of Doctorate Recipients",
+      "api": "dimensions",
+      "date_added": "2020-03-13 11:43:26"
+    }
+  },
+  {
+    "title": "Surname Sampling",
+    "datasets": [
+      "dataset-370"
+    ],
+    "original": {
+      "url": "https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Surname%20Sampling",
+      "doi": "10.1177/1525822x13493234",
+      "search_term": "NSF Survey of Earned Doctorates",
+      "api": "dimensions",
+      "date_added": "2020-03-13 11:43:26"
+    }
+  }
+]
