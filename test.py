@@ -9,6 +9,7 @@ import json
 import os
 import pprint
 import sys
+import traceback
 import unittest
 
 
@@ -49,10 +50,16 @@ class TestVerifyPublications (unittest.TestCase):
         count = 0
 
         for partition in PARTITIONS:
-            with codecs.open(partition, "r", encoding="utf8") as f:
-                #print("loading: {}".format(partition))
-                self.publications[partition] = json.load(f)
-                count += len(self.publications[partition])
+            try:
+                with codecs.open(partition, "r", encoding="utf8") as f:
+                    #print("loading: {}".format(partition))
+                    self.publications[partition] = json.load(f)
+                    count += len(self.publications[partition])
+            except Exception as err:
+                #traceback.print_exc(limit=1, file=sys.stdout)
+                print(err)
+                print(partition)
+                self.fail(err)
 
         # store this dictionary in a global variable to prevent
         # reloading every partition file for every unit test
