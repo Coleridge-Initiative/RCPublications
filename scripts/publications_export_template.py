@@ -1,12 +1,12 @@
 import sys
 import os, errno
-import csv
 import datetime
 import json
 import pandas as pd
 import re
 import unicodedata
 from pathlib import Path
+from tqdm import tqdm   # type: ignore
 
 # TODO maybe move this function to a Utils class? So it can managed from one location 
 def scrub_unicode (text):
@@ -58,7 +58,7 @@ def create_pub_dict(linkages_dataframe, datasets):
     original_metadata_cols = list(set(linkages_dataframe.columns.values.tolist()) - set(pub_metadata_fields) - set(['dataset']))
     
     pub_dict_list = []
-    for i, r in linkages_dataframe.iterrows():
+    for i, r in tqdm(linkages_dataframe.iterrows(), ascii=True, desc="Processing linkages"):
         r['title'] = scrub_unicode(r['title'])
         ds_id_list = [f for f in [d.strip() for d in r['dataset'].split(",")] if f not in [""," "]]
         for ds in ds_id_list:
@@ -76,7 +76,7 @@ def create_pub_dict(linkages_dataframe, datasets):
         pub_dict_list.append(pub_dict)
     return pub_dict_list
 
-def export(rcm_subfolder, file_name,partition_name = None): 
+def export_default_locations(rcm_subfolder, file_name, partition_name = None):
 
     ## TODO: these paths should be refactored out into a config file
     curr_dir = Path(__file__).parent
@@ -85,19 +85,31 @@ def export(rcm_subfolder, file_name,partition_name = None):
     partitions_path = curr_dir / '..' / '..' / 'RCPublications' / 'partitions'
 
     linkages_path = parent_folder / rcm_subfolder / file_name
-    if not linkages_path.is_file():
-        raise FileNotFoundError(errno.ENOENT, os.strerror(errno.ENOENT), linkages_path)
-    else:
-        print("Exporting File: ", linkages_path)
 
-    linkages_csv = pd.read_csv(linkages_path, encoding='utf-8')
+    if not partition_name:
+        if len(rcm_subfolder)>3:
+            partition_name = (rcm_subfolder + '_publications.json') # for backwards compatibility
+        else:
+            partition_name = (os.path.splitext(file_name)[0] + '_publications.json')
+
+    export(linkages_path, datasets_file_path, partitions_path, partition_name)
+
+
+def export(origin_linkages_file_path, datasets_file_path, destination_path, output_file_name):
+
+    if not Path(origin_linkages_file_path).is_file():
+        raise FileNotFoundError(errno.ENOENT, os.strerror(errno.ENOENT), origin_linkages_file_path)
+    else:
+        print("Exporting File: ", origin_linkages_file_path)
+
+    linkages_csv = pd.read_csv(origin_linkages_file_path, encoding='utf-8')
     print("Linkages Entries Found: {}".format(len(linkages_csv)))
 
     # Cleaning the Dataframe
     linkages_csv = linkages_csv.loc[pd.notnull(linkages_csv.dataset)].drop_duplicates()
     linkages_csv = linkages_csv.loc[pd.notnull(linkages_csv.title)].drop_duplicates()
     linkages_csv['title'] = linkages_csv['title'].apply(scrub_unicode)
-    
+
     # Check for invalid values
     check_linkages(linkages_csv)
 
@@ -107,25 +119,19 @@ def export(rcm_subfolder, file_name,partition_name = None):
 
     linkage_list = create_pub_dict(linkages_csv, datasets)
 
-    if partition_name:
-        if not partition_name.endswith('.json'):
-            raise ValueError("Your file name for the partition must end with '.json'")
-        elif partition_name.endswith('.json'):
-            json_pub_path = partitions_path / (partition_name)
-        
-            print("Publication File: ", json_pub_path)
 
-            with open(json_pub_path, 'w', encoding="utf-8") as outfile:
-                json.dump(linkage_list, outfile, indent=2, ensure_ascii=False)
-    
-    elif not partition_name:
-        json_pub_path = partitions_path / (rcm_subfolder + '_publications.json')
+    if not output_file_name.endswith('.json'):
+        raise ValueError("Your file name for the partition must end with '.json'")
+    elif output_file_name.endswith('.json'):
+        json_pub_path = Path(destination_path) / Path((output_file_name))
+
         print("Publication File: ", json_pub_path)
 
         with open(json_pub_path, 'w', encoding="utf-8") as outfile:
             json.dump(linkage_list, outfile, indent=2, ensure_ascii=False)
-    
+
     print("Done publishing.")
+
 
 if __name__ == "__main__":
     """
@@ -141,11 +147,11 @@ if __name__ == "__main__":
     if len(sys.argv) == 3:
         rcm_subfolder = sys.argv[1]
         file_name = sys.argv[2]
-        export(rcm_subfolder, file_name)
+        export_default_locations(rcm_subfolder, file_name)
     elif len(sys.argv) == 4:
         rcm_subfolder = sys.argv[1]
         file_name = sys.argv[2]
         partition_name = sys.argv[3]
-        export(rcm_subfolder, file_name, partition_name)
+        export_default_locations(rcm_subfolder, file_name, partition_name)
     else:
         raise ValueError("Wrong number of arguments passed in.")
