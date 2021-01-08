@@ -53,7 +53,7 @@ Finally, your CSV file should have the minimum required fields:
 
   * `title` -- title of the publication
   * `dataset` -- a list of links from <https://github.com/NYU-CI/RCDatasets/datasets.json>
-  * `original` -- full metadata extracted from the CSV
+  *  other metadata given such as `doi`. All these files will be stored as a value of the output partition's key `original`
 
 Remove any entries that don't have these fields.
 
